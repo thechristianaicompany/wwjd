@@ -1,0 +1,7 @@
+packages:
+  - corpus
+  - engine
+  - selfhost
+allowBuilds:
+  esbuild: true
+  workerd: true

@@ -1,0 +1,41 @@
+{
+  "est_tokens": 580,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 4:1-11",
+      "text": "Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. When he had fasted forty days and forty nights, he was hungry afterward. The tempter came and said to him, “If you are the Son of God, command that these stones become bread.” But he answered, “It is written, ‘Man shall not live by bread alone, but by every word that proceeds out of God’s mouth.’” Then the devil took him into the holy city. He set him on the pinnacle of the temple, and said to him, “If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels concerning you,’ and, ‘On their hands they will bear you up, so that you don’t dash your foot against a stone.’” Jesus said to him, “Again, it is written, ‘You shall not test the Lord, your God.’” Again, the devil took him to an exceedingly high mountain, and showed him all the kingdoms of the world and their glory. He said to him, “I will give you all of these things, if you will fall down and worship me.” Then Jesus said to him, “Get behind me, Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’” Then the devil left him, and behold, angels came and served him."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 26:41",
+      "text": "Watch and pray, that you don’t enter into temptation. The spirit indeed is willing, but the flesh is weak.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Corinthians 10:13",
+      "text": "No temptation has taken you except what is common to man. God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape, that you may be able to endure it."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 1:13-15",
+      "text": "Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one. But each one is tempted when he is drawn away by his own lust and enticed. Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death."
+    },
+    {
+      "kind": "nt",
+      "ref": "Hebrews 4:15",
+      "text": "For we don’t have a high priest who can’t be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 4:7",
+      "text": "Be subject therefore to God. Resist the devil, and he will flee from you."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Peter 5:8-9",
+      "text": "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour. Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings."
+    }
+  ],
+  "topic": "temptation"
+}

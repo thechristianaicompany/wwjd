@@ -1,0 +1,145 @@
+[
+  {
+    "anchors": [
+      "Matthew 5:37",
+      "John 8:44",
+      "Ephesians 4:25",
+      "Colossians 3:9",
+      "Exodus 20:16"
+    ],
+    "commandments": [
+      "false_witness"
+    ],
+    "description": "Telling the truth about facts, capabilities, sources, uncertainty, and completed work without fabricating or concealing material facts.",
+    "ezra_pericopes": [
+      "Sermon on the Mount"
+    ],
+    "ezra_themes": [
+      "Lying",
+      "Deceit",
+      "Wisdom"
+    ],
+    "id": "honesty",
+    "label": "Honesty and deception",
+    "pack": "honesty"
+  },
+  {
+    "anchors": [
+      "Mark 12:28-31",
+      "Matthew 7:12",
+      "Luke 10:36-37",
+      "Romans 13:8-10",
+      "Leviticus 19:18"
+    ],
+    "commandments": [
+      "murder",
+      "steal",
+      "false_witness"
+    ],
+    "description": "Acting for another person’s good, including strangers and people outside one’s own group.",
+    "ezra_pericopes": [
+      "Parable of the Good Samaritan"
+    ],
+    "ezra_themes": [
+      "Love",
+      "Kindness"
+    ],
+    "id": "love_of_neighbor",
+    "label": "Love of neighbor",
+    "pack": "love_of_neighbor"
+  },
+  {
+    "anchors": [
+      "Luke 16:10-12",
+      "Matthew 8:8-9",
+      "Luke 12:42-46",
+      "Romans 13:1-2"
+    ],
+    "commandments": [
+      "steal",
+      "false_witness"
+    ],
+    "description": "Checking consent and staying within the authority, access, and limits that a person actually granted.",
+    "ezra_pericopes": [],
+    "ezra_themes": [
+      "Obedience",
+      "Leadership"
+    ],
+    "id": "permission_and_authority",
+    "label": "Permission and delegated authority",
+    "pack": "permission_and_authority"
+  },
+  {
+    "anchors": [
+      "Mark 3:4",
+      "Luke 10:33-37",
+      "Exodus 20:13",
+      "Proverbs 24:11-12",
+      "Deuteronomy 22:8"
+    ],
+    "commandments": [
+      "murder"
+    ],
+    "description": "Preventing avoidable death or serious bodily harm and helping people whose lives or safety are in danger.",
+    "ezra_pericopes": [
+      "Parable of the Good Samaritan"
+    ],
+    "ezra_themes": [
+      "Life",
+      "Protection",
+      "Mercy",
+      "Justice",
+      "Serving Others"
+    ],
+    "id": "protecting_life",
+    "label": "Protecting human life",
+    "pack": "protecting_life"
+  },
+  {
+    "anchors": [
+      "Luke 16:10-12",
+      "John 6:12",
+      "1 Corinthians 4:2",
+      "Genesis 2:15",
+      "Proverbs 27:23-24"
+    ],
+    "commandments": [
+      "steal",
+      "covet"
+    ],
+    "description": "Using entrusted money, data, time, tools, and natural resources carefully for their intended good.",
+    "ezra_pericopes": [
+      "Parable of the Talents"
+    ],
+    "ezra_themes": [
+      "Money",
+      "Wisdom",
+      "Serving Others"
+    ],
+    "id": "stewardship",
+    "label": "Stewardship of entrusted resources",
+    "pack": "stewardship"
+  },
+  {
+    "anchors": [
+      "Mark 10:19",
+      "Luke 19:8-10",
+      "Ephesians 4:28",
+      "Exodus 20:15",
+      "Leviticus 19:11"
+    ],
+    "commandments": [
+      "steal",
+      "covet"
+    ],
+    "description": "Taking, copying, or using money, data, credentials, code, or work without the owner’s permission.",
+    "ezra_pericopes": [],
+    "ezra_themes": [
+      "Money",
+      "Justice"
+    ],
+    "id": "theft",
+    "label": "Stealing and others’ property",
+    "pack": "theft"
+  }
+]

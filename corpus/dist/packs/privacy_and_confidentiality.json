@@ -1,0 +1,41 @@
+{
+  "est_tokens": 204,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 18:15",
+      "text": "“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 1:19",
+      "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger;"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 11:13",
+      "text": "One who brings gossip betrays a confidence, but one who is of a trustworthy spirit is one who keeps a secret."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 25:9-10",
+      "text": "Debate your case with your neighbor, and don’t betray the confidence of another, lest one who hears it put you to shame, and your bad reputation never depart."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 20:19",
+      "text": "He who goes about as a tale-bearer reveals secrets; therefore don’t keep company with him who opens wide his lips."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 10:19",
+      "text": "In the multitude of words there is no lack of disobedience, but he who restrains his lips does wisely."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 17:27",
+      "text": "He who spares his words has knowledge. He who is even tempered is a man of understanding."
+    }
+  ],
+  "topic": "privacy_and_confidentiality"
+}

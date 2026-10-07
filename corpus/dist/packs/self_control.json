@@ -1,0 +1,46 @@
+{
+  "est_tokens": 409,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 5:29-30",
+      "text": "If your right eye causes you to stumble, pluck it out and throw it away from you. For it is more profitable for you that one of your members should perish than for your whole body to be cast into Gehenna. If your right hand causes you to stumble, cut it off, and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 21:34",
+      "text": "“So be careful, or your hearts will be loaded down with carousing, drunkenness, and cares of this life, and that day will come on you suddenly."
+    },
+    {
+      "kind": "nt",
+      "ref": "Galatians 5:22-23",
+      "text": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. Against such things there is no law."
+    },
+    {
+      "kind": "nt",
+      "ref": "Titus 2:11-12",
+      "text": "For the grace of God has appeared, bringing salvation to all men, instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age;"
+    },
+    {
+      "kind": "nt",
+      "ref": "James 1:19-20",
+      "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; for the anger of man doesn’t produce the righteousness of God."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Corinthians 9:25-27",
+      "text": "Every man who strives in the games exercises self-control in all things. Now they do it to receive a corruptible crown, but we an incorruptible. I therefore run like that, not aimlessly. I fight like that, not beating the air, but I beat my body and bring it into submission, lest by any means, after I have preached to others, I myself should be disqualified."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 25:28",
+      "text": "Like a city that is broken down and without walls is a man whose spirit is without restraint."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 16:32",
+      "text": "One who is slow to anger is better than the mighty; one who rules his spirit, than he who takes a city."
+    }
+  ],
+  "topic": "self_control"
+}

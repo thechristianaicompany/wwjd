@@ -1,0 +1,46 @@
+{
+  "est_tokens": 333,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 9:13",
+      "text": "But you go and learn what this means: ‘I desire mercy, and not sacrifice,’ for I came not to call the righteous, but sinners to repentance.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 12:7",
+      "text": "But if you had known what this means, ‘I desire mercy, and not sacrifice,’ you wouldn’t have condemned the guiltless."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "John 8:7-11",
+      "text": "But when they continued asking him, he looked up and said to them, “He who is without sin among you, let him throw the first stone at her.” Again he stooped down and wrote on the ground with his finger. They, when they heard it, being convicted by their conscience, went out one by one, beginning from the oldest, even to the last. Jesus was left alone with the woman where she was, in the middle. Jesus, standing up, saw her and said, “Woman, where are your accusers? Did no one condemn you?” She said, “No one, Lord.” Jesus said, “Neither do I condemn you. Go your way. From now on, sin no more.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 6:36",
+      "text": "“Therefore be merciful, even as your Father is also merciful."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 2:13",
+      "text": "For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment."
+    },
+    {
+      "kind": "ot",
+      "ref": "Micah 6:8",
+      "text": "He has shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 19:11",
+      "text": "The discretion of a man makes him slow to anger. It is his glory to overlook an offense."
+    },
+    {
+      "kind": "ot",
+      "ref": "Hosea 6:6",
+      "text": "For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
+    }
+  ],
+  "topic": "mercy"
+}

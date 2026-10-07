@@ -1,0 +1,10 @@
+export const ENGINE_VERSION = '1.0.1';
+export { decide } from './decide.ts';
+export { createDecisionsClient } from './client.ts';
+export { createReplayClient } from './replay.ts';
+export { EngineError, InputTooLargeError } from './errors.ts';
+export { estimateTokens, creditsFor } from './tokens.ts';
+export { synthesize } from './synthesize.ts';
+export { PROMPT_SETS, DEFAULT_PROMPT_SET_ID } from '../prompts/index.ts';
+export type * from './types.ts';
+export type { ReplayEntry, ReplayDecisionsClient } from './replay.ts';

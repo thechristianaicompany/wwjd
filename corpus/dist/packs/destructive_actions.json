@@ -1,0 +1,46 @@
+{
+  "est_tokens": 418,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "John 6:12",
+      "text": "When they were filled, he said to his disciples, “Gather up the broken pieces which are left over, that nothing be lost.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 14:28-32",
+      "text": "For which of you, desiring to build a tower, doesn’t first sit down and count the cost, to see if he has enough to complete it? Or perhaps, when he has laid a foundation and isn’t able to finish, everyone who sees begins to mock him, saying, ‘This man began to build and wasn’t able to finish.’ Or what king, as he goes to encounter another king in war, will not sit down first and consider whether he is able with ten thousand to meet him who comes against him with twenty thousand? Or else, while the other is yet a great way off, he sends an envoy and asks for conditions of peace."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 1:19",
+      "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger;"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 14:15-16",
+      "text": "A simple man believes everything, but the prudent man carefully considers his ways. A wise man fears and shuns evil, but the fool is hot headed and reckless."
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 20:19",
+      "text": "When you shall besiege a city a long time, in making war against it to take it, you shall not destroy its trees by wielding an ax against them; for you may eat of them. You shall not cut them down, for is the tree of the field man, that it should be besieged by you?"
+    },
+    {
+      "kind": "ot",
+      "ref": "Ecclesiastes 3:1-3",
+      "text": "For everything there is a season, and a time for every purpose under heaven: a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted; a time to kill, and a time to heal; a time to break down, and a time to build up;"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 22:3",
+      "text": "A prudent man sees danger and hides himself; but the simple pass on, and suffer for it."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 15:22",
+      "text": "Where there is no counsel, plans fail; but in a multitude of counselors they are established."
+    }
+  ],
+  "topic": "destructive_actions"
+}

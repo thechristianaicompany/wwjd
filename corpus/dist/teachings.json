@@ -1,0 +1,835 @@
+[
+  {
+    "description": "Resolving anger, contempt and disputes promptly before they develop into deeper injury or hostile action.",
+    "est_tokens": 232,
+    "id": "anger_and_reconciliation",
+    "name": "Anger and reconciliation",
+    "ref": "Matthew 5:21-26",
+    "topics": [
+      "anger",
+      "violence",
+      "peacemaking",
+      "restitution_and_repair"
+    ]
+  },
+  {
+    "description": "Resisting anxious accumulation and attending to present responsibilities while trusting God's care for basic needs.",
+    "est_tokens": 311,
+    "id": "anxiety_and_provision",
+    "name": "Anxiety and provision",
+    "ref": "Matthew 6:25-34",
+    "topics": [
+      "greed",
+      "stewardship",
+      "counsel_and_uncertainty",
+      "reverence_for_god"
+    ]
+  },
+  {
+    "description": "Seeking help persistently and responding to another person's genuine need with what is good for them.",
+    "est_tokens": 121,
+    "id": "ask_seek_knock",
+    "name": "Ask, seek and knock",
+    "ref": "Matthew 7:7-11",
+    "topics": [
+      "counsel_and_uncertainty",
+      "serving_others",
+      "generosity",
+      "family_and_parents"
+    ]
+  },
+  {
+    "description": "Treating the meek, grieving, merciful, persecuted and peacemakers as people to honor rather than exploit or dismiss.",
+    "est_tokens": 240,
+    "id": "beatitudes",
+    "name": "The Beatitudes",
+    "ref": "Matthew 5:1-12",
+    "topics": [
+      "humility",
+      "care_for_vulnerable",
+      "mercy",
+      "peacemaking"
+    ]
+  },
+  {
+    "description": "Confronting the conversion of a place devoted to God into a marketplace and examining the authority claimed for that intervention.",
+    "est_tokens": 250,
+    "id": "cleansing_of_the_temple",
+    "name": "Cleansing of the Temple",
+    "ref": "John 2:13-22",
+    "topics": [
+      "reverence_for_god",
+      "greed",
+      "permission_and_authority",
+      "justice"
+    ]
+  },
+  {
+    "description": "Rejecting religious or procedural excuses that cancel a person's responsibility to support and honor their parents.",
+    "est_tokens": 408,
+    "id": "corban_and_parents",
+    "name": "Tradition and care for parents",
+    "ref": "Mark 7:1-13",
+    "topics": [
+      "family_and_parents",
+      "honesty",
+      "manipulation",
+      "reverence_for_god"
+    ]
+  },
+  {
+    "description": "Assessing actions that dissolve or evade marital obligations and expose another person to sexual betrayal.",
+    "est_tokens": 68,
+    "id": "divorce_and_faithfulness",
+    "name": "Divorce and faithfulness",
+    "ref": "Matthew 5:31-32",
+    "topics": [
+      "sexual_faithfulness",
+      "family_and_parents",
+      "promises_and_faithfulness"
+    ]
+  },
+  {
+    "description": "Handling small tasks and another person's property honestly because trustworthiness does not begin only when the stakes become large.",
+    "est_tokens": 130,
+    "id": "faithful_in_little",
+    "name": "Faithful in little",
+    "ref": "Luke 16:10-13",
+    "topics": [
+      "honesty",
+      "stewardship",
+      "theft",
+      "promises_and_faithfulness"
+    ]
+  },
+  {
+    "description": "Practicing self-denial honestly without manufacturing visible hardship to win admiration.",
+    "est_tokens": 101,
+    "id": "fasting_without_display",
+    "name": "Fasting without display",
+    "ref": "Matthew 6:16-18",
+    "topics": [
+      "self_control",
+      "humility",
+      "honesty",
+      "reverence_for_god"
+    ]
+  },
+  {
+    "description": "Balancing the need for rest with compassion for a crowd and organizing available resources to meet practical needs.",
+    "est_tokens": 409,
+    "id": "feeding_the_five_thousand",
+    "name": "Feeding the five thousand",
+    "ref": "Mark 6:30-44",
+    "topics": [
+      "rest",
+      "compassion",
+      "stewardship",
+      "serving_others"
+    ]
+  },
+  {
+    "description": "Using leadership and authority for humble, practical service rather than expecting others to absorb all low-status work.",
+    "est_tokens": 456,
+    "id": "foot_washing",
+    "name": "Jesus washes the disciples' feet",
+    "ref": "John 13:1-17",
+    "topics": [
+      "serving_others",
+      "humility",
+      "power_and_domination",
+      "love_of_neighbor"
+    ]
+  },
+  {
+    "description": "Extending forgiveness and hope amid unjust violence rather than answering abuse with contempt or revenge.",
+    "est_tokens": 290,
+    "id": "forgiveness_at_the_cross",
+    "name": "Forgiveness at the cross",
+    "ref": "Luke 23:33-43",
+    "topics": [
+      "forgiveness",
+      "enemies_and_retaliation",
+      "mercy",
+      "violence"
+    ]
+  },
+  {
+    "description": "Persistently asking for what is needed to provide hospitality or help and trusting that a good response serves the recipient.",
+    "est_tokens": 280,
+    "id": "friend_at_midnight",
+    "name": "A friend at midnight",
+    "ref": "Luke 11:5-13",
+    "topics": [
+      "counsel_and_uncertainty",
+      "serving_others",
+      "generosity",
+      "compassion"
+    ]
+  },
+  {
+    "description": "Assessing trustworthy conduct by its observable fruits rather than impressive religious claims, appearances or asserted authority.",
+    "est_tokens": 214,
+    "id": "fruit_and_false_claims",
+    "name": "Recognizing fruit and false claims",
+    "ref": "Matthew 7:15-23",
+    "topics": [
+      "honesty",
+      "judging_others",
+      "manipulation",
+      "permission_and_authority"
+    ]
+  },
+  {
+    "description": "Taking God's commands seriously in both practice and instruction rather than treating technical compliance as sufficient.",
+    "est_tokens": 167,
+    "id": "fulfilling_the_law",
+    "name": "Fulfilling the Law",
+    "ref": "Matthew 5:17-20",
+    "topics": [
+      "obedience_and_conscience",
+      "reverence_for_god",
+      "honesty"
+    ]
+  },
+  {
+    "description": "Remaining faithful under distress, acknowledging vulnerability to temptation and refusing retaliatory violence at a moment of threat.",
+    "est_tokens": 613,
+    "id": "gethsemane_and_arrest",
+    "name": "Gethsemane and Jesus' arrest",
+    "ref": "Matthew 26:36-56",
+    "topics": [
+      "self_control",
+      "temptation",
+      "violence",
+      "enemies_and_retaliation"
+    ]
+  },
+  {
+    "description": "Helping someone discreetly without turning their need into self-promotion or a performance for public approval.",
+    "est_tokens": 143,
+    "id": "giving_without_display",
+    "name": "Giving without display",
+    "ref": "Matthew 6:1-4",
+    "topics": [
+      "generosity",
+      "humility",
+      "care_for_vulnerable",
+      "privacy_and_confidentiality"
+    ]
+  },
+  {
+    "description": "Testing a proposed action by whether one would reasonably want to receive the same treatment from another person.",
+    "est_tokens": 30,
+    "id": "golden_rule",
+    "name": "The Golden Rule",
+    "ref": "Matthew 7:12",
+    "topics": [
+      "love_of_neighbor",
+      "fairness_and_partiality",
+      "permission_and_authority",
+      "privacy_and_confidentiality"
+    ]
+  },
+  {
+    "description": "Giving practical and costly help to a person in danger across social boundaries instead of passing by or narrowing who counts as a neighbor.",
+    "est_tokens": 369,
+    "id": "good_samaritan",
+    "name": "Parable of the Good Samaritan",
+    "ref": "Luke 10:25-37",
+    "topics": [
+      "love_of_neighbor",
+      "care_for_vulnerable",
+      "mercy",
+      "protecting_life"
+    ]
+  },
+  {
+    "description": "Protecting those entrusted to one's care and distinguishing sacrificial responsibility from theft, exploitation or abandonment when danger arrives.",
+    "est_tokens": 476,
+    "id": "good_shepherd",
+    "name": "The good shepherd",
+    "ref": "John 10:1-18",
+    "topics": [
+      "protecting_life",
+      "care_for_vulnerable",
+      "permission_and_authority",
+      "serving_others"
+    ]
+  },
+  {
+    "description": "Refusing to dominate others or seek rank for its own sake and instead using responsibility to serve.",
+    "est_tokens": 314,
+    "id": "greatness_through_service",
+    "name": "Greatness through service",
+    "ref": "Mark 10:35-45",
+    "topics": [
+      "power_and_domination",
+      "humility",
+      "serving_others",
+      "fairness_and_partiality"
+    ]
+  },
+  {
+    "description": "Responding compassionately to an excluded person's need while taking seriously instructions governing what to disclose afterward.",
+    "est_tokens": 190,
+    "id": "healing_a_leper",
+    "name": "Jesus heals a man with leprosy",
+    "ref": "Mark 1:40-45",
+    "topics": [
+      "compassion",
+      "care_for_vulnerable",
+      "permission_and_authority",
+      "obedience_and_conscience"
+    ]
+  },
+  {
+    "description": "Doing good and relieving a person's suffering on a rest day instead of using the Sabbath as an excuse to withhold help.",
+    "est_tokens": 164,
+    "id": "healing_on_the_sabbath",
+    "name": "Healing on the Sabbath",
+    "ref": "Matthew 12:9-14",
+    "topics": [
+      "rest",
+      "compassion",
+      "protecting_life",
+      "care_for_vulnerable"
+    ]
+  },
+  {
+    "description": "Examining one's own faults before correcting others and using care in deciding how correction should be offered.",
+    "est_tokens": 174,
+    "id": "judging_and_self_examination",
+    "name": "Judging and self-examination",
+    "ref": "Matthew 7:1-6",
+    "topics": [
+      "judging_others",
+      "humility",
+      "fairness_and_partiality",
+      "counsel_and_uncertainty"
+    ]
+  },
+  {
+    "description": "Searching diligently for what is lost and rejoicing over a person's repentance and restoration.",
+    "est_tokens": 100,
+    "id": "lost_coin",
+    "name": "Parable of the lost coin",
+    "ref": "Luke 15:8-10",
+    "topics": [
+      "work_and_diligence",
+      "restitution_and_repair",
+      "compassion"
+    ]
+  },
+  {
+    "description": "Seeking and restoring a person who has gone astray rather than dismissing them as expendable.",
+    "est_tokens": 184,
+    "id": "lost_sheep",
+    "name": "Parable of the lost sheep",
+    "ref": "Luke 15:1-7",
+    "topics": [
+      "care_for_vulnerable",
+      "compassion",
+      "mercy",
+      "judging_others"
+    ]
+  },
+  {
+    "description": "Seeking the good of hostile people and refusing to reserve care only for allies or people who repay it.",
+    "est_tokens": 169,
+    "id": "love_your_enemies",
+    "name": "Love your enemies",
+    "ref": "Matthew 5:43-48",
+    "topics": [
+      "enemies_and_retaliation",
+      "love_of_neighbor",
+      "fairness_and_partiality",
+      "peacemaking"
+    ]
+  },
+  {
+    "description": "Refusing deliberate lust and removing opportunities that lead to sexual betrayal or objectification.",
+    "est_tokens": 150,
+    "id": "lust_and_adultery",
+    "name": "Lust and adultery",
+    "ref": "Matthew 5:27-30",
+    "topics": [
+      "sexual_faithfulness",
+      "sexual_exploitation",
+      "self_control",
+      "temptation"
+    ]
+  },
+  {
+    "description": "Recognizing that a small beginning may grow into something that gives shelter and benefit to many.",
+    "est_tokens": 79,
+    "id": "mustard_seed",
+    "name": "Parable of the mustard seed",
+    "ref": "Matthew 13:31-32",
+    "topics": [
+      "humility",
+      "serving_others",
+      "stewardship"
+    ]
+  },
+  {
+    "description": "Choosing a demanding faithful course instead of following a popular or convenient path toward harm.",
+    "est_tokens": 59,
+    "id": "narrow_gate",
+    "name": "The narrow gate",
+    "ref": "Matthew 7:13-14",
+    "topics": [
+      "obedience_and_conscience",
+      "temptation",
+      "self_control"
+    ]
+  },
+  {
+    "description": "Making mutual love the visible standard for conduct and the identifying mark of discipleship.",
+    "est_tokens": 145,
+    "id": "new_commandment",
+    "name": "A new commandment to love",
+    "ref": "John 13:31-35",
+    "topics": [
+      "love_of_neighbor",
+      "serving_others",
+      "compassion",
+      "promises_and_faithfulness"
+    ]
+  },
+  {
+    "description": "Persisting in seeking justice for a vulnerable person despite delay or indifference from those with power.",
+    "est_tokens": 191,
+    "id": "persistent_widow",
+    "name": "Parable of the persistent widow",
+    "ref": "Luke 18:1-8",
+    "topics": [
+      "justice",
+      "care_for_vulnerable",
+      "power_and_domination",
+      "counsel_and_uncertainty"
+    ]
+  },
+  {
+    "description": "Approaching one's own faults honestly instead of claiming moral superiority by comparing oneself with a despised person.",
+    "est_tokens": 193,
+    "id": "pharisee_and_tax_collector",
+    "name": "Parable of the Pharisee and the tax collector",
+    "ref": "Luke 18:9-14",
+    "topics": [
+      "humility",
+      "judging_others",
+      "mercy",
+      "honesty"
+    ]
+  },
+  {
+    "description": "Praying sincerely, honoring God's name and forgiving others rather than using religious language as a public performance.",
+    "est_tokens": 290,
+    "id": "prayer_and_forgiveness",
+    "name": "Prayer and forgiveness",
+    "ref": "Matthew 6:5-15",
+    "topics": [
+      "reverence_for_god",
+      "humility",
+      "forgiveness",
+      "honesty"
+    ]
+  },
+  {
+    "description": "Welcoming a repentant person with mercy while resisting resentment when another person receives restoration.",
+    "est_tokens": 606,
+    "id": "prodigal_son",
+    "name": "Parable of the prodigal son",
+    "ref": "Luke 15:11-32",
+    "topics": [
+      "forgiveness",
+      "mercy",
+      "family_and_parents",
+      "restitution_and_repair"
+    ]
+  },
+  {
+    "description": "Distinguishing legitimate civic obligations from what belongs to God when a question is framed as a trap.",
+    "est_tokens": 193,
+    "id": "render_to_caesar",
+    "name": "Render to Caesar",
+    "ref": "Matthew 22:15-22",
+    "topics": [
+      "permission_and_authority",
+      "obedience_and_conscience",
+      "manipulation",
+      "reverence_for_god"
+    ]
+  },
+  {
+    "description": "Responding to insult, coercion or demands without reflexive revenge and with willingness to give beyond what is demanded.",
+    "est_tokens": 102,
+    "id": "retaliation_and_generosity",
+    "name": "Retaliation and generosity",
+    "ref": "Matthew 5:38-42",
+    "topics": [
+      "enemies_and_retaliation",
+      "generosity",
+      "violence",
+      "peacemaking"
+    ]
+  },
+  {
+    "description": "Rejecting covetous accumulation and the assumption that possessing more resources secures a meaningful or safe life.",
+    "est_tokens": 240,
+    "id": "rich_fool",
+    "name": "Parable of the rich fool",
+    "ref": "Luke 12:13-21",
+    "topics": [
+      "greed",
+      "stewardship",
+      "idolatry",
+      "generosity"
+    ]
+  },
+  {
+    "description": "Noticing and responding to a suffering neighbor instead of allowing comfort and wealth to conceal their need.",
+    "est_tokens": 387,
+    "id": "rich_man_and_lazarus",
+    "name": "The rich man and Lazarus",
+    "ref": "Luke 16:19-31",
+    "topics": [
+      "care_for_vulnerable",
+      "compassion",
+      "greed",
+      "generosity"
+    ]
+  },
+  {
+    "description": "Examining whether attachment to possessions prevents concrete generosity and willingness to follow Jesus.",
+    "est_tokens": 462,
+    "id": "rich_young_ruler",
+    "name": "The rich man seeking eternal life",
+    "ref": "Mark 10:17-31",
+    "topics": [
+      "greed",
+      "generosity",
+      "obedience_and_conscience",
+      "idolatry"
+    ]
+  },
+  {
+    "description": "Interpreting rest in light of human need rather than treating a rule as more important than the people it is meant to serve.",
+    "est_tokens": 165,
+    "id": "sabbath_for_people",
+    "name": "The Sabbath was made for people",
+    "ref": "Mark 2:23-28",
+    "topics": [
+      "rest",
+      "compassion",
+      "obedience_and_conscience"
+    ]
+  },
+  {
+    "description": "Making good work useful and visible for the benefit of others and God's honor rather than hiding responsibility.",
+    "est_tokens": 125,
+    "id": "salt_and_light",
+    "name": "Salt and light",
+    "ref": "Matthew 5:13-16",
+    "topics": [
+      "serving_others",
+      "work_and_diligence",
+      "reverence_for_god"
+    ]
+  },
+  {
+    "description": "A broad foundation for actions involving love, mercy, truthful speech, enemies, possessions, prayer and putting Jesus' teaching into practice.",
+    "est_tokens": 3170,
+    "id": "sermon_on_the_mount",
+    "name": "The Sermon on the Mount",
+    "ref": "Matthew 5:1-7:29",
+    "topics": [
+      "love_of_neighbor",
+      "honesty",
+      "mercy",
+      "permission_and_authority"
+    ]
+  },
+  {
+    "description": "Treating food, water, welcome, clothing, care and companionship for vulnerable people as consequential acts of service.",
+    "est_tokens": 460,
+    "id": "sheep_and_goats",
+    "name": "The sheep and the goats",
+    "ref": "Matthew 25:31-46",
+    "topics": [
+      "care_for_vulnerable",
+      "serving_others",
+      "compassion",
+      "love_of_neighbor"
+    ]
+  },
+  {
+    "description": "Considering accountability and the future consequences of managing another person's resources amid a crisis of trust.",
+    "est_tokens": 307,
+    "id": "shrewd_manager",
+    "name": "Parable of the shrewd manager",
+    "ref": "Luke 16:1-9",
+    "topics": [
+      "stewardship",
+      "permission_and_authority",
+      "greed"
+    ]
+  },
+  {
+    "description": "Considering whether distraction, pressure or love of wealth prevents received instruction from becoming durable action.",
+    "est_tokens": 687,
+    "id": "sower",
+    "name": "Parable of the sower",
+    "ref": "Matthew 13:1-23",
+    "topics": [
+      "obedience_and_conscience",
+      "temptation",
+      "greed",
+      "promises_and_faithfulness"
+    ]
+  },
+  {
+    "description": "Using entrusted resources diligently and being accountable to their owner instead of neglecting the responsibility out of fear.",
+    "est_tokens": 534,
+    "id": "talents",
+    "name": "Parable of the talents",
+    "ref": "Matthew 25:14-30",
+    "topics": [
+      "stewardship",
+      "work_and_diligence",
+      "permission_and_authority",
+      "counsel_and_uncertainty"
+    ]
+  },
+  {
+    "description": "Rejecting shortcuts that misuse power, manipulate Scripture, test God or trade faithful worship for control and prestige.",
+    "est_tokens": 299,
+    "id": "temptation_in_the_wilderness",
+    "name": "Temptation in the wilderness",
+    "ref": "Matthew 4:1-11",
+    "topics": [
+      "temptation",
+      "self_control",
+      "idolatry",
+      "power_and_domination"
+    ]
+  },
+  {
+    "description": "Preparing for an important responsibility before the need arrives instead of assuming someone else will provide readiness at the last moment.",
+    "est_tokens": 272,
+    "id": "ten_virgins",
+    "name": "Parable of the ten virgins",
+    "ref": "Matthew 25:1-13",
+    "topics": [
+      "stewardship",
+      "work_and_diligence",
+      "self_control"
+    ]
+  },
+  {
+    "description": "Reordering possessions and commitments when recognizing the surpassing worth of God's kingdom.",
+    "est_tokens": 84,
+    "id": "treasure_and_pearl",
+    "name": "The hidden treasure and the pearl",
+    "ref": "Matthew 13:44-46",
+    "topics": [
+      "reverence_for_god",
+      "greed",
+      "stewardship"
+    ]
+  },
+  {
+    "description": "Choosing priorities when wealth, ownership or material gain competes with faithfulness to God.",
+    "est_tokens": 186,
+    "id": "treasure_and_two_masters",
+    "name": "Treasure and two masters",
+    "ref": "Matthew 6:19-24",
+    "topics": [
+      "greed",
+      "idolatry",
+      "stewardship",
+      "reverence_for_god"
+    ]
+  },
+  {
+    "description": "Speaking plainly and truthfully without false promises, misleading assurances or appeals to God's authority to secure belief.",
+    "est_tokens": 128,
+    "id": "truthful_speech_and_oaths",
+    "name": "Truthful speech and oaths",
+    "ref": "Matthew 5:33-37",
+    "topics": [
+      "honesty",
+      "truth_under_pressure",
+      "promises_and_faithfulness",
+      "reverence_for_god"
+    ]
+  },
+  {
+    "description": "Judging obedience by what someone actually does rather than by a willing-sounding promise they do not fulfill.",
+    "est_tokens": 178,
+    "id": "two_sons",
+    "name": "Parable of the two sons",
+    "ref": "Matthew 21:28-32",
+    "topics": [
+      "honesty",
+      "obedience_and_conscience",
+      "promises_and_faithfulness",
+      "judging_others"
+    ]
+  },
+  {
+    "description": "Extending the mercy one has received instead of enforcing another person's smaller debt with cruelty.",
+    "est_tokens": 421,
+    "id": "unforgiving_servant",
+    "name": "Parable of the unforgiving servant",
+    "ref": "Matthew 18:21-35",
+    "topics": [
+      "forgiveness",
+      "mercy",
+      "greed",
+      "power_and_domination"
+    ]
+  },
+  {
+    "description": "Connecting fruitful action with abiding in Jesus, keeping his commands and loving others through self-giving friendship.",
+    "est_tokens": 462,
+    "id": "vine_and_branches",
+    "name": "The vine and the branches",
+    "ref": "John 15:1-17",
+    "topics": [
+      "love_of_neighbor",
+      "obedience_and_conscience",
+      "serving_others",
+      "reverence_for_god"
+    ]
+  },
+  {
+    "description": "Responding seriously to God's invitation rather than rejecting it through indifference, hostility or assumed entitlement.",
+    "est_tokens": 375,
+    "id": "wedding_feast",
+    "name": "Parable of the wedding feast",
+    "ref": "Matthew 22:1-14",
+    "topics": [
+      "reverence_for_god",
+      "obedience_and_conscience",
+      "humility"
+    ]
+  },
+  {
+    "description": "Welcoming children and removing barriers created by people who regard them as too unimportant to receive care.",
+    "est_tokens": 123,
+    "id": "welcoming_children",
+    "name": "Jesus welcomes children",
+    "ref": "Mark 10:13-16",
+    "topics": [
+      "care_for_vulnerable",
+      "family_and_parents",
+      "compassion",
+      "humility"
+    ]
+  },
+  {
+    "description": "Avoiding premature removal of suspected wrongdoers when the intervention would also harm those who should be protected.",
+    "est_tokens": 215,
+    "id": "wheat_and_weeds",
+    "name": "Parable of the wheat and the weeds",
+    "ref": "Matthew 13:24-30",
+    "topics": [
+      "judging_others",
+      "destructive_actions",
+      "protecting_life",
+      "counsel_and_uncertainty"
+    ]
+  },
+  {
+    "description": "Recognizing violent attempts to seize entrusted property and reject the owner's rightful claim to it.",
+    "est_tokens": 402,
+    "id": "wicked_tenants",
+    "name": "Parable of the wicked tenants",
+    "ref": "Matthew 21:33-46",
+    "topics": [
+      "theft",
+      "violence",
+      "permission_and_authority",
+      "power_and_domination"
+    ]
+  },
+  {
+    "description": "Assessing generosity in light of a giver's actual means and sacrifice rather than comparing only visible totals.",
+    "est_tokens": 119,
+    "id": "widows_offering",
+    "name": "The widow's offering",
+    "ref": "Mark 12:41-44",
+    "topics": [
+      "generosity",
+      "fairness_and_partiality",
+      "care_for_vulnerable",
+      "judging_others"
+    ]
+  },
+  {
+    "description": "Putting heard instruction into practice and building on a sound foundation that survives foreseeable stress.",
+    "est_tokens": 163,
+    "id": "wise_and_foolish_builders",
+    "name": "Wise and foolish builders",
+    "ref": "Matthew 7:24-29",
+    "topics": [
+      "work_and_diligence",
+      "stewardship",
+      "obedience_and_conscience"
+    ]
+  },
+  {
+    "description": "Engaging across social boundaries with truthful, respectful conversation and directing worship toward God in spirit and truth.",
+    "est_tokens": 547,
+    "id": "woman_at_the_well",
+    "name": "Jesus and the Samaritan woman",
+    "ref": "John 4:7-26",
+    "topics": [
+      "fairness_and_partiality",
+      "honesty",
+      "reverence_for_god",
+      "compassion"
+    ]
+  },
+  {
+    "description": "Resisting a condemning trap, examining one's own guilt and extending mercy while still calling a person away from wrongdoing.",
+    "est_tokens": 290,
+    "id": "woman_caught_in_adultery",
+    "name": "The woman caught in adultery",
+    "ref": "John 8:1-11",
+    "topics": [
+      "mercy",
+      "judging_others",
+      "sexual_faithfulness",
+      "protecting_life"
+    ]
+  },
+  {
+    "description": "Honoring agreed compensation and distinguishing harm to oneself from resentment at generosity shown to someone else.",
+    "est_tokens": 434,
+    "id": "workers_in_the_vineyard",
+    "name": "Parable of the workers in the vineyard",
+    "ref": "Matthew 20:1-16",
+    "topics": [
+      "fairness_and_partiality",
+      "generosity",
+      "promises_and_faithfulness",
+      "greed"
+    ]
+  },
+  {
+    "description": "Welcoming a despised person while connecting repentance to concrete generosity and repayment of what was wrongfully taken.",
+    "est_tokens": 236,
+    "id": "zacchaeus",
+    "name": "Zacchaeus",
+    "ref": "Luke 19:1-10",
+    "topics": [
+      "theft",
+      "restitution_and_repair",
+      "generosity",
+      "mercy"
+    ]
+  }
+]

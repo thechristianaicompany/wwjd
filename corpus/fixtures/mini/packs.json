@@ -1,0 +1,273 @@
+{
+  "honesty": {
+    "est_tokens": 273,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:37",
+        "text": "But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 8:44",
+        "text": "You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn’t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies."
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 4:25",
+        "text": "Therefore, putting away falsehood, speak truth each one with his neighbor, for we are members of one another."
+      },
+      {
+        "kind": "nt",
+        "ref": "Colossians 3:9",
+        "text": "Don’t lie to one another, seeing that you have put off the old man with his doings,"
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:16",
+        "text": "“You shall not give false testimony against your neighbor."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 12:22",
+        "text": "Lying lips are an abomination to Yahweh, but those who do the truth are his delight."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 19:5",
+        "text": "A false witness shall not be unpunished. He who pours out lies shall not go free."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 6:16-19",
+        "text": "There are six things which Yahweh hates; yes, seven which are an abomination to him: arrogant eyes, a lying tongue, hands that shed innocent blood, a heart that devises wicked schemes, feet that are swift in running to mischief, a false witness who utters lies, and he who sows discord among brothers."
+      }
+    ],
+    "topic": "honesty"
+  },
+  "love_of_neighbor": {
+    "est_tokens": 486,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 12:28-31",
+        "text": "One of the scribes came and heard them questioning together, and knowing that he had answered them well, asked him, “Which commandment is the greatest of all?” Jesus answered, “The greatest is: ‘Hear, Israel, the Lord our God, the Lord is one. You shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’ This is the first commandment. The second is like this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 7:12",
+        "text": "Therefore, whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 10:36-37",
+        "text": "Now which of these three do you think seemed to be a neighbor to him who fell among the robbers?” He said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 13:34-35",
+        "text": "A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another. By this everyone will know that you are my disciples, if you have love for one another.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 13:8-10",
+        "text": "Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law. For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbor as yourself.” Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 John 3:17-18",
+        "text": "But whoever has the world’s goods and sees his brother in need, then closes his heart of compassion against him, how does God’s love remain in him? My little children, let’s not love in word only, or with the tongue only, but in deed and truth."
+      },
+      {
+        "kind": "nt",
+        "ref": "Galatians 5:14",
+        "text": "For the whole law is fulfilled in one word, in this: “You shall love your neighbor as yourself.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 19:18",
+        "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh."
+      }
+    ],
+    "topic": "love_of_neighbor"
+  },
+  "permission_and_authority": {
+    "est_tokens": 592,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 16:10-12",
+        "text": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much. If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? If you have not been faithful in that which is another’s, who will give you that which is your own?"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 8:8-9",
+        "text": "The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed. For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 12:42-46",
+        "text": "The Lord said, “Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times? Blessed is that servant whom his lord will find doing so when he comes. Truly I tell you that he will set him over all that he has. But if that servant says in his heart, ‘My lord delays his coming,’ and begins to beat the menservants and the maidservants, and to eat and drink and to be drunken, then the lord of that servant will come in a day when he isn’t expecting him and in an hour that he doesn’t know, and will cut him in two, and place his portion with the unfaithful."
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 13:1-2",
+        "text": "Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God. Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgment."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 2:13-15",
+        "text": "Therefore subject yourselves to every ordinance of man for the Lord’s sake: whether to the king, as supreme, or to governors, as sent by him for vengeance on evildoers and for praise to those who do well. For this is the will of God, that by well-doing you should put to silence the ignorance of foolish men."
+      },
+      {
+        "kind": "nt",
+        "ref": "Titus 3:1",
+        "text": "Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work,"
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 13:3-4",
+        "text": "For rulers are not a terror to the good work, but to the evil. Do you desire to have no fear of the authority? Do that which is good, and you will have praise from the authority, for he is a servant of God to you for good. But if you do that which is evil, be afraid, for he doesn’t bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil."
+      }
+    ],
+    "topic": "permission_and_authority"
+  },
+  "protecting_life": {
+    "est_tokens": 417,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 3:4",
+        "text": "He said to them, “Is it lawful on the Sabbath day to do good or to do harm? To save a life or to kill?” But they were silent."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 10:33-37",
+        "text": "But a certain Samaritan, as he traveled, came where he was. When he saw him, he was moved with compassion, came to him, and bound up his wounds, pouring on oil and wine. He set him on his own animal, brought him to an inn, and took care of him. On the next day, when he departed, he took out two denarii, gave them to the host, and said to him, ‘Take care of him. Whatever you spend beyond that, I will repay you when I return.’ Now which of these three do you think seemed to be a neighbor to him who fell among the robbers?” He said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "James 2:15-16",
+        "text": "And if a brother or sister is naked and in lack of daily food, and one of you tells them, “Go in peace. Be warmed and filled;” yet you didn’t give them the things the body needs, what good is it?"
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:13",
+        "text": "“You shall not murder."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 24:11-12",
+        "text": "Rescue those who are being led away to death! Indeed, hold back those who are staggering to the slaughter! If you say, “Behold, we didn’t know this,” doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it? Shall he not give to every man according to his work?"
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 22:8",
+        "text": "When you build a new house, then you shall make a railing around your roof, so that you don’t bring blood on your house if anyone falls from there."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 82:3-4",
+        "text": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed. Rescue the weak and needy. Deliver them out of the hand of the wicked.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Isaiah 1:17",
+        "text": "Learn to do well. Seek justice. Relieve the oppressed. Defend the fatherless. Plead for the widow.”"
+      }
+    ],
+    "topic": "protecting_life"
+  },
+  "stewardship": {
+    "est_tokens": 412,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 16:10-12",
+        "text": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much. If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? If you have not been faithful in that which is another’s, who will give you that which is your own?"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 6:12",
+        "text": "When they were filled, he said to his disciples, “Gather up the broken pieces which are left over, that nothing be lost.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 25:20-23",
+        "text": "He who received the five talents came and brought another five talents, saying, ‘Lord, you delivered to me five talents. Behold, I have gained another five talents in addition to them.’ “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’ “He also who got the two talents came and said, ‘Lord, you delivered to me two talents. Behold, I have gained another two talents in addition to them.’ “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things. I will set you over many things. Enter into the joy of your lord.’"
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Corinthians 4:2",
+        "text": "Here, moreover, it is required of stewards that they be found faithful."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 4:10",
+        "text": "As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms."
+      },
+      {
+        "kind": "ot",
+        "ref": "Genesis 2:15",
+        "text": "Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 27:23-24",
+        "text": "Know well the state of your flocks, and pay attention to your herds, for riches are not forever, nor does the crown endure to all generations."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 13:11",
+        "text": "Wealth gained dishonestly dwindles away, but he who gathers by hand makes it grow."
+      }
+    ],
+    "topic": "stewardship"
+  },
+  "theft": {
+    "est_tokens": 294,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 10:19",
+        "text": "You know the commandments: ‘Do not murder,’ ‘Do not commit adultery,’ ‘Do not steal,’ ‘Do not give false testimony,’ ‘Do not defraud,’ ‘Honor your father and mother.’”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 19:8-10",
+        "text": "Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.” Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham. For the Son of Man came to seek and to save that which was lost.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 4:28",
+        "text": "Let him who stole steal no more; but rather let him labor, producing with his hands something that is good, that he may have something to give to him who has need."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 5:4",
+        "text": "Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out; and the cries of those who reaped have entered into the ears of the Lord of Armies."
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:15",
+        "text": "“You shall not steal."
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 19:11",
+        "text": "“‘You shall not steal. “‘You shall not lie. “‘You shall not deceive one another."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 11:1",
+        "text": "A false balance is an abomination to Yahweh, but accurate weights are his delight."
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 19:13",
+        "text": "“‘You shall not oppress your neighbor, nor rob him. “‘The wages of a hired servant shall not remain with you all night until the morning."
+      }
+    ],
+    "topic": "theft"
+  }
+}

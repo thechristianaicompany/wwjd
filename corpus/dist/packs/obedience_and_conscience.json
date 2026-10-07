@@ -1,0 +1,41 @@
+{
+  "est_tokens": 326,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 12:17",
+      "text": "Jesus answered them, “Give to Caesar the things that are Caesar’s, and to God the things that are God’s.” They marveled greatly at him."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "John 14:15",
+      "text": "If you love me, keep my commandments."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 24:45-47",
+      "text": "“Who then is the faithful and wise servant, whom his lord has set over his household, to give them their food in due season? Blessed is that servant whom his lord finds doing so when he comes. Most certainly I tell you that he will set him over all that he has."
+    },
+    {
+      "kind": "nt",
+      "ref": "Acts 5:29",
+      "text": "But Peter and the apostles answered, “We must obey God rather than men."
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 13:5",
+      "text": "Therefore you need to be in subjection, not only because of the wrath, but also for conscience’ sake."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Peter 2:13-15",
+      "text": "Therefore subject yourselves to every ordinance of man for the Lord’s sake: whether to the king, as supreme, or to governors, as sent by him for vengeance on evildoers and for praise to those who do well. For this is the will of God, that by well-doing you should put to silence the ignorance of foolish men."
+    },
+    {
+      "kind": "ot",
+      "ref": "Daniel 3:16-18",
+      "text": "Shadrach, Meshach, and Abednego answered the king, “Nebuchadnezzar, we have no need to answer you in this matter. If it happens, our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king. But if not, let it be known to you, O king, that we will not serve your gods or worship the golden image which you have set up.”"
+    }
+  ],
+  "topic": "obedience_and_conscience"
+}

@@ -1,0 +1,46 @@
+{
+  "est_tokens": 460,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 5:27-28",
+      "text": "“You have heard that it was said, ‘You shall not commit adultery;’ but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 19:4-6",
+      "text": "He answered, “Haven’t you read that he who made them from the beginning made them male and female, and said, ‘For this cause a man shall leave his father and mother, and shall be joined to his wife; and the two shall become one flesh’? So that they are no more two, but one flesh. What therefore God has joined together, don’t let man tear apart.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "Hebrews 13:4",
+      "text": "Let marriage be held in honor among all, and let the bed be undefiled; but God will judge the sexually immoral and adulterers."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Thessalonians 4:3-6",
+      "text": "For this is the will of God: your sanctification, that you abstain from sexual immorality, that each one of you know how to control his own body in sanctification and honor, not in the passion of lust, even as the Gentiles who don’t know God, that no one should take advantage of and wrong a brother or sister in this matter; because the Lord is an avenger in all these things, as also we forewarned you and testified."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Corinthians 6:18-20",
+      "text": "Flee sexual immorality! “Every sin that a man does is outside the body,” but he who commits sexual immorality sins against his own body. Or don’t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own, for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God’s."
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 20:14",
+      "text": "“You shall not commit adultery."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 5:18-20",
+      "text": "Let your spring be blessed. Rejoice in the wife of your youth. A loving doe and a graceful deer— let her breasts satisfy you at all times. Be captivated always with her love. For why should you, my son, be captivated with an adulteress? Why embrace the bosom of another?"
+    },
+    {
+      "kind": "ot",
+      "ref": "Job 31:1",
+      "text": "“I made a covenant with my eyes; how then should I look lustfully at a young woman?"
+    }
+  ],
+  "topic": "sexual_faithfulness"
+}

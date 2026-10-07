@@ -1,0 +1,41 @@
+{
+  "est_tokens": 592,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 16:10-12",
+      "text": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much. If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? If you have not been faithful in that which is another’s, who will give you that which is your own?"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 8:8-9",
+      "text": "The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed. For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 12:42-46",
+      "text": "The Lord said, “Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times? Blessed is that servant whom his lord will find doing so when he comes. Truly I tell you that he will set him over all that he has. But if that servant says in his heart, ‘My lord delays his coming,’ and begins to beat the menservants and the maidservants, and to eat and drink and to be drunken, then the lord of that servant will come in a day when he isn’t expecting him and in an hour that he doesn’t know, and will cut him in two, and place his portion with the unfaithful."
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 13:1-2",
+      "text": "Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God. Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgment."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Peter 2:13-15",
+      "text": "Therefore subject yourselves to every ordinance of man for the Lord’s sake: whether to the king, as supreme, or to governors, as sent by him for vengeance on evildoers and for praise to those who do well. For this is the will of God, that by well-doing you should put to silence the ignorance of foolish men."
+    },
+    {
+      "kind": "nt",
+      "ref": "Titus 3:1",
+      "text": "Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work,"
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 13:3-4",
+      "text": "For rulers are not a terror to the good work, but to the evil. Do you desire to have no fear of the authority? Do that which is good, and you will have praise from the authority, for he is a servant of God to you for good. But if you do that which is evil, be afraid, for he doesn’t bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil."
+    }
+  ],
+  "topic": "permission_and_authority"
+}

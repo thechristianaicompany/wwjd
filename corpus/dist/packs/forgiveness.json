@@ -1,0 +1,41 @@
+{
+  "est_tokens": 662,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 18:21-35",
+      "text": "Then Peter came and said to him, “Lord, how often shall my brother sin against me, and I forgive him? Until seven times?” Jesus said to him, “I don’t tell you until seven times, but, until seventy times seven. Therefore the Kingdom of Heaven is like a certain king who wanted to settle accounts with his servants. When he had begun to settle, one was brought to him who owed him ten thousand talents. But because he couldn’t pay, his lord commanded him to be sold, with his wife, his children, and all that he had, and payment to be made. The servant therefore fell down and knelt before him, saying, ‘Lord, have patience with me, and I will repay you all!’ The lord of that servant, being moved with compassion, released him and forgave him the debt. “But that servant went out and found one of his fellow servants who owed him one hundred denarii, and he grabbed him and took him by the throat, saying, ‘Pay me what you owe!’ “So his fellow servant fell down at his feet and begged him, saying, ‘Have patience with me, and I will repay you!’ He would not, but went and cast him into prison until he should pay back that which was due. So when his fellow servants saw what was done, they were exceedingly sorry, and came and told their lord all that was done. Then his lord called him in and said to him, ‘You wicked servant! I forgave you all that debt because you begged me. Shouldn’t you also have had mercy on your fellow servant, even as I had mercy on you?’ His lord was angry, and delivered him to the tormentors until he should pay all that was due to him. So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 17:3-4",
+      "text": "Be careful. If your brother sins against you, rebuke him. If he repents, forgive him. If he sins against you seven times in the day, and seven times returns, saying, ‘I repent,’ you shall forgive him.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 6:14-15",
+      "text": "“For if you forgive men their trespasses, your heavenly Father will also forgive you. But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 11:25",
+      "text": "Whenever you stand praying, forgive, if you have anything against anyone; so that your Father, who is in heaven, may also forgive you your transgressions."
+    },
+    {
+      "kind": "nt",
+      "ref": "Ephesians 4:31-32",
+      "text": "Let all bitterness, wrath, anger, outcry, and slander be put away from you, with all malice. And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you."
+    },
+    {
+      "kind": "nt",
+      "ref": "Colossians 3:13",
+      "text": "bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 19:11",
+      "text": "The discretion of a man makes him slow to anger. It is his glory to overlook an offense."
+    }
+  ],
+  "topic": "forgiveness"
+}

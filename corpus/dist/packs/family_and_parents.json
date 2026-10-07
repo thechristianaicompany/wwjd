@@ -1,0 +1,46 @@
+{
+  "est_tokens": 429,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 7:9-13",
+      "text": "He said to them, “Full well do you reject the commandment of God, that you may keep your tradition. For Moses said, ‘Honor your father and your mother;’ and, ‘He who speaks evil of father or mother, let him be put to death.’ But you say, ‘If a man tells his father or his mother, “Whatever profit you might have received from me is Corban,”’” that is to say, given to God, “then you no longer allow him to do anything for his father or his mother, making void the word of God by your tradition which you have handed down. You do many things like this.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 2:51",
+      "text": "And he went down with them and came to Nazareth. He was subject to them, and his mother kept all these sayings in her heart."
+    },
+    {
+      "kind": "nt",
+      "ref": "Ephesians 6:1-4",
+      "text": "Children, obey your parents in the Lord, for this is right. “Honor your father and mother,” which is the first commandment with a promise: “that it may be well with you, and you may live long on the earth.” You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Timothy 5:8",
+      "text": "But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever."
+    },
+    {
+      "kind": "nt",
+      "ref": "Colossians 3:20-21",
+      "text": "Children, obey your parents in all things, for this pleases the Lord. Fathers, don’t provoke your children, so that they won’t be discouraged."
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 20:12",
+      "text": "“Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 23:22",
+      "text": "Listen to your father who gave you life, and don’t despise your mother when she is old."
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 6:6-7",
+      "text": "These words, which I command you today, shall be on your heart; and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up."
+    }
+  ],
+  "topic": "family_and_parents"
+}

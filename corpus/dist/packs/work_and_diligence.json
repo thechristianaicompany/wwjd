@@ -1,0 +1,46 @@
+{
+  "est_tokens": 420,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 24:45-47",
+      "text": "“Who then is the faithful and wise servant, whom his lord has set over his household, to give them their food in due season? Blessed is that servant whom his lord finds doing so when he comes. Most certainly I tell you that he will set him over all that he has."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 16:10",
+      "text": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 12:42-44",
+      "text": "The Lord said, “Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times? Blessed is that servant whom his lord will find doing so when he comes. Truly I tell you that he will set him over all that he has."
+    },
+    {
+      "kind": "nt",
+      "ref": "Colossians 3:23-24",
+      "text": "And whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the reward of the inheritance; for you serve the Lord Christ."
+    },
+    {
+      "kind": "nt",
+      "ref": "2 Thessalonians 3:10-12",
+      "text": "For even when we were with you, we commanded you this: “If anyone is not willing to work, don’t let him eat.” For we hear of some who walk among you in rebellion, who don’t work at all, but are busybodies. Now those who are that way, we command and exhort in the Lord Jesus Christ, that they work with quietness and eat their own bread."
+    },
+    {
+      "kind": "nt",
+      "ref": "Colossians 3:22",
+      "text": "Servants, obey in all things those who are your masters according to the flesh, not just when they are looking, as men pleasers, but in singleness of heart, fearing God."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 6:6-8",
+      "text": "Go to the ant, you sluggard. Consider her ways, and be wise; which having no chief, overseer, or ruler, provides her bread in the summer, and gathers her food in the harvest."
+    },
+    {
+      "kind": "ot",
+      "ref": "Ecclesiastes 9:10",
+      "text": "Whatever your hand finds to do, do it with your might; for there is no work, nor plan, nor knowledge, nor wisdom, in Sheol, where you are going."
+    }
+  ],
+  "topic": "work_and_diligence"
+}

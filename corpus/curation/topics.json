@@ -1,0 +1,1137 @@
+[
+  {
+    "id": "love_of_neighbor",
+    "label": "Love of neighbor",
+    "description": "Acting for another person’s good, including strangers and people outside one’s own group.",
+    "commandments": [
+      "murder",
+      "steal",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Love",
+      "Kindness"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Good Samaritan"
+    ],
+    "anchors": [
+      "Mark 12:28-31",
+      "Matthew 7:12",
+      "Luke 10:36-37",
+      "Romans 13:8-10",
+      "Leviticus 19:18"
+    ],
+    "pack": "love_of_neighbor",
+    "ezra_selections": [
+      "John 13:34-35",
+      "1 John 3:17-18",
+      "Galatians 5:14"
+    ]
+  },
+  {
+    "id": "honesty",
+    "label": "Honesty and deception",
+    "description": "Telling the truth about facts, capabilities, sources, uncertainty, and completed work without fabricating or concealing material facts.",
+    "commandments": [
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Lying",
+      "Deceit",
+      "Wisdom"
+    ],
+    "ezra_pericopes": [
+      "Sermon on the Mount"
+    ],
+    "anchors": [
+      "Matthew 5:37",
+      "John 8:44",
+      "Ephesians 4:25",
+      "Colossians 3:9",
+      "Exodus 20:16"
+    ],
+    "pack": "honesty",
+    "ezra_selections": [
+      "Proverbs 12:22",
+      "Proverbs 19:5",
+      "Proverbs 6:16-19"
+    ]
+  },
+  {
+    "id": "truth_under_pressure",
+    "label": "Truthfulness under pressure",
+    "description": "Staying truthful when fear, incentives, threats, or a powerful person make deception attractive.",
+    "commandments": [
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Lying",
+      "Fear",
+      "Loyalty"
+    ],
+    "ezra_pericopes": [
+      "Trial of Jesus"
+    ],
+    "anchors": [
+      "Matthew 10:28",
+      "John 18:37",
+      "Acts 4:19-20",
+      "Daniel 3:16-18"
+    ],
+    "pack": "truth_under_pressure",
+    "ezra_selections": [
+      "Proverbs 29:25",
+      "Psalms 56:3-4",
+      "1 Peter 3:14"
+    ]
+  },
+  {
+    "id": "theft",
+    "label": "Stealing and others’ property",
+    "description": "Taking, copying, or using money, data, credentials, code, or work without the owner’s permission.",
+    "commandments": [
+      "steal",
+      "covet"
+    ],
+    "ezra_themes": [
+      "Money",
+      "Justice"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Mark 10:19",
+      "Luke 19:8-10",
+      "Ephesians 4:28",
+      "Exodus 20:15",
+      "Leviticus 19:11"
+    ],
+    "pack": "theft",
+    "ezra_selections": [
+      "Proverbs 11:1",
+      "James 5:4",
+      "Leviticus 19:13"
+    ]
+  },
+  {
+    "id": "privacy_and_confidentiality",
+    "label": "Privacy and others’ secrets",
+    "description": "Accessing or revealing someone’s private information, secrets, communications, or confidences beyond the permission they gave.",
+    "commandments": [
+      "steal",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Speech (Tongue)",
+      "Wisdom"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 18:15",
+      "Proverbs 11:13",
+      "Proverbs 25:9-10",
+      "Proverbs 20:19"
+    ],
+    "pack": "privacy_and_confidentiality",
+    "ezra_selections": [
+      "Proverbs 10:19",
+      "Proverbs 17:27",
+      "James 1:19"
+    ]
+  },
+  {
+    "id": "permission_and_authority",
+    "label": "Permission and delegated authority",
+    "description": "Checking consent and staying within the authority, access, and limits that a person actually granted.",
+    "commandments": [
+      "steal",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Obedience",
+      "Leadership"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Luke 16:10-12",
+      "Matthew 8:8-9",
+      "Luke 12:42-46",
+      "Romans 13:1-2"
+    ],
+    "pack": "permission_and_authority",
+    "ezra_selections": [
+      "1 Peter 2:13-15",
+      "Titus 3:1",
+      "Romans 13:3-4"
+    ]
+  },
+  {
+    "id": "obedience_and_conscience",
+    "label": "Obedience and conscience",
+    "description": "Following legitimate instructions while refusing commands that require wrongdoing or dishonor God.",
+    "commandments": [
+      "one_god",
+      "steal",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Obedience",
+      "Faith",
+      "Leadership"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Faithful and Wise Servant"
+    ],
+    "anchors": [
+      "Mark 12:17",
+      "John 14:15",
+      "Acts 5:29",
+      "Daniel 3:16-18"
+    ],
+    "pack": "obedience_and_conscience",
+    "ezra_selections": [
+      "Romans 13:5",
+      "1 Peter 2:13-15",
+      "Matthew 24:45-47"
+    ]
+  },
+  {
+    "id": "stewardship",
+    "label": "Stewardship of entrusted resources",
+    "description": "Using entrusted money, data, time, tools, and natural resources carefully for their intended good.",
+    "commandments": [
+      "steal",
+      "covet"
+    ],
+    "ezra_themes": [
+      "Money",
+      "Wisdom",
+      "Serving Others"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Talents"
+    ],
+    "anchors": [
+      "Luke 16:10-12",
+      "John 6:12",
+      "1 Corinthians 4:2",
+      "Genesis 2:15",
+      "Proverbs 27:23-24"
+    ],
+    "pack": "stewardship",
+    "ezra_selections": [
+      "Matthew 25:20-23",
+      "Proverbs 13:11",
+      "1 Peter 4:10"
+    ]
+  },
+  {
+    "id": "destructive_actions",
+    "label": "Destruction and irreversible actions",
+    "description": "Deleting, damaging, or discarding valuable resources without sufficient authority, need, safeguards, or regard for affected people.",
+    "commandments": [
+      "steal",
+      "murder"
+    ],
+    "ezra_themes": [
+      "Wisdom",
+      "Protection"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "John 6:12",
+      "Luke 14:28-32",
+      "Proverbs 14:15-16",
+      "Deuteronomy 20:19",
+      "Ecclesiastes 3:1-3"
+    ],
+    "pack": "destructive_actions",
+    "ezra_selections": [
+      "Proverbs 22:3",
+      "Proverbs 15:22",
+      "James 1:19"
+    ]
+  },
+  {
+    "id": "protecting_life",
+    "label": "Protecting human life",
+    "description": "Preventing avoidable death or serious bodily harm and helping people whose lives or safety are in danger.",
+    "commandments": [
+      "murder"
+    ],
+    "ezra_themes": [
+      "Life",
+      "Protection",
+      "Mercy",
+      "Justice",
+      "Serving Others"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Good Samaritan"
+    ],
+    "anchors": [
+      "Mark 3:4",
+      "Luke 10:33-37",
+      "Exodus 20:13",
+      "Proverbs 24:11-12",
+      "Deuteronomy 22:8"
+    ],
+    "pack": "protecting_life",
+    "ezra_selections": [
+      "Psalms 82:3-4",
+      "Isaiah 1:17",
+      "James 2:15-16"
+    ]
+  },
+  {
+    "id": "violence",
+    "label": "Violence and threats",
+    "description": "Inflicting, enabling, or threatening bodily injury against people, including violence disguised as obedience or revenge.",
+    "commandments": [
+      "murder"
+    ],
+    "ezra_themes": [
+      "Anger",
+      "Peace"
+    ],
+    "ezra_pericopes": [
+      "Gethsemane"
+    ],
+    "anchors": [
+      "Matthew 5:21-22",
+      "Matthew 26:52",
+      "Luke 9:54-56",
+      "Romans 12:17-21",
+      "Exodus 20:13"
+    ],
+    "pack": "violence",
+    "ezra_selections": [
+      "James 1:19-20",
+      "Proverbs 15:1",
+      "Psalms 34:14"
+    ]
+  },
+  {
+    "id": "humility",
+    "label": "Humility and pride",
+    "description": "Admitting limits and mistakes, receiving correction, and resisting claims of superiority or self-importance.",
+    "commandments": [
+      "one_god",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Humility",
+      "Pride"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Pharisee and Tax Collector"
+    ],
+    "anchors": [
+      "Luke 18:9-14",
+      "Matthew 23:12",
+      "Philippians 2:3-8",
+      "Proverbs 16:18"
+    ],
+    "pack": "humility",
+    "ezra_selections": [
+      "James 4:6",
+      "1 Peter 5:5-6",
+      "Proverbs 11:2"
+    ]
+  },
+  {
+    "id": "power_and_domination",
+    "label": "Power and domination",
+    "description": "Seeking control, special privileges, or influence over people for self-advancement rather than service.",
+    "commandments": [
+      "one_god",
+      "covet"
+    ],
+    "ezra_themes": [
+      "Leadership",
+      "Humility"
+    ],
+    "ezra_pericopes": [
+      "Foot Washing"
+    ],
+    "anchors": [
+      "Mark 10:42-45",
+      "Luke 22:25-27",
+      "1 Peter 5:2-3",
+      "Ezekiel 34:2-4"
+    ],
+    "pack": "power_and_domination",
+    "ezra_selections": [
+      "John 13:12-15",
+      "Philippians 2:3-4",
+      "Proverbs 29:2"
+    ]
+  },
+  {
+    "id": "greed",
+    "label": "Greed and money",
+    "description": "Pursuing wealth, profit, or another person’s possessions at the expense of faithfulness, contentment, or people’s welfare.",
+    "commandments": [
+      "covet",
+      "steal",
+      "one_god"
+    ],
+    "ezra_themes": [
+      "Money",
+      "Jealousy",
+      "Justice"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Rich Fool"
+    ],
+    "anchors": [
+      "Luke 12:15-21",
+      "Matthew 6:24",
+      "1 Timothy 6:9-10",
+      "Hebrews 13:5",
+      "Exodus 20:17"
+    ],
+    "pack": "greed",
+    "ezra_selections": [
+      "Proverbs 11:28",
+      "Ecclesiastes 5:10",
+      "James 5:1-6"
+    ]
+  },
+  {
+    "id": "generosity",
+    "label": "Generosity and sharing",
+    "description": "Giving practical help, money, or resources freely and honestly to meet others’ needs.",
+    "commandments": [
+      "covet",
+      "steal"
+    ],
+    "ezra_themes": [
+      "Generosity",
+      "Kindness",
+      "Love"
+    ],
+    "ezra_pericopes": [
+      "Generosity"
+    ],
+    "anchors": [
+      "Matthew 6:1-4",
+      "Luke 6:38",
+      "Luke 14:12-14",
+      "2 Corinthians 9:6-7",
+      "Deuteronomy 15:7-8"
+    ],
+    "pack": "generosity",
+    "ezra_selections": [
+      "Acts 20:35",
+      "Proverbs 19:17",
+      "1 John 3:17-18"
+    ]
+  },
+  {
+    "id": "sexual_faithfulness",
+    "label": "Sexual faithfulness",
+    "description": "Respecting marriage commitments and treating people faithfully rather than pursuing adultery, lust, or betrayal.",
+    "commandments": [
+      "adultery",
+      "covet"
+    ],
+    "ezra_themes": [
+      "Marriage",
+      "Lust",
+      "Holiness"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 5:27-28",
+      "Matthew 19:4-6",
+      "Hebrews 13:4",
+      "1 Thessalonians 4:3-6",
+      "Exodus 20:14"
+    ],
+    "pack": "sexual_faithfulness",
+    "ezra_selections": [
+      "1 Corinthians 6:18-20",
+      "Proverbs 5:18-20",
+      "Job 31:1"
+    ]
+  },
+  {
+    "id": "sexual_exploitation",
+    "label": "Sexual exploitation and coercion",
+    "description": "Pressuring, trafficking, exposing, or using a person sexually without free consent or by exploiting vulnerability.",
+    "commandments": [
+      "adultery",
+      "murder",
+      "covet"
+    ],
+    "ezra_themes": [
+      "Justice",
+      "Holiness"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 18:6",
+      "Matthew 5:28",
+      "1 Thessalonians 4:3-6",
+      "1 Corinthians 6:18-20",
+      "Deuteronomy 22:25-27"
+    ],
+    "pack": "sexual_exploitation",
+    "ezra_selections": [
+      "Psalms 82:3-4",
+      "Isaiah 1:17",
+      "Amos 5:24"
+    ]
+  },
+  {
+    "id": "care_for_vulnerable",
+    "label": "Care for vulnerable people",
+    "description": "Protecting and meeting the needs of children, poor people, strangers, disabled people, and others exposed to neglect or exploitation.",
+    "commandments": [
+      "murder",
+      "steal"
+    ],
+    "ezra_themes": [
+      "Mercy",
+      "Justice",
+      "Kindness"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Sheep and Goats"
+    ],
+    "anchors": [
+      "Matthew 25:35-40",
+      "Mark 10:13-16",
+      "James 1:27",
+      "Proverbs 31:8-9",
+      "Deuteronomy 10:18-19"
+    ],
+    "pack": "care_for_vulnerable",
+    "ezra_selections": [
+      "Psalms 82:3-4",
+      "Isaiah 1:17",
+      "Proverbs 19:17"
+    ]
+  },
+  {
+    "id": "mercy",
+    "label": "Mercy toward people at fault",
+    "description": "Responding to wrongdoing with compassion and proportionate restraint instead of needless punishment or humiliation.",
+    "commandments": [
+      "murder"
+    ],
+    "ezra_themes": [
+      "Mercy",
+      "Kindness",
+      "Forgiveness"
+    ],
+    "ezra_pericopes": [
+      "Woman Caught in Adultery"
+    ],
+    "anchors": [
+      "Matthew 9:13",
+      "Matthew 12:7",
+      "John 8:7-11",
+      "James 2:13",
+      "Micah 6:8"
+    ],
+    "pack": "mercy",
+    "ezra_selections": [
+      "Luke 6:36",
+      "Proverbs 19:11",
+      "Hosea 6:6"
+    ]
+  },
+  {
+    "id": "forgiveness",
+    "label": "Forgiveness",
+    "description": "Releasing personal resentment and forgiving those who have wronged us without excusing or concealing the wrong.",
+    "commandments": [
+      "murder"
+    ],
+    "ezra_themes": [
+      "Forgiveness",
+      "Forgiving Others Who Hurt You"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Unforgiving Servant"
+    ],
+    "anchors": [
+      "Matthew 18:21-35",
+      "Luke 17:3-4",
+      "Ephesians 4:31-32",
+      "Colossians 3:13"
+    ],
+    "pack": "forgiveness",
+    "ezra_selections": [
+      "Matthew 6:14-15",
+      "Mark 11:25",
+      "Proverbs 19:11"
+    ]
+  },
+  {
+    "id": "justice",
+    "label": "Justice and accountability",
+    "description": "Defending people from oppression, investigating wrongdoing fairly, and holding wrongdoers accountable.",
+    "commandments": [
+      "murder",
+      "steal",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Justice"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Persistent Widow"
+    ],
+    "anchors": [
+      "Matthew 23:23",
+      "Luke 18:1-8",
+      "Micah 6:8",
+      "Isaiah 1:17",
+      "Proverbs 31:8-9"
+    ],
+    "pack": "justice",
+    "ezra_selections": [
+      "Amos 5:24",
+      "Deuteronomy 16:19",
+      "Psalms 82:3-4"
+    ]
+  },
+  {
+    "id": "fairness_and_partiality",
+    "label": "Fairness and partiality",
+    "description": "Applying standards consistently without favoritism based on wealth, status, identity, friendship, or personal advantage.",
+    "commandments": [
+      "false_witness",
+      "covet"
+    ],
+    "ezra_themes": [
+      "Partiality / Favoritism",
+      "Justice"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "John 7:24",
+      "Luke 14:12-14",
+      "James 2:1-9",
+      "Leviticus 19:15",
+      "Deuteronomy 16:19"
+    ],
+    "pack": "fairness_and_partiality",
+    "ezra_selections": [
+      "Deuteronomy 1:17",
+      "Romans 2:11",
+      "1 Timothy 5:21"
+    ]
+  },
+  {
+    "id": "slander_and_gossip",
+    "label": "Slander and gossip",
+    "description": "Spreading rumors, exposing confidences, or attacking a person’s reputation through careless or malicious speech.",
+    "commandments": [
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Speech (Tongue)",
+      "Deceit",
+      "Self Control",
+      "Worship",
+      "Trust"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 12:36-37",
+      "Matthew 15:18-20",
+      "Ephesians 4:29",
+      "Leviticus 19:16",
+      "Proverbs 16:28"
+    ],
+    "pack": "slander_and_gossip",
+    "ezra_selections": [
+      "James 3:5-10",
+      "Proverbs 11:13",
+      "Proverbs 26:20"
+    ]
+  },
+  {
+    "id": "manipulation",
+    "label": "Manipulation and coercive persuasion",
+    "description": "Steering someone’s choices through deception, hidden motives, emotional pressure, or abuse of trust.",
+    "commandments": [
+      "false_witness",
+      "steal"
+    ],
+    "ezra_themes": [
+      "Deceit",
+      "Lying"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 23:4",
+      "Matthew 7:15-20",
+      "Mark 12:40",
+      "2 Corinthians 4:2",
+      "1 Thessalonians 2:3-5"
+    ],
+    "pack": "manipulation",
+    "ezra_selections": [
+      "Proverbs 26:24",
+      "Romans 16:17-18",
+      "Colossians 2:4"
+    ]
+  },
+  {
+    "id": "work_and_diligence",
+    "label": "Work and diligence",
+    "description": "Doing authorized work carefully, reliably, and honestly rather than neglecting duties or pretending it is complete.",
+    "commandments": [
+      "steal",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Obedience",
+      "Wisdom",
+      "Perseverance",
+      "Serving Others"
+    ],
+    "ezra_pericopes": [
+      "Parable of the Faithful and Wise Servant"
+    ],
+    "anchors": [
+      "Matthew 24:45-47",
+      "Luke 16:10",
+      "Colossians 3:23-24",
+      "2 Thessalonians 3:10-12",
+      "Proverbs 6:6-8"
+    ],
+    "pack": "work_and_diligence",
+    "ezra_selections": [
+      "Colossians 3:22",
+      "Ecclesiastes 9:10",
+      "Luke 12:42-44"
+    ]
+  },
+  {
+    "id": "rest",
+    "label": "Rest and humane workloads",
+    "description": "Respecting people’s need for rest and resisting endless imposed labor while allowing work that helps others.",
+    "commandments": [
+      "sabbath"
+    ],
+    "ezra_themes": [
+      "Mercy",
+      "Peace"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Mark 2:27-28",
+      "Matthew 12:9-12",
+      "Mark 6:31",
+      "Exodus 20:8-11",
+      "Deuteronomy 5:14"
+    ],
+    "pack": "rest",
+    "ezra_selections": [
+      "Matthew 11:28-30",
+      "Psalms 4:8",
+      "Luke 6:9"
+    ]
+  },
+  {
+    "id": "family_and_parents",
+    "label": "Family and parents",
+    "description": "Honoring parents and caring responsibly for family relationships and dependents without excusing abuse.",
+    "commandments": [
+      "honor_parents",
+      "adultery"
+    ],
+    "ezra_themes": [
+      "Family",
+      "Honoring Parents",
+      "Love"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Mark 7:9-13",
+      "Luke 2:51",
+      "Ephesians 6:1-4",
+      "1 Timothy 5:8",
+      "Exodus 20:12"
+    ],
+    "pack": "family_and_parents",
+    "ezra_selections": [
+      "Colossians 3:20-21",
+      "Proverbs 23:22",
+      "Deuteronomy 6:6-7"
+    ]
+  },
+  {
+    "id": "idolatry",
+    "label": "Idolatry and false worship",
+    "description": "Treating created things, wealth, leaders, or an AI system as God or encouraging false worship.",
+    "commandments": [
+      "one_god",
+      "no_idols"
+    ],
+    "ezra_themes": [
+      "Idolatry",
+      "Worship",
+      "Obedience"
+    ],
+    "ezra_pericopes": [
+      "Temptation in the Wilderness"
+    ],
+    "anchors": [
+      "Matthew 4:8-10",
+      "Matthew 6:24",
+      "1 Corinthians 10:14",
+      "Exodus 20:3-6",
+      "Isaiah 42:8"
+    ],
+    "pack": "idolatry",
+    "ezra_selections": [
+      "1 John 5:21",
+      "Colossians 3:5",
+      "Deuteronomy 6:13-15"
+    ]
+  },
+  {
+    "id": "reverence_for_god",
+    "label": "Reverence for God’s name",
+    "description": "Using God’s name truthfully and reverently without invoking divine authority to deceive, manipulate, or authenticate invented claims.",
+    "commandments": [
+      "name_in_vain",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Worship",
+      "Holiness"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 6:9",
+      "Matthew 5:33-37",
+      "Matthew 7:21-23",
+      "Exodus 20:7",
+      "Leviticus 19:12"
+    ],
+    "pack": "reverence_for_god",
+    "ezra_selections": [
+      "Psalms 99:3",
+      "Deuteronomy 6:13",
+      "1 Peter 1:15-16"
+    ]
+  },
+  {
+    "id": "self_control",
+    "label": "Self-control",
+    "description": "Restraining impulses, appetites, and escalating behavior so that actions remain deliberate and responsible.",
+    "commandments": [
+      "murder",
+      "adultery",
+      "covet"
+    ],
+    "ezra_themes": [
+      "Self Control",
+      "Patience"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 5:29-30",
+      "Luke 21:34",
+      "Galatians 5:22-23",
+      "Titus 2:11-12",
+      "Proverbs 25:28"
+    ],
+    "pack": "self_control",
+    "ezra_selections": [
+      "James 1:19-20",
+      "Proverbs 16:32",
+      "1 Corinthians 9:25-27"
+    ]
+  },
+  {
+    "id": "temptation",
+    "label": "Temptation and shortcuts",
+    "description": "Recognizing and resisting pressure to gain an advantage by abandoning an acknowledged moral duty.",
+    "commandments": [
+      "one_god",
+      "steal",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Temptation",
+      "Self Control",
+      "Spiritual Warfare"
+    ],
+    "ezra_pericopes": [
+      "Temptation in the Wilderness"
+    ],
+    "anchors": [
+      "Matthew 4:1-11",
+      "Matthew 26:41",
+      "1 Corinthians 10:13",
+      "James 1:13-15"
+    ],
+    "pack": "temptation",
+    "ezra_selections": [
+      "Hebrews 4:15",
+      "James 4:7",
+      "1 Peter 5:8-9"
+    ]
+  },
+  {
+    "id": "enemies_and_retaliation",
+    "label": "Enemies and retaliation",
+    "description": "Responding to hostility without hatred, revenge, or cruelty and seeking the good of opponents.",
+    "commandments": [
+      "murder"
+    ],
+    "ezra_themes": [
+      "Forgiving Others Who Hurt You",
+      "Peace",
+      "Kindness",
+      "Mercy"
+    ],
+    "ezra_pericopes": [
+      "Sermon on the Mount"
+    ],
+    "anchors": [
+      "Matthew 5:38-48",
+      "Luke 6:27-36",
+      "Romans 12:17-21",
+      "Proverbs 24:17-18"
+    ],
+    "pack": "enemies_and_retaliation",
+    "ezra_selections": [
+      "1 Peter 3:9",
+      "Proverbs 25:21-22",
+      "Exodus 23:4"
+    ]
+  },
+  {
+    "id": "judging_others",
+    "label": "Judging others",
+    "description": "Assessing another person’s conduct without hypocrisy, contempt, reckless assumptions, or pretending to know their heart.",
+    "commandments": [
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Judgment",
+      "Humility",
+      "Wisdom",
+      "Mercy"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 7:1-5",
+      "John 7:24",
+      "Luke 18:9-14",
+      "James 4:11-12",
+      "1 Corinthians 4:5"
+    ],
+    "pack": "judging_others",
+    "ezra_selections": [
+      "Romans 14:10-13",
+      "Proverbs 18:13",
+      "James 2:13"
+    ]
+  },
+  {
+    "id": "serving_others",
+    "label": "Serving others",
+    "description": "Using ability, status, or tools to help people and meet real needs without demanding recognition.",
+    "commandments": [
+      "covet"
+    ],
+    "ezra_themes": [
+      "Serving Others",
+      "Leadership"
+    ],
+    "ezra_pericopes": [
+      "Foot Washing"
+    ],
+    "anchors": [
+      "Mark 10:42-45",
+      "John 13:12-17",
+      "Luke 22:26-27",
+      "Galatians 5:13",
+      "1 Peter 4:10"
+    ],
+    "pack": "serving_others",
+    "ezra_selections": [
+      "Philippians 2:3-4",
+      "Romans 12:11",
+      "Hebrews 6:10"
+    ]
+  },
+  {
+    "id": "peacemaking",
+    "label": "Peacemaking and reconciliation",
+    "description": "Reducing conflict through truthful listening, direct reconciliation, and practical efforts toward peace.",
+    "commandments": [
+      "murder",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Peacemaking",
+      "Reconciliation",
+      "Peace",
+      "Humility"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 5:9",
+      "Matthew 5:23-24",
+      "Matthew 18:15-17",
+      "Romans 12:18",
+      "James 3:17-18"
+    ],
+    "pack": "peacemaking",
+    "ezra_selections": [
+      "Ephesians 4:2-3",
+      "Hebrews 12:14",
+      "Proverbs 15:1"
+    ]
+  },
+  {
+    "id": "promises_and_faithfulness",
+    "label": "Promises and faithfulness",
+    "description": "Keeping commitments and reporting clearly when a promise cannot be fulfilled.",
+    "commandments": [
+      "false_witness",
+      "name_in_vain"
+    ],
+    "ezra_themes": [
+      "Loyalty",
+      "Covenant",
+      "Obedience"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 5:33-37",
+      "Luke 16:10",
+      "James 5:12",
+      "Numbers 30:2",
+      "Psalms 15:4"
+    ],
+    "pack": "promises_and_faithfulness",
+    "ezra_selections": [
+      "Ecclesiastes 5:4-5",
+      "Deuteronomy 23:21",
+      "Deuteronomy 23:23"
+    ]
+  },
+  {
+    "id": "restitution_and_repair",
+    "label": "Restitution and repair",
+    "description": "Acknowledging harm, returning what was taken, and repairing damage rather than hiding the mistake or merely apologizing.",
+    "commandments": [
+      "steal",
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Repentance",
+      "Justice"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Luke 19:8-10",
+      "Matthew 5:23-24",
+      "Ephesians 4:28",
+      "Leviticus 6:4-5",
+      "Numbers 5:6-7"
+    ],
+    "pack": "restitution_and_repair",
+    "ezra_selections": [
+      "Ezekiel 33:15",
+      "Proverbs 28:13",
+      "2 Corinthians 7:10-11"
+    ]
+  },
+  {
+    "id": "counsel_and_uncertainty",
+    "label": "Counsel and uncertainty",
+    "description": "Seeking qualified advice or human direction when knowledge, authority, or the consequences of an action are unclear.",
+    "commandments": [
+      "false_witness"
+    ],
+    "ezra_themes": [
+      "Wisdom",
+      "Humility"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Luke 14:28-32",
+      "Matthew 7:7-11",
+      "James 1:5",
+      "Proverbs 15:22",
+      "Proverbs 18:13"
+    ],
+    "pack": "counsel_and_uncertainty",
+    "ezra_selections": [
+      "Proverbs 11:14",
+      "Proverbs 12:15",
+      "Proverbs 19:20"
+    ]
+  },
+  {
+    "id": "anger",
+    "label": "Anger and contempt",
+    "description": "Responding to frustration without insults, rage, humiliation, or escalation that harms people.",
+    "commandments": [
+      "murder"
+    ],
+    "ezra_themes": [
+      "Anger",
+      "Self Control"
+    ],
+    "ezra_pericopes": [],
+    "anchors": [
+      "Matthew 5:21-24",
+      "Mark 3:5",
+      "Ephesians 4:26-27",
+      "James 1:19-20",
+      "Proverbs 15:1"
+    ],
+    "pack": "anger",
+    "ezra_selections": [
+      "Proverbs 29:11",
+      "Proverbs 16:32",
+      "Ecclesiastes 7:9"
+    ]
+  },
+  {
+    "id": "compassion",
+    "label": "Compassion in distress",
+    "description": "Noticing and responding kindly to grief, illness, fear, isolation, or suffering instead of dismissing people’s distress.",
+    "commandments": [
+      "murder"
+    ],
+    "ezra_themes": [
+      "Kindness",
+      "Mercy",
+      "Grief",
+      "Serving Others",
+      "Protection"
+    ],
+    "ezra_pericopes": [
+      "Raising of Lazarus"
+    ],
+    "anchors": [
+      "Matthew 9:36",
+      "Luke 7:13",
+      "John 11:33-36",
+      "Romans 12:15",
+      "Colossians 3:12"
+    ],
+    "pack": "compassion",
+    "ezra_selections": [
+      "2 Corinthians 1:3-4",
+      "Psalms 34:18",
+      "1 Peter 3:8"
+    ]
+  }
+]

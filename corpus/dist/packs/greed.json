@@ -1,0 +1,46 @@
+{
+  "est_tokens": 639,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 12:15-21",
+      "text": "He said to them, “Beware! Keep yourselves from covetousness, for a man’s life doesn’t consist of the abundance of the things which he possesses.” He spoke a parable to them, saying, “The ground of a certain rich man produced abundantly. He reasoned within himself, saying, ‘What will I do, because I don’t have room to store my crops?’ He said, ‘This is what I will do. I will pull down my barns, build bigger ones, and there I will store all my grain and my goods. I will tell my soul, “Soul, you have many goods laid up for many years. Take your ease, eat, drink, and be merry.”’ “But God said to him, ‘You foolish one, tonight your soul is required of you. The things which you have prepared—whose will they be?’ So is he who lays up treasure for himself, and is not rich toward God.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 6:24",
+      "text": "“No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can’t serve both God and Mammon."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Timothy 6:9-10",
+      "text": "But those who are determined to be rich fall into a temptation, a snare, and many foolish and harmful lusts, such as drown men in ruin and destruction. For the love of money is a root of all kinds of evil. Some have been led astray from the faith in their greed, and have pierced themselves through with many sorrows."
+    },
+    {
+      "kind": "nt",
+      "ref": "Hebrews 13:5",
+      "text": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "James 5:1-6",
+      "text": "Come now, you rich, weep and howl for your miseries that are coming on you. Your riches are corrupted and your garments are moth-eaten. Your gold and your silver are corroded, and their corrosion will be for a testimony against you and will eat your flesh like fire. You have laid up your treasure in the last days. Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out; and the cries of those who reaped have entered into the ears of the Lord of Armies. You have lived in luxury on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter. You have condemned and you have murdered the righteous one. He doesn’t resist you."
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 20:17",
+      "text": "“You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor’s.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 11:28",
+      "text": "He who trusts in his riches will fall, but the righteous shall flourish as the green leaf."
+    },
+    {
+      "kind": "ot",
+      "ref": "Ecclesiastes 5:10",
+      "text": "He who loves silver shall not be satisfied with silver, nor he who loves abundance, with increase. This also is vanity."
+    }
+  ],
+  "topic": "greed"
+}

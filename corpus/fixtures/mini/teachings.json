@@ -1,0 +1,83 @@
+[
+  {
+    "description": "Confronting the conversion of a place devoted to God into a marketplace and examining the authority claimed for that intervention.",
+    "est_tokens": 250,
+    "id": "cleansing_of_the_temple",
+    "name": "Cleansing of the Temple",
+    "ref": "John 2:13-22",
+    "topics": [
+      "permission_and_authority"
+    ]
+  },
+  {
+    "description": "Using leadership and authority for humble, practical service rather than expecting others to absorb all low-status work.",
+    "est_tokens": 456,
+    "id": "foot_washing",
+    "name": "Jesus washes the disciples' feet",
+    "ref": "John 13:1-17",
+    "topics": [
+      "love_of_neighbor"
+    ]
+  },
+  {
+    "description": "Giving practical and costly help to a person in danger across social boundaries instead of passing by or narrowing who counts as a neighbor.",
+    "est_tokens": 369,
+    "id": "good_samaritan",
+    "name": "Parable of the Good Samaritan",
+    "ref": "Luke 10:25-37",
+    "topics": [
+      "love_of_neighbor",
+      "protecting_life"
+    ]
+  },
+  {
+    "description": "Distinguishing legitimate civic obligations from what belongs to God when a question is framed as a trap.",
+    "est_tokens": 193,
+    "id": "render_to_caesar",
+    "name": "Render to Caesar",
+    "ref": "Matthew 22:15-22",
+    "topics": [
+      "permission_and_authority"
+    ]
+  },
+  {
+    "description": "A broad foundation for actions involving love, mercy, truthful speech, enemies, possessions, prayer and putting Jesus' teaching into practice.",
+    "est_tokens": 3170,
+    "id": "sermon_on_the_mount",
+    "name": "The Sermon on the Mount",
+    "ref": "Matthew 5:1-7:29",
+    "topics": [
+      "love_of_neighbor",
+      "honesty",
+      "permission_and_authority"
+    ]
+  },
+  {
+    "description": "Rejecting shortcuts that misuse power, manipulate Scripture, test God or trade faithful worship for control and prestige.",
+    "est_tokens": 299,
+    "id": "temptation_in_the_wilderness",
+    "name": "Temptation in the wilderness",
+    "ref": "Matthew 4:1-11",
+    "topics": []
+  },
+  {
+    "description": "Resisting a condemning trap, examining one's own guilt and extending mercy while still calling a person away from wrongdoing.",
+    "est_tokens": 290,
+    "id": "woman_caught_in_adultery",
+    "name": "The woman caught in adultery",
+    "ref": "John 8:1-11",
+    "topics": [
+      "protecting_life"
+    ]
+  },
+  {
+    "description": "Welcoming a despised person while connecting repentance to concrete generosity and repayment of what was wrongfully taken.",
+    "est_tokens": 236,
+    "id": "zacchaeus",
+    "name": "Zacchaeus",
+    "ref": "Luke 19:1-10",
+    "topics": [
+      "theft"
+    ]
+  }
+]

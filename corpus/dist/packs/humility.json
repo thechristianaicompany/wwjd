@@ -1,0 +1,41 @@
+{
+  "est_tokens": 486,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 18:9-14",
+      "text": "He also spoke this parable to certain people who were convinced of their own righteousness, and who despised all others: “Two men went up into the temple to pray; one was a Pharisee, and the other was a tax collector. The Pharisee stood and prayed by himself like this: ‘God, I thank you that I am not like the rest of men: extortionists, unrighteous, adulterers, or even like this tax collector. I fast twice a week. I give tithes of all that I get.’ But the tax collector, standing far away, wouldn’t even lift up his eyes to heaven, but beat his chest, saying, ‘God, be merciful to me, a sinner!’ I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but he who humbles himself will be exalted.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 23:12",
+      "text": "Whoever exalts himself will be humbled, and whoever humbles himself will be exalted."
+    },
+    {
+      "kind": "nt",
+      "ref": "Philippians 2:3-8",
+      "text": "doing nothing through rivalry or through conceit, but in humility, each counting others better than himself; each of you not just looking to his own things, but each of you also to the things of others. Have this in your mind, which was also in Christ Jesus, who, existing in the form of God, didn’t consider equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being made in the likeness of men. And being found in human form, he humbled himself, becoming obedient to the point of death, yes, the death of the cross."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 4:6",
+      "text": "But he gives more grace. Therefore it says, “God resists the proud, but gives grace to the humble.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Peter 5:5-6",
+      "text": "Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility and subject yourselves to one another; for “God resists the proud, but gives grace to the humble.” Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time,"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 16:18",
+      "text": "Pride goes before destruction, and an arrogant spirit before a fall."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 11:2",
+      "text": "When pride comes, then comes shame, but with humility comes wisdom."
+    }
+  ],
+  "topic": "humility"
+}

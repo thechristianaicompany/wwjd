@@ -1,0 +1,46 @@
+{
+  "est_tokens": 450,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 23:4",
+      "text": "For they bind heavy burdens that are grievous to be borne, and lay them on men’s shoulders; but they themselves will not lift a finger to help them."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 7:15-20",
+      "text": "“Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves. By their fruits you will know them. Do you gather grapes from thorns or figs from thistles? Even so, every good tree produces good fruit, but the corrupt tree produces evil fruit. A good tree can’t produce evil fruit, neither can a corrupt tree produce good fruit. Every tree that doesn’t grow good fruit is cut down and thrown into the fire. Therefore by their fruits you will know them."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 12:40",
+      "text": "those who devour widows’ houses, and for a pretense make long prayers. These will receive greater condemnation.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "2 Corinthians 4:2",
+      "text": "But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Thessalonians 2:3-5",
+      "text": "For our exhortation is not of error, nor of uncleanness, nor in deception. But even as we have been approved by God to be entrusted with the Good News, so we speak—not as pleasing men, but God, who tests our hearts. For neither were we at any time found using words of flattery, as you know, nor a cloak of covetousness (God is witness),"
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 16:17-18",
+      "text": "Now I beg you, brothers, look out for those who are causing the divisions and occasions of stumbling, contrary to the doctrine which you learned, and turn away from them. For those who are such don’t serve our Lord Jesus Christ, but their own belly; and by their smooth and flattering speech they deceive the hearts of the innocent."
+    },
+    {
+      "kind": "nt",
+      "ref": "Colossians 2:4",
+      "text": "Now I say this that no one may delude you with persuasiveness of speech."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 26:24",
+      "text": "A malicious man disguises himself with his lips, but he harbors evil in his heart."
+    }
+  ],
+  "topic": "manipulation"
+}

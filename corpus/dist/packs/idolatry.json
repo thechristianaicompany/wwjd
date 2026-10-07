@@ -1,0 +1,46 @@
+{
+  "est_tokens": 431,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 4:8-10",
+      "text": "Again, the devil took him to an exceedingly high mountain, and showed him all the kingdoms of the world and their glory. He said to him, “I will give you all of these things, if you will fall down and worship me.” Then Jesus said to him, “Get behind me, Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 6:24",
+      "text": "“No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can’t serve both God and Mammon."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Corinthians 10:14",
+      "text": "Therefore, my beloved, flee from idolatry."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 John 5:21",
+      "text": "Little children, keep yourselves from idols."
+    },
+    {
+      "kind": "nt",
+      "ref": "Colossians 3:5",
+      "text": "Put to death therefore your members which are on the earth: sexual immorality, uncleanness, depraved passion, evil desire, and covetousness, which is idolatry."
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 20:3-6",
+      "text": "“You shall have no other gods before me. “You shall not make for yourselves an idol, nor any image of anything that is in the heavens above, or that is on the earth beneath, or that is in the water under the earth: you shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and on the fourth generation of those who hate me, and showing loving kindness to thousands of those who love me and keep my commandments."
+    },
+    {
+      "kind": "ot",
+      "ref": "Isaiah 42:8",
+      "text": "“I am Yahweh. That is my name. I will not give my glory to another, nor my praise to engraved images."
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 6:13-15",
+      "text": "You shall fear Yahweh your God; and you shall serve him, and shall swear by his name. You shall not go after other gods, of the gods of the peoples who are around you, for Yahweh your God among you is a jealous God, lest the anger of Yahweh your God be kindled against you, and he destroy you from off the face of the earth."
+    }
+  ],
+  "topic": "idolatry"
+}

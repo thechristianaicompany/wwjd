@@ -1,0 +1,41 @@
+{
+  "est_tokens": 337,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 10:28",
+      "text": "Don’t be afraid of those who kill the body, but are not able to kill the soul. Rather, fear him who is able to destroy both soul and body in Gehenna."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "John 18:37",
+      "text": "Pilate therefore said to him, “Are you a king then?” Jesus answered, “You say that I am a king. For this reason I have been born, and for this reason I have come into the world, that I should testify to the truth. Everyone who is of the truth listens to my voice.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "Acts 4:19-20",
+      "text": "But Peter and John answered them, “Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves, for we can’t help telling the things which we saw and heard.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Peter 3:14",
+      "text": "But even if you should suffer for righteousness’ sake, you are blessed. “Don’t fear what they fear, neither be troubled.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Daniel 3:16-18",
+      "text": "Shadrach, Meshach, and Abednego answered the king, “Nebuchadnezzar, we have no need to answer you in this matter. If it happens, our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king. But if not, let it be known to you, O king, that we will not serve your gods or worship the golden image which you have set up.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 29:25",
+      "text": "The fear of man proves to be a snare, but whoever puts his trust in Yahweh is kept safe."
+    },
+    {
+      "kind": "ot",
+      "ref": "Psalms 56:3-4",
+      "text": "When I am afraid, I will put my trust in you. In God, I praise his word. In God, I put my trust. I will not be afraid. What can flesh do to me?"
+    }
+  ],
+  "topic": "truth_under_pressure"
+}

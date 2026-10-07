@@ -1,0 +1,1797 @@
+{
+  "anger": {
+    "est_tokens": 359,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:21-24",
+        "text": "“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’ But I tell you that everyone who is angry with his brother without a cause will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna. “If therefore you are offering your gift at the altar, and there remember that your brother has anything against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 3:5",
+        "text": "When he had looked around at them with anger, being grieved at the hardening of their hearts, he said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored as healthy as the other."
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 4:26-27",
+        "text": "“Be angry, and don’t sin.” Don’t let the sun go down on your wrath, and don’t give place to the devil."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 1:19-20",
+        "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; for the anger of man doesn’t produce the righteousness of God."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 15:1",
+        "text": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 29:11",
+        "text": "A fool vents all of his anger, but a wise man brings himself under control."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 16:32",
+        "text": "One who is slow to anger is better than the mighty; one who rules his spirit, than he who takes a city."
+      },
+      {
+        "kind": "ot",
+        "ref": "Ecclesiastes 7:9",
+        "text": "Don’t be hasty in your spirit to be angry, for anger rests in the bosom of fools."
+      }
+    ],
+    "topic": "anger"
+  },
+  "care_for_vulnerable": {
+    "est_tokens": 484,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 25:35-40",
+        "text": "for I was hungry and you gave me food to eat. I was thirsty and you gave me drink. I was a stranger and you took me in. I was naked and you clothed me. I was sick and you visited me. I was in prison and you came to me.’ “Then the righteous will answer him, saying, ‘Lord, when did we see you hungry and feed you, or thirsty and give you a drink? When did we see you as a stranger and take you in, or naked and clothe you? When did we see you sick or in prison and come to you?’ “The King will answer them, ‘Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me.’"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 10:13-16",
+        "text": "They were bringing to him little children, that he should touch them, but the disciples rebuked those who were bringing them. But when Jesus saw it, he was moved with indignation and said to them, “Allow the little children to come to me! Don’t forbid them, for God’s Kingdom belongs to such as these. Most certainly I tell you, whoever will not receive God’s Kingdom like a little child, he will in no way enter into it.” He took them in his arms and blessed them, laying his hands on them."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 1:27",
+        "text": "Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 31:8-9",
+        "text": "Open your mouth for the mute, in the cause of all who are left desolate. Open your mouth, judge righteously, and serve justice to the poor and needy.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 10:18-19",
+        "text": "He executes justice for the fatherless and widow and loves the foreigner in giving him food and clothing. Therefore love the foreigner, for you were foreigners in the land of Egypt."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 82:3-4",
+        "text": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed. Rescue the weak and needy. Deliver them out of the hand of the wicked.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Isaiah 1:17",
+        "text": "Learn to do well. Seek justice. Relieve the oppressed. Defend the fatherless. Plead for the widow.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 19:17",
+        "text": "He who has pity on the poor lends to Yahweh; he will reward him."
+      }
+    ],
+    "topic": "care_for_vulnerable"
+  },
+  "compassion": {
+    "est_tokens": 286,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 9:36",
+        "text": "But when he saw the multitudes, he was moved with compassion for them because they were harassed and scattered, like sheep without a shepherd."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 7:13",
+        "text": "When the Lord saw her, he had compassion on her and said to her, “Don’t cry.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 11:33-36",
+        "text": "When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit and was troubled, and said, “Where have you laid him?” They told him, “Lord, come and see.” Jesus wept. The Jews therefore said, “See how much affection he had for him!”"
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 12:15",
+        "text": "Rejoice with those who rejoice. Weep with those who weep."
+      },
+      {
+        "kind": "nt",
+        "ref": "Colossians 3:12",
+        "text": "Put on therefore, as God’s chosen ones, holy and beloved, a heart of compassion, kindness, lowliness, humility, and perseverance;"
+      },
+      {
+        "kind": "nt",
+        "ref": "2 Corinthians 1:3-4",
+        "text": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 3:8",
+        "text": "Finally, all of you be like-minded, compassionate, loving as brothers, tenderhearted, courteous,"
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 34:18",
+        "text": "Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit."
+      }
+    ],
+    "topic": "compassion"
+  },
+  "counsel_and_uncertainty": {
+    "est_tokens": 407,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 14:28-32",
+        "text": "For which of you, desiring to build a tower, doesn’t first sit down and count the cost, to see if he has enough to complete it? Or perhaps, when he has laid a foundation and isn’t able to finish, everyone who sees begins to mock him, saying, ‘This man began to build and wasn’t able to finish.’ Or what king, as he goes to encounter another king in war, will not sit down first and consider whether he is able with ten thousand to meet him who comes against him with twenty thousand? Or else, while the other is yet a great way off, he sends an envoy and asks for conditions of peace."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 7:7-11",
+        "text": "“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you. For everyone who asks receives. He who seeks finds. To him who knocks it will be opened. Or who is there among you who, if his son asks him for bread, will give him a stone? Or if he asks for a fish, who will give him a serpent? If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!"
+      },
+      {
+        "kind": "nt",
+        "ref": "James 1:5",
+        "text": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 15:22",
+        "text": "Where there is no counsel, plans fail; but in a multitude of counselors they are established."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 18:13",
+        "text": "He who answers before he hears, that is folly and shame to him."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 11:14",
+        "text": "Where there is no wise guidance, the nation falls, but in the multitude of counselors there is victory."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 12:15",
+        "text": "The way of a fool is right in his own eyes, but he who is wise listens to counsel."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 19:20",
+        "text": "Listen to counsel and receive instruction, that you may be wise in your latter end."
+      }
+    ],
+    "topic": "counsel_and_uncertainty"
+  },
+  "destructive_actions": {
+    "est_tokens": 418,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 6:12",
+        "text": "When they were filled, he said to his disciples, “Gather up the broken pieces which are left over, that nothing be lost.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 14:28-32",
+        "text": "For which of you, desiring to build a tower, doesn’t first sit down and count the cost, to see if he has enough to complete it? Or perhaps, when he has laid a foundation and isn’t able to finish, everyone who sees begins to mock him, saying, ‘This man began to build and wasn’t able to finish.’ Or what king, as he goes to encounter another king in war, will not sit down first and consider whether he is able with ten thousand to meet him who comes against him with twenty thousand? Or else, while the other is yet a great way off, he sends an envoy and asks for conditions of peace."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 1:19",
+        "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger;"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 14:15-16",
+        "text": "A simple man believes everything, but the prudent man carefully considers his ways. A wise man fears and shuns evil, but the fool is hot headed and reckless."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 20:19",
+        "text": "When you shall besiege a city a long time, in making war against it to take it, you shall not destroy its trees by wielding an ax against them; for you may eat of them. You shall not cut them down, for is the tree of the field man, that it should be besieged by you?"
+      },
+      {
+        "kind": "ot",
+        "ref": "Ecclesiastes 3:1-3",
+        "text": "For everything there is a season, and a time for every purpose under heaven: a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted; a time to kill, and a time to heal; a time to break down, and a time to build up;"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 22:3",
+        "text": "A prudent man sees danger and hides himself; but the simple pass on, and suffer for it."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 15:22",
+        "text": "Where there is no counsel, plans fail; but in a multitude of counselors they are established."
+      }
+    ],
+    "topic": "destructive_actions"
+  },
+  "enemies_and_retaliation": {
+    "est_tokens": 795,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:38-48",
+        "text": "“You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’ But I tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also. If anyone sues you to take away your coat, let him have your cloak also. Whoever compels you to go one mile, go with him two. Give to him who asks you, and don’t turn away him who desires to borrow from you. “You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you, that you may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust. For if you love those who love you, what reward do you have? Don’t even the tax collectors do the same? If you only greet your friends, what more do you do than others? Don’t even the tax collectors do the same? Therefore you shall be perfect, just as your Father in heaven is perfect."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 6:27-36",
+        "text": "“But I tell you who hear: love your enemies, do good to those who hate you, bless those who curse you, and pray for those who mistreat you. To him who strikes you on the cheek, offer also the other; and from him who takes away your cloak, don’t withhold your coat also. Give to everyone who asks you, and don’t ask him who takes away your goods to give them back again. “As you would like people to do to you, do exactly so to them. “If you love those who love you, what credit is that to you? For even sinners love those who love them. If you do good to those who do good to you, what credit is that to you? For even sinners do the same. If you lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners, to receive back as much. But love your enemies, and do good, and lend, expecting nothing back; and your reward will be great, and you will be children of the Most High; for he is kind toward the unthankful and evil. “Therefore be merciful, even as your Father is also merciful."
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 12:17-21",
+        "text": "Repay no one evil for evil. Respect what is honorable in the sight of all men. If it is possible, as much as it is up to you, be at peace with all men. Don’t seek revenge yourselves, beloved, but give place to God’s wrath. For it is written, “Vengeance belongs to me; I will repay, says the Lord.” Therefore “If your enemy is hungry, feed him. If he is thirsty, give him a drink; for in doing so, you will heap coals of fire on his head.” Don’t be overcome by evil, but overcome evil with good."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 3:9",
+        "text": "not rendering evil for evil or insult for insult; but instead blessing, knowing that you were called to this, that you may inherit a blessing."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 24:17-18",
+        "text": "Don’t rejoice when your enemy falls. Don’t let your heart be glad when he is overthrown, lest Yahweh see it, and it displease him, and he turn away his wrath from him."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 25:21-22",
+        "text": "If your enemy is hungry, give him food to eat. If he is thirsty, give him water to drink; for you will heap coals of fire on his head, and Yahweh will reward you."
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 23:4",
+        "text": "“If you meet your enemy’s ox or his donkey going astray, you shall surely bring it back to him again."
+      }
+    ],
+    "topic": "enemies_and_retaliation"
+  },
+  "fairness_and_partiality": {
+    "est_tokens": 575,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 7:24",
+        "text": "Don’t judge according to appearance, but judge righteous judgment.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 14:12-14",
+        "text": "He also said to the one who had invited him, “When you make a dinner or a supper, don’t call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, or perhaps they might also return the favor, and pay you back. But when you make a feast, ask the poor, the maimed, the lame, or the blind; and you will be blessed, because they don’t have the resources to repay you. For you will be repaid in the resurrection of the righteous.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "James 2:1-9",
+        "text": "My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality. For if a man with a gold ring, in fine clothing, comes into your synagogue, and a poor man in filthy clothing also comes in, and you pay special attention to him who wears the fine clothing and say, “Sit here in a good place;” and you tell the poor man, “Stand there,” or “Sit by my footstool” haven’t you shown partiality among yourselves, and become judges with evil thoughts? Listen, my beloved brothers. Didn’t God choose those who are poor in this world to be rich in faith and heirs of the Kingdom which he promised to those who love him? But you have dishonored the poor man. Don’t the rich oppress you and personally drag you before the courts? Don’t they blaspheme the honorable name by which you are called? However, if you fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,” you do well. But if you show partiality, you commit sin, being convicted by the law as transgressors."
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 2:11",
+        "text": "For there is no partiality with God."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Timothy 5:21",
+        "text": "I command you in the sight of God, and the Lord Jesus Christ, and the chosen angels, that you observe these things without prejudice, doing nothing by partiality."
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 19:15",
+        "text": "“‘You shall do no injustice in judgment. You shall not be partial to the poor, nor show favoritism to the great; but you shall judge your neighbor in righteousness."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 16:19",
+        "text": "You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 1:17",
+        "text": "You shall not show partiality in judgment; you shall hear the small and the great alike. You shall not be afraid of the face of man, for the judgment is God’s. The case that is too hard for you, you shall bring to me, and I will hear it.”"
+      }
+    ],
+    "topic": "fairness_and_partiality"
+  },
+  "family_and_parents": {
+    "est_tokens": 429,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 7:9-13",
+        "text": "He said to them, “Full well do you reject the commandment of God, that you may keep your tradition. For Moses said, ‘Honor your father and your mother;’ and, ‘He who speaks evil of father or mother, let him be put to death.’ But you say, ‘If a man tells his father or his mother, “Whatever profit you might have received from me is Corban,”’” that is to say, given to God, “then you no longer allow him to do anything for his father or his mother, making void the word of God by your tradition which you have handed down. You do many things like this.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 2:51",
+        "text": "And he went down with them and came to Nazareth. He was subject to them, and his mother kept all these sayings in her heart."
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 6:1-4",
+        "text": "Children, obey your parents in the Lord, for this is right. “Honor your father and mother,” which is the first commandment with a promise: “that it may be well with you, and you may live long on the earth.” You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Timothy 5:8",
+        "text": "But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever."
+      },
+      {
+        "kind": "nt",
+        "ref": "Colossians 3:20-21",
+        "text": "Children, obey your parents in all things, for this pleases the Lord. Fathers, don’t provoke your children, so that they won’t be discouraged."
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:12",
+        "text": "“Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 23:22",
+        "text": "Listen to your father who gave you life, and don’t despise your mother when she is old."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 6:6-7",
+        "text": "These words, which I command you today, shall be on your heart; and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up."
+      }
+    ],
+    "topic": "family_and_parents"
+  },
+  "forgiveness": {
+    "est_tokens": 662,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 18:21-35",
+        "text": "Then Peter came and said to him, “Lord, how often shall my brother sin against me, and I forgive him? Until seven times?” Jesus said to him, “I don’t tell you until seven times, but, until seventy times seven. Therefore the Kingdom of Heaven is like a certain king who wanted to settle accounts with his servants. When he had begun to settle, one was brought to him who owed him ten thousand talents. But because he couldn’t pay, his lord commanded him to be sold, with his wife, his children, and all that he had, and payment to be made. The servant therefore fell down and knelt before him, saying, ‘Lord, have patience with me, and I will repay you all!’ The lord of that servant, being moved with compassion, released him and forgave him the debt. “But that servant went out and found one of his fellow servants who owed him one hundred denarii, and he grabbed him and took him by the throat, saying, ‘Pay me what you owe!’ “So his fellow servant fell down at his feet and begged him, saying, ‘Have patience with me, and I will repay you!’ He would not, but went and cast him into prison until he should pay back that which was due. So when his fellow servants saw what was done, they were exceedingly sorry, and came and told their lord all that was done. Then his lord called him in and said to him, ‘You wicked servant! I forgave you all that debt because you begged me. Shouldn’t you also have had mercy on your fellow servant, even as I had mercy on you?’ His lord was angry, and delivered him to the tormentors until he should pay all that was due to him. So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 17:3-4",
+        "text": "Be careful. If your brother sins against you, rebuke him. If he repents, forgive him. If he sins against you seven times in the day, and seven times returns, saying, ‘I repent,’ you shall forgive him.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 6:14-15",
+        "text": "“For if you forgive men their trespasses, your heavenly Father will also forgive you. But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 11:25",
+        "text": "Whenever you stand praying, forgive, if you have anything against anyone; so that your Father, who is in heaven, may also forgive you your transgressions."
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 4:31-32",
+        "text": "Let all bitterness, wrath, anger, outcry, and slander be put away from you, with all malice. And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you."
+      },
+      {
+        "kind": "nt",
+        "ref": "Colossians 3:13",
+        "text": "bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 19:11",
+        "text": "The discretion of a man makes him slow to anger. It is his glory to overlook an offense."
+      }
+    ],
+    "topic": "forgiveness"
+  },
+  "generosity": {
+    "est_tokens": 567,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 6:1-4",
+        "text": "“Be careful that you don’t do your charitable giving before men, to be seen by them, or else you have no reward from your Father who is in heaven. Therefore, when you do merciful deeds, don’t sound a trumpet before yourself, as the hypocrites do in the synagogues and in the streets, that they may get glory from men. Most certainly I tell you, they have received their reward. But when you do merciful deeds, don’t let your left hand know what your right hand does, so that your merciful deeds may be in secret, then your Father who sees in secret will reward you openly."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 6:38",
+        "text": "“Give, and it will be given to you: good measure, pressed down, shaken together, and running over, will be given to you. For with the same measure you measure it will be measured back to you.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 14:12-14",
+        "text": "He also said to the one who had invited him, “When you make a dinner or a supper, don’t call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, or perhaps they might also return the favor, and pay you back. But when you make a feast, ask the poor, the maimed, the lame, or the blind; and you will be blessed, because they don’t have the resources to repay you. For you will be repaid in the resurrection of the righteous.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "2 Corinthians 9:6-7",
+        "text": "Remember this: he who sows sparingly will also reap sparingly. He who sows bountifully will also reap bountifully. Let each man give according as he has determined in his heart, not grudgingly or under compulsion, for God loves a cheerful giver."
+      },
+      {
+        "kind": "nt",
+        "ref": "Acts 20:35",
+        "text": "In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, ‘It is more blessed to give than to receive.’ ”"
+      },
+      {
+        "kind": "nt",
+        "ref": "1 John 3:17-18",
+        "text": "But whoever has the world’s goods and sees his brother in need, then closes his heart of compassion against him, how does God’s love remain in him? My little children, let’s not love in word only, or with the tongue only, but in deed and truth."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 15:7-8",
+        "text": "If a poor man, one of your brothers, is with you within any of your gates in your land which Yahweh your God gives you, you shall not harden your heart, nor shut your hand from your poor brother; but you shall surely open your hand to him, and shall surely lend him sufficient for his need, which he lacks."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 19:17",
+        "text": "He who has pity on the poor lends to Yahweh; he will reward him."
+      }
+    ],
+    "topic": "generosity"
+  },
+  "greed": {
+    "est_tokens": 639,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 12:15-21",
+        "text": "He said to them, “Beware! Keep yourselves from covetousness, for a man’s life doesn’t consist of the abundance of the things which he possesses.” He spoke a parable to them, saying, “The ground of a certain rich man produced abundantly. He reasoned within himself, saying, ‘What will I do, because I don’t have room to store my crops?’ He said, ‘This is what I will do. I will pull down my barns, build bigger ones, and there I will store all my grain and my goods. I will tell my soul, “Soul, you have many goods laid up for many years. Take your ease, eat, drink, and be merry.”’ “But God said to him, ‘You foolish one, tonight your soul is required of you. The things which you have prepared—whose will they be?’ So is he who lays up treasure for himself, and is not rich toward God.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 6:24",
+        "text": "“No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can’t serve both God and Mammon."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Timothy 6:9-10",
+        "text": "But those who are determined to be rich fall into a temptation, a snare, and many foolish and harmful lusts, such as drown men in ruin and destruction. For the love of money is a root of all kinds of evil. Some have been led astray from the faith in their greed, and have pierced themselves through with many sorrows."
+      },
+      {
+        "kind": "nt",
+        "ref": "Hebrews 13:5",
+        "text": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "James 5:1-6",
+        "text": "Come now, you rich, weep and howl for your miseries that are coming on you. Your riches are corrupted and your garments are moth-eaten. Your gold and your silver are corroded, and their corrosion will be for a testimony against you and will eat your flesh like fire. You have laid up your treasure in the last days. Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out; and the cries of those who reaped have entered into the ears of the Lord of Armies. You have lived in luxury on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter. You have condemned and you have murdered the righteous one. He doesn’t resist you."
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:17",
+        "text": "“You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor’s.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 11:28",
+        "text": "He who trusts in his riches will fall, but the righteous shall flourish as the green leaf."
+      },
+      {
+        "kind": "ot",
+        "ref": "Ecclesiastes 5:10",
+        "text": "He who loves silver shall not be satisfied with silver, nor he who loves abundance, with increase. This also is vanity."
+      }
+    ],
+    "topic": "greed"
+  },
+  "honesty": {
+    "est_tokens": 273,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:37",
+        "text": "But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 8:44",
+        "text": "You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn’t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies."
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 4:25",
+        "text": "Therefore, putting away falsehood, speak truth each one with his neighbor, for we are members of one another."
+      },
+      {
+        "kind": "nt",
+        "ref": "Colossians 3:9",
+        "text": "Don’t lie to one another, seeing that you have put off the old man with his doings,"
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:16",
+        "text": "“You shall not give false testimony against your neighbor."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 12:22",
+        "text": "Lying lips are an abomination to Yahweh, but those who do the truth are his delight."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 19:5",
+        "text": "A false witness shall not be unpunished. He who pours out lies shall not go free."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 6:16-19",
+        "text": "There are six things which Yahweh hates; yes, seven which are an abomination to him: arrogant eyes, a lying tongue, hands that shed innocent blood, a heart that devises wicked schemes, feet that are swift in running to mischief, a false witness who utters lies, and he who sows discord among brothers."
+      }
+    ],
+    "topic": "honesty"
+  },
+  "humility": {
+    "est_tokens": 486,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 18:9-14",
+        "text": "He also spoke this parable to certain people who were convinced of their own righteousness, and who despised all others: “Two men went up into the temple to pray; one was a Pharisee, and the other was a tax collector. The Pharisee stood and prayed by himself like this: ‘God, I thank you that I am not like the rest of men: extortionists, unrighteous, adulterers, or even like this tax collector. I fast twice a week. I give tithes of all that I get.’ But the tax collector, standing far away, wouldn’t even lift up his eyes to heaven, but beat his chest, saying, ‘God, be merciful to me, a sinner!’ I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but he who humbles himself will be exalted.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 23:12",
+        "text": "Whoever exalts himself will be humbled, and whoever humbles himself will be exalted."
+      },
+      {
+        "kind": "nt",
+        "ref": "Philippians 2:3-8",
+        "text": "doing nothing through rivalry or through conceit, but in humility, each counting others better than himself; each of you not just looking to his own things, but each of you also to the things of others. Have this in your mind, which was also in Christ Jesus, who, existing in the form of God, didn’t consider equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being made in the likeness of men. And being found in human form, he humbled himself, becoming obedient to the point of death, yes, the death of the cross."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 4:6",
+        "text": "But he gives more grace. Therefore it says, “God resists the proud, but gives grace to the humble.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 5:5-6",
+        "text": "Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility and subject yourselves to one another; for “God resists the proud, but gives grace to the humble.” Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time,"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 16:18",
+        "text": "Pride goes before destruction, and an arrogant spirit before a fall."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 11:2",
+        "text": "When pride comes, then comes shame, but with humility comes wisdom."
+      }
+    ],
+    "topic": "humility"
+  },
+  "idolatry": {
+    "est_tokens": 431,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 4:8-10",
+        "text": "Again, the devil took him to an exceedingly high mountain, and showed him all the kingdoms of the world and their glory. He said to him, “I will give you all of these things, if you will fall down and worship me.” Then Jesus said to him, “Get behind me, Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 6:24",
+        "text": "“No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can’t serve both God and Mammon."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Corinthians 10:14",
+        "text": "Therefore, my beloved, flee from idolatry."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 John 5:21",
+        "text": "Little children, keep yourselves from idols."
+      },
+      {
+        "kind": "nt",
+        "ref": "Colossians 3:5",
+        "text": "Put to death therefore your members which are on the earth: sexual immorality, uncleanness, depraved passion, evil desire, and covetousness, which is idolatry."
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:3-6",
+        "text": "“You shall have no other gods before me. “You shall not make for yourselves an idol, nor any image of anything that is in the heavens above, or that is on the earth beneath, or that is in the water under the earth: you shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and on the fourth generation of those who hate me, and showing loving kindness to thousands of those who love me and keep my commandments."
+      },
+      {
+        "kind": "ot",
+        "ref": "Isaiah 42:8",
+        "text": "“I am Yahweh. That is my name. I will not give my glory to another, nor my praise to engraved images."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 6:13-15",
+        "text": "You shall fear Yahweh your God; and you shall serve him, and shall swear by his name. You shall not go after other gods, of the gods of the peoples who are around you, for Yahweh your God among you is a jealous God, lest the anger of Yahweh your God be kindled against you, and he destroy you from off the face of the earth."
+      }
+    ],
+    "topic": "idolatry"
+  },
+  "judging_others": {
+    "est_tokens": 627,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 7:1-5",
+        "text": "“Don’t judge, so that you won’t be judged. For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you. Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye? Or how will you tell your brother, ‘Let me remove the speck from your eye,’ and behold, the beam is in your own eye? You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 7:24",
+        "text": "Don’t judge according to appearance, but judge righteous judgment.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 18:9-14",
+        "text": "He also spoke this parable to certain people who were convinced of their own righteousness, and who despised all others: “Two men went up into the temple to pray; one was a Pharisee, and the other was a tax collector. The Pharisee stood and prayed by himself like this: ‘God, I thank you that I am not like the rest of men: extortionists, unrighteous, adulterers, or even like this tax collector. I fast twice a week. I give tithes of all that I get.’ But the tax collector, standing far away, wouldn’t even lift up his eyes to heaven, but beat his chest, saying, ‘God, be merciful to me, a sinner!’ I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but he who humbles himself will be exalted.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "James 4:11-12",
+        "text": "Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge. Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?"
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Corinthians 4:5",
+        "text": "Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness and reveal the counsels of the hearts. Then each man will get his praise from God."
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 14:10-13",
+        "text": "But you, why do you judge your brother? Or you again, why do you despise your brother? For we will all stand before the judgment seat of Christ. For it is written, “‘As I live,’ says the Lord, ‘to me every knee will bow. Every tongue will confess to God.’” So then each one of us will give account of himself to God. Therefore let’s not judge one another any more, but judge this rather, that no man put a stumbling block in his brother’s way, or an occasion for falling."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 2:13",
+        "text": "For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 18:13",
+        "text": "He who answers before he hears, that is folly and shame to him."
+      }
+    ],
+    "topic": "judging_others"
+  },
+  "justice": {
+    "est_tokens": 453,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 23:23",
+        "text": "“Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cumin, and have left undone the weightier matters of the law: justice, mercy, and faith. But you ought to have done these, and not to have left the other undone."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 18:1-8",
+        "text": "He also spoke a parable to them that they must always pray and not give up, saying, “There was a judge in a certain city who didn’t fear God and didn’t respect man. A widow was in that city, and she often came to him, saying, ‘Defend me from my adversary!’ He wouldn’t for a while; but afterward he said to himself, ‘Though I neither fear God nor respect man, yet because this widow bothers me, I will defend her, or else she will wear me out by her continual coming.’” The Lord said, “Listen to what the unrighteous judge says. Won’t God avenge his chosen ones who are crying out to him day and night, and yet he exercises patience with them? I tell you that he will avenge them quickly. Nevertheless, when the Son of Man comes, will he find faith on the earth?”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Micah 6:8",
+        "text": "He has shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?"
+      },
+      {
+        "kind": "ot",
+        "ref": "Isaiah 1:17",
+        "text": "Learn to do well. Seek justice. Relieve the oppressed. Defend the fatherless. Plead for the widow.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 31:8-9",
+        "text": "Open your mouth for the mute, in the cause of all who are left desolate. Open your mouth, judge righteously, and serve justice to the poor and needy.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Amos 5:24",
+        "text": "But let justice roll on like rivers, and righteousness like a mighty stream."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 16:19",
+        "text": "You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 82:3-4",
+        "text": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed. Rescue the weak and needy. Deliver them out of the hand of the wicked.”"
+      }
+    ],
+    "topic": "justice"
+  },
+  "love_of_neighbor": {
+    "est_tokens": 486,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 12:28-31",
+        "text": "One of the scribes came and heard them questioning together, and knowing that he had answered them well, asked him, “Which commandment is the greatest of all?” Jesus answered, “The greatest is: ‘Hear, Israel, the Lord our God, the Lord is one. You shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’ This is the first commandment. The second is like this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 7:12",
+        "text": "Therefore, whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 10:36-37",
+        "text": "Now which of these three do you think seemed to be a neighbor to him who fell among the robbers?” He said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 13:34-35",
+        "text": "A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another. By this everyone will know that you are my disciples, if you have love for one another.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 13:8-10",
+        "text": "Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law. For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbor as yourself.” Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 John 3:17-18",
+        "text": "But whoever has the world’s goods and sees his brother in need, then closes his heart of compassion against him, how does God’s love remain in him? My little children, let’s not love in word only, or with the tongue only, but in deed and truth."
+      },
+      {
+        "kind": "nt",
+        "ref": "Galatians 5:14",
+        "text": "For the whole law is fulfilled in one word, in this: “You shall love your neighbor as yourself.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 19:18",
+        "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh."
+      }
+    ],
+    "topic": "love_of_neighbor"
+  },
+  "manipulation": {
+    "est_tokens": 450,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 23:4",
+        "text": "For they bind heavy burdens that are grievous to be borne, and lay them on men’s shoulders; but they themselves will not lift a finger to help them."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 7:15-20",
+        "text": "“Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves. By their fruits you will know them. Do you gather grapes from thorns or figs from thistles? Even so, every good tree produces good fruit, but the corrupt tree produces evil fruit. A good tree can’t produce evil fruit, neither can a corrupt tree produce good fruit. Every tree that doesn’t grow good fruit is cut down and thrown into the fire. Therefore by their fruits you will know them."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 12:40",
+        "text": "those who devour widows’ houses, and for a pretense make long prayers. These will receive greater condemnation.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "2 Corinthians 4:2",
+        "text": "But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Thessalonians 2:3-5",
+        "text": "For our exhortation is not of error, nor of uncleanness, nor in deception. But even as we have been approved by God to be entrusted with the Good News, so we speak—not as pleasing men, but God, who tests our hearts. For neither were we at any time found using words of flattery, as you know, nor a cloak of covetousness (God is witness),"
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 16:17-18",
+        "text": "Now I beg you, brothers, look out for those who are causing the divisions and occasions of stumbling, contrary to the doctrine which you learned, and turn away from them. For those who are such don’t serve our Lord Jesus Christ, but their own belly; and by their smooth and flattering speech they deceive the hearts of the innocent."
+      },
+      {
+        "kind": "nt",
+        "ref": "Colossians 2:4",
+        "text": "Now I say this that no one may delude you with persuasiveness of speech."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 26:24",
+        "text": "A malicious man disguises himself with his lips, but he harbors evil in his heart."
+      }
+    ],
+    "topic": "manipulation"
+  },
+  "mercy": {
+    "est_tokens": 333,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 9:13",
+        "text": "But you go and learn what this means: ‘I desire mercy, and not sacrifice,’ for I came not to call the righteous, but sinners to repentance.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 12:7",
+        "text": "But if you had known what this means, ‘I desire mercy, and not sacrifice,’ you wouldn’t have condemned the guiltless."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 8:7-11",
+        "text": "But when they continued asking him, he looked up and said to them, “He who is without sin among you, let him throw the first stone at her.” Again he stooped down and wrote on the ground with his finger. They, when they heard it, being convicted by their conscience, went out one by one, beginning from the oldest, even to the last. Jesus was left alone with the woman where she was, in the middle. Jesus, standing up, saw her and said, “Woman, where are your accusers? Did no one condemn you?” She said, “No one, Lord.” Jesus said, “Neither do I condemn you. Go your way. From now on, sin no more.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 6:36",
+        "text": "“Therefore be merciful, even as your Father is also merciful."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 2:13",
+        "text": "For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment."
+      },
+      {
+        "kind": "ot",
+        "ref": "Micah 6:8",
+        "text": "He has shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 19:11",
+        "text": "The discretion of a man makes him slow to anger. It is his glory to overlook an offense."
+      },
+      {
+        "kind": "ot",
+        "ref": "Hosea 6:6",
+        "text": "For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
+      }
+    ],
+    "topic": "mercy"
+  },
+  "obedience_and_conscience": {
+    "est_tokens": 326,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 12:17",
+        "text": "Jesus answered them, “Give to Caesar the things that are Caesar’s, and to God the things that are God’s.” They marveled greatly at him."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 14:15",
+        "text": "If you love me, keep my commandments."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 24:45-47",
+        "text": "“Who then is the faithful and wise servant, whom his lord has set over his household, to give them their food in due season? Blessed is that servant whom his lord finds doing so when he comes. Most certainly I tell you that he will set him over all that he has."
+      },
+      {
+        "kind": "nt",
+        "ref": "Acts 5:29",
+        "text": "But Peter and the apostles answered, “We must obey God rather than men."
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 13:5",
+        "text": "Therefore you need to be in subjection, not only because of the wrath, but also for conscience’ sake."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 2:13-15",
+        "text": "Therefore subject yourselves to every ordinance of man for the Lord’s sake: whether to the king, as supreme, or to governors, as sent by him for vengeance on evildoers and for praise to those who do well. For this is the will of God, that by well-doing you should put to silence the ignorance of foolish men."
+      },
+      {
+        "kind": "ot",
+        "ref": "Daniel 3:16-18",
+        "text": "Shadrach, Meshach, and Abednego answered the king, “Nebuchadnezzar, we have no need to answer you in this matter. If it happens, our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king. But if not, let it be known to you, O king, that we will not serve your gods or worship the golden image which you have set up.”"
+      }
+    ],
+    "topic": "obedience_and_conscience"
+  },
+  "peacemaking": {
+    "est_tokens": 339,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:9",
+        "text": "Blessed are the peacemakers, for they shall be called children of God."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:23-24",
+        "text": "“If therefore you are offering your gift at the altar, and there remember that your brother has anything against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 18:15-17",
+        "text": "“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector."
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 12:18",
+        "text": "If it is possible, as much as it is up to you, be at peace with all men."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 3:17-18",
+        "text": "But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy. Now the fruit of righteousness is sown in peace by those who make peace."
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 4:2-3",
+        "text": "with all lowliness and humility, with patience, bearing with one another in love, being eager to keep the unity of the Spirit in the bond of peace."
+      },
+      {
+        "kind": "nt",
+        "ref": "Hebrews 12:14",
+        "text": "Follow after peace with all men, and the sanctification without which no man will see the Lord,"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 15:1",
+        "text": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+      }
+    ],
+    "topic": "peacemaking"
+  },
+  "permission_and_authority": {
+    "est_tokens": 592,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 16:10-12",
+        "text": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much. If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? If you have not been faithful in that which is another’s, who will give you that which is your own?"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 8:8-9",
+        "text": "The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed. For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 12:42-46",
+        "text": "The Lord said, “Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times? Blessed is that servant whom his lord will find doing so when he comes. Truly I tell you that he will set him over all that he has. But if that servant says in his heart, ‘My lord delays his coming,’ and begins to beat the menservants and the maidservants, and to eat and drink and to be drunken, then the lord of that servant will come in a day when he isn’t expecting him and in an hour that he doesn’t know, and will cut him in two, and place his portion with the unfaithful."
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 13:1-2",
+        "text": "Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God. Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgment."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 2:13-15",
+        "text": "Therefore subject yourselves to every ordinance of man for the Lord’s sake: whether to the king, as supreme, or to governors, as sent by him for vengeance on evildoers and for praise to those who do well. For this is the will of God, that by well-doing you should put to silence the ignorance of foolish men."
+      },
+      {
+        "kind": "nt",
+        "ref": "Titus 3:1",
+        "text": "Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work,"
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 13:3-4",
+        "text": "For rulers are not a terror to the good work, but to the evil. Do you desire to have no fear of the authority? Do that which is good, and you will have praise from the authority, for he is a servant of God to you for good. But if you do that which is evil, be afraid, for he doesn’t bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil."
+      }
+    ],
+    "topic": "permission_and_authority"
+  },
+  "power_and_domination": {
+    "est_tokens": 596,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 10:42-45",
+        "text": "Jesus summoned them and said to them, “You know that they who are recognized as rulers over the nations lord it over them, and their great ones exercise authority over them. But it shall not be so among you, but whoever wants to become great among you shall be your servant. Whoever of you wants to become first among you shall be bondservant of all. For the Son of Man also came not to be served but to serve, and to give his life as a ransom for many.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 22:25-27",
+        "text": "He said to them, “The kings of the nations lord it over them, and those who have authority over them are called ‘benefactors.’ But not so with you. Rather, the one who is greater among you, let him become as the younger, and one who is governing, as one who serves. For who is greater, one who sits at the table, or one who serves? Isn’t it he who sits at the table? But I am among you as one who serves."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 13:12-15",
+        "text": "So when he had washed their feet, put his outer garment back on, and sat down again, he said to them, “Do you know what I have done to you? You call me, ‘Teacher’ and ‘Lord.’ You say so correctly, for so I am. If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another’s feet. For I have given you an example, that you should also do as I have done to you."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 5:2-3",
+        "text": "shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily; not for dishonest gain, but willingly; not as lording it over those entrusted to you, but making yourselves examples to the flock."
+      },
+      {
+        "kind": "nt",
+        "ref": "Philippians 2:3-4",
+        "text": "doing nothing through rivalry or through conceit, but in humility, each counting others better than himself; each of you not just looking to his own things, but each of you also to the things of others."
+      },
+      {
+        "kind": "ot",
+        "ref": "Ezekiel 34:2-4",
+        "text": "“Son of man, prophesy against the shepherds of Israel. Prophesy, and tell them, even the shepherds, ‘The Lord Yahweh says: “Woe to the shepherds of Israel who feed themselves! Shouldn’t the shepherds feed the sheep? You eat the fat. You clothe yourself with the wool. You kill the fatlings, but you don’t feed the sheep. You haven’t strengthened the diseased. You haven’t healed that which was sick. You haven’t bound up that which was broken. You haven’t brought back that which was driven away. You haven’t sought that which was lost, but you have ruled over them with force and with rigor."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 29:2",
+        "text": "When the righteous thrive, the people rejoice; but when the wicked rule, the people groan."
+      }
+    ],
+    "topic": "power_and_domination"
+  },
+  "privacy_and_confidentiality": {
+    "est_tokens": 204,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 18:15",
+        "text": "“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 1:19",
+        "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger;"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 11:13",
+        "text": "One who brings gossip betrays a confidence, but one who is of a trustworthy spirit is one who keeps a secret."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 25:9-10",
+        "text": "Debate your case with your neighbor, and don’t betray the confidence of another, lest one who hears it put you to shame, and your bad reputation never depart."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 20:19",
+        "text": "He who goes about as a tale-bearer reveals secrets; therefore don’t keep company with him who opens wide his lips."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 10:19",
+        "text": "In the multitude of words there is no lack of disobedience, but he who restrains his lips does wisely."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 17:27",
+        "text": "He who spares his words has knowledge. He who is even tempered is a man of understanding."
+      }
+    ],
+    "topic": "privacy_and_confidentiality"
+  },
+  "promises_and_faithfulness": {
+    "est_tokens": 414,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:33-37",
+        "text": "“Again you have heard that it was said to the ancient ones, ‘You shall not make false vows, but shall perform to the Lord your vows,’ but I tell you, don’t swear at all: neither by heaven, for it is the throne of God; nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King. Neither shall you swear by your head, for you can’t make one hair white or black. But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 16:10",
+        "text": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 5:12",
+        "text": "But above all things, my brothers, don’t swear—not by heaven, or by the earth, or by any other oath; but let your “yes” be “yes”, and your “no”, “no”, so that you don’t fall into hypocrisy."
+      },
+      {
+        "kind": "ot",
+        "ref": "Numbers 30:2",
+        "text": "When a man vows a vow to Yahweh, or swears an oath to bind his soul with a bond, he shall not break his word. He shall do according to all that proceeds out of his mouth."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 15:4",
+        "text": "in whose eyes a vile man is despised, but who honors those who fear Yahweh; he who keeps an oath even when it hurts, and doesn’t change;"
+      },
+      {
+        "kind": "ot",
+        "ref": "Ecclesiastes 5:4-5",
+        "text": "When you vow a vow to God, don’t defer to pay it; for he has no pleasure in fools. Pay that which you vow. It is better that you should not vow, than that you should vow and not pay."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 23:21",
+        "text": "When you vow a vow to Yahweh your God, you shall not be slack to pay it, for Yahweh your God will surely require it of you; and it would be sin in you."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 23:23",
+        "text": "You shall observe and do that which has gone out of your lips. Whatever you have vowed to Yahweh your God as a free will offering, which you have promised with your mouth, you must do."
+      }
+    ],
+    "topic": "promises_and_faithfulness"
+  },
+  "protecting_life": {
+    "est_tokens": 417,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 3:4",
+        "text": "He said to them, “Is it lawful on the Sabbath day to do good or to do harm? To save a life or to kill?” But they were silent."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 10:33-37",
+        "text": "But a certain Samaritan, as he traveled, came where he was. When he saw him, he was moved with compassion, came to him, and bound up his wounds, pouring on oil and wine. He set him on his own animal, brought him to an inn, and took care of him. On the next day, when he departed, he took out two denarii, gave them to the host, and said to him, ‘Take care of him. Whatever you spend beyond that, I will repay you when I return.’ Now which of these three do you think seemed to be a neighbor to him who fell among the robbers?” He said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "James 2:15-16",
+        "text": "And if a brother or sister is naked and in lack of daily food, and one of you tells them, “Go in peace. Be warmed and filled;” yet you didn’t give them the things the body needs, what good is it?"
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:13",
+        "text": "“You shall not murder."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 24:11-12",
+        "text": "Rescue those who are being led away to death! Indeed, hold back those who are staggering to the slaughter! If you say, “Behold, we didn’t know this,” doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it? Shall he not give to every man according to his work?"
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 22:8",
+        "text": "When you build a new house, then you shall make a railing around your roof, so that you don’t bring blood on your house if anyone falls from there."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 82:3-4",
+        "text": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed. Rescue the weak and needy. Deliver them out of the hand of the wicked.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Isaiah 1:17",
+        "text": "Learn to do well. Seek justice. Relieve the oppressed. Defend the fatherless. Plead for the widow.”"
+      }
+    ],
+    "topic": "protecting_life"
+  },
+  "rest": {
+    "est_tokens": 515,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 2:27-28",
+        "text": "He said to them, “The Sabbath was made for man, not man for the Sabbath. Therefore the Son of Man is lord even of the Sabbath.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 12:9-12",
+        "text": "He departed from there and went into their synagogue. And behold, there was a man with a withered hand. They asked him, “Is it lawful to heal on the Sabbath day?” so that they might accuse him. He said to them, “What man is there among you who has one sheep, and if this one falls into a pit on the Sabbath day, won’t he grab on to it and lift it out? Of how much more value then is a man than a sheep! Therefore it is lawful to do good on the Sabbath day.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 6:31",
+        "text": "He said to them, “Come away into a deserted place, and rest awhile.” For there were many coming and going, and they had no leisure so much as to eat."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 11:28-30",
+        "text": "“Come to me, all you who labor and are heavily burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 6:9",
+        "text": "Then Jesus said to them, “I will ask you something: Is it lawful on the Sabbath to do good, or to do harm? To save a life, or to kill?”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:8-11",
+        "text": "“Remember the Sabbath day, to keep it holy. You shall labor six days, and do all your work, but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates; for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 5:14",
+        "text": "but the seventh day is a Sabbath to Yahweh your God, in which you shall not do any work—neither you, nor your son, nor your daughter, nor your male servant, nor your female servant, nor your ox, nor your donkey, nor any of your livestock, nor your stranger who is within your gates; that your male servant and your female servant may rest as well as you."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 4:8",
+        "text": "In peace I will both lay myself down and sleep, for you alone, Yahweh, make me live in safety."
+      }
+    ],
+    "topic": "rest"
+  },
+  "restitution_and_repair": {
+    "est_tokens": 536,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 19:8-10",
+        "text": "Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.” Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham. For the Son of Man came to seek and to save that which was lost.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:23-24",
+        "text": "“If therefore you are offering your gift at the altar, and there remember that your brother has anything against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 4:28",
+        "text": "Let him who stole steal no more; but rather let him labor, producing with his hands something that is good, that he may have something to give to him who has need."
+      },
+      {
+        "kind": "nt",
+        "ref": "2 Corinthians 7:10-11",
+        "text": "For godly sorrow produces repentance leading to salvation, which brings no regret. But the sorrow of the world produces death. For behold, this same thing, that you were grieved in a godly way, what earnest care it worked in you. Yes, what defense, indignation, fear, longing, zeal, and vindication! In everything you demonstrated yourselves to be pure in the matter."
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 6:4-5",
+        "text": "then it shall be, if he has sinned, and is guilty, he shall restore that which he took by robbery, or the thing which he has gotten by oppression, or the deposit which was committed to him, or the lost thing which he found, or any thing about which he has sworn falsely: he shall restore it in full, and shall add a fifth part more to it. He shall return it to him to whom it belongs in the day of his being found guilty."
+      },
+      {
+        "kind": "ot",
+        "ref": "Numbers 5:6-7",
+        "text": "“Speak to the children of Israel: ‘When a man or woman commits any sin that men commit, so as to trespass against Yahweh, and that soul is guilty, then he shall confess his sin which he has done; and he shall make restitution for his guilt in full, add to it the fifth part of it, and give it to him in respect of whom he has been guilty."
+      },
+      {
+        "kind": "ot",
+        "ref": "Ezekiel 33:15",
+        "text": "if the wicked restore the pledge, give again that which he had taken by robbery, walk in the statutes of life, committing no iniquity, he will surely live. He will not die."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 28:13",
+        "text": "He who conceals his sins doesn’t prosper, but whoever confesses and renounces them finds mercy."
+      }
+    ],
+    "topic": "restitution_and_repair"
+  },
+  "reverence_for_god": {
+    "est_tokens": 360,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 6:9",
+        "text": "Pray like this: “‘Our Father in heaven, may your name be kept holy."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:33-37",
+        "text": "“Again you have heard that it was said to the ancient ones, ‘You shall not make false vows, but shall perform to the Lord your vows,’ but I tell you, don’t swear at all: neither by heaven, for it is the throne of God; nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King. Neither shall you swear by your head, for you can’t make one hair white or black. But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 7:21-23",
+        "text": "“Not everyone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven, but he who does the will of my Father who is in heaven. Many will tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’ Then I will tell them, ‘I never knew you. Depart from me, you who work iniquity.’"
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 1:15-16",
+        "text": "but just as he who called you is holy, you yourselves also be holy in all of your behavior, because it is written, “You shall be holy, for I am holy.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:7",
+        "text": "“You shall not misuse the name of Yahweh your God, for Yahweh will not hold him guiltless who misuses his name."
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 19:12",
+        "text": "“‘You shall not swear by my name falsely, and profane the name of your God. I am Yahweh."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 99:3",
+        "text": "Let them praise your great and awesome name. He is Holy!"
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 6:13",
+        "text": "You shall fear Yahweh your God; and you shall serve him, and shall swear by his name."
+      }
+    ],
+    "topic": "reverence_for_god"
+  },
+  "self_control": {
+    "est_tokens": 409,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:29-30",
+        "text": "If your right eye causes you to stumble, pluck it out and throw it away from you. For it is more profitable for you that one of your members should perish than for your whole body to be cast into Gehenna. If your right hand causes you to stumble, cut it off, and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 21:34",
+        "text": "“So be careful, or your hearts will be loaded down with carousing, drunkenness, and cares of this life, and that day will come on you suddenly."
+      },
+      {
+        "kind": "nt",
+        "ref": "Galatians 5:22-23",
+        "text": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. Against such things there is no law."
+      },
+      {
+        "kind": "nt",
+        "ref": "Titus 2:11-12",
+        "text": "For the grace of God has appeared, bringing salvation to all men, instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age;"
+      },
+      {
+        "kind": "nt",
+        "ref": "James 1:19-20",
+        "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; for the anger of man doesn’t produce the righteousness of God."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Corinthians 9:25-27",
+        "text": "Every man who strives in the games exercises self-control in all things. Now they do it to receive a corruptible crown, but we an incorruptible. I therefore run like that, not aimlessly. I fight like that, not beating the air, but I beat my body and bring it into submission, lest by any means, after I have preached to others, I myself should be disqualified."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 25:28",
+        "text": "Like a city that is broken down and without walls is a man whose spirit is without restraint."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 16:32",
+        "text": "One who is slow to anger is better than the mighty; one who rules his spirit, than he who takes a city."
+      }
+    ],
+    "topic": "self_control"
+  },
+  "serving_others": {
+    "est_tokens": 503,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 10:42-45",
+        "text": "Jesus summoned them and said to them, “You know that they who are recognized as rulers over the nations lord it over them, and their great ones exercise authority over them. But it shall not be so among you, but whoever wants to become great among you shall be your servant. Whoever of you wants to become first among you shall be bondservant of all. For the Son of Man also came not to be served but to serve, and to give his life as a ransom for many.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 13:12-17",
+        "text": "So when he had washed their feet, put his outer garment back on, and sat down again, he said to them, “Do you know what I have done to you? You call me, ‘Teacher’ and ‘Lord.’ You say so correctly, for so I am. If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another’s feet. For I have given you an example, that you should also do as I have done to you. Most certainly I tell you, a servant is not greater than his lord, neither is one who is sent greater than he who sent him. If you know these things, blessed are you if you do them."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 22:26-27",
+        "text": "But not so with you. Rather, the one who is greater among you, let him become as the younger, and one who is governing, as one who serves. For who is greater, one who sits at the table, or one who serves? Isn’t it he who sits at the table? But I am among you as one who serves."
+      },
+      {
+        "kind": "nt",
+        "ref": "Galatians 5:13",
+        "text": "For you, brothers, were called for freedom. Only don’t use your freedom as an opportunity for the flesh, but through love be servants to one another."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 4:10",
+        "text": "As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms."
+      },
+      {
+        "kind": "nt",
+        "ref": "Philippians 2:3-4",
+        "text": "doing nothing through rivalry or through conceit, but in humility, each counting others better than himself; each of you not just looking to his own things, but each of you also to the things of others."
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 12:11",
+        "text": "not lagging in diligence, fervent in spirit, serving the Lord,"
+      },
+      {
+        "kind": "nt",
+        "ref": "Hebrews 6:10",
+        "text": "For God is not unrighteous, so as to forget your work and the labor of love which you showed toward his name, in that you served the saints, and still do serve them."
+      }
+    ],
+    "topic": "serving_others"
+  },
+  "sexual_exploitation": {
+    "est_tokens": 470,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 18:6",
+        "text": "but whoever causes one of these little ones who believe in me to stumble, it would be better for him if a huge millstone were hung around his neck and that he were sunk in the depths of the sea."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:28",
+        "text": "but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Thessalonians 4:3-6",
+        "text": "For this is the will of God: your sanctification, that you abstain from sexual immorality, that each one of you know how to control his own body in sanctification and honor, not in the passion of lust, even as the Gentiles who don’t know God, that no one should take advantage of and wrong a brother or sister in this matter; because the Lord is an avenger in all these things, as also we forewarned you and testified."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Corinthians 6:18-20",
+        "text": "Flee sexual immorality! “Every sin that a man does is outside the body,” but he who commits sexual immorality sins against his own body. Or don’t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own, for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God’s."
+      },
+      {
+        "kind": "ot",
+        "ref": "Deuteronomy 22:25-27",
+        "text": "But if the man finds the lady who is pledged to be married in the field, and the man forces her and lies with her, then only the man who lay with her shall die; but to the lady you shall do nothing. There is in the lady no sin worthy of death; for as when a man rises against his neighbor and kills him, even so is this matter; for he found her in the field, the pledged to be married lady cried, and there was no one to save her."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 82:3-4",
+        "text": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed. Rescue the weak and needy. Deliver them out of the hand of the wicked.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Isaiah 1:17",
+        "text": "Learn to do well. Seek justice. Relieve the oppressed. Defend the fatherless. Plead for the widow.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Amos 5:24",
+        "text": "But let justice roll on like rivers, and righteousness like a mighty stream."
+      }
+    ],
+    "topic": "sexual_exploitation"
+  },
+  "sexual_faithfulness": {
+    "est_tokens": 460,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:27-28",
+        "text": "“You have heard that it was said, ‘You shall not commit adultery;’ but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 19:4-6",
+        "text": "He answered, “Haven’t you read that he who made them from the beginning made them male and female, and said, ‘For this cause a man shall leave his father and mother, and shall be joined to his wife; and the two shall become one flesh’? So that they are no more two, but one flesh. What therefore God has joined together, don’t let man tear apart.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "Hebrews 13:4",
+        "text": "Let marriage be held in honor among all, and let the bed be undefiled; but God will judge the sexually immoral and adulterers."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Thessalonians 4:3-6",
+        "text": "For this is the will of God: your sanctification, that you abstain from sexual immorality, that each one of you know how to control his own body in sanctification and honor, not in the passion of lust, even as the Gentiles who don’t know God, that no one should take advantage of and wrong a brother or sister in this matter; because the Lord is an avenger in all these things, as also we forewarned you and testified."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Corinthians 6:18-20",
+        "text": "Flee sexual immorality! “Every sin that a man does is outside the body,” but he who commits sexual immorality sins against his own body. Or don’t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own, for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God’s."
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:14",
+        "text": "“You shall not commit adultery."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 5:18-20",
+        "text": "Let your spring be blessed. Rejoice in the wife of your youth. A loving doe and a graceful deer— let her breasts satisfy you at all times. Be captivated always with her love. For why should you, my son, be captivated with an adulteress? Why embrace the bosom of another?"
+      },
+      {
+        "kind": "ot",
+        "ref": "Job 31:1",
+        "text": "“I made a covenant with my eyes; how then should I look lustfully at a young woman?"
+      }
+    ],
+    "topic": "sexual_faithfulness"
+  },
+  "slander_and_gossip": {
+    "est_tokens": 424,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 12:36-37",
+        "text": "I tell you that every idle word that men speak, they will give account of it in the day of judgment. For by your words you will be justified, and by your words you will be condemned.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 15:18-20",
+        "text": "But the things which proceed out of the mouth come out of the heart, and they defile the man. For out of the heart come evil thoughts, murders, adulteries, sexual sins, thefts, false testimony, and blasphemies. These are the things which defile the man; but to eat with unwashed hands doesn’t defile the man.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 4:29",
+        "text": "Let no corrupt speech proceed out of your mouth, but only what is good for building others up as the need may be, that it may give grace to those who hear."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 3:5-10",
+        "text": "So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest! And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna. For every kind of animal, bird, creeping thing, and sea creature is tamed, and has been tamed by mankind; but nobody can tame the tongue. It is a restless evil, full of deadly poison. With it we bless our God and Father, and with it we curse men who are made in the image of God. Out of the same mouth comes blessing and cursing. My brothers, these things ought not to be so."
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 19:16",
+        "text": "“‘You shall not go around as a slanderer among your people. “‘You shall not endanger the life of your neighbor. I am Yahweh."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 16:28",
+        "text": "A perverse man stirs up strife. A whisperer separates close friends."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 11:13",
+        "text": "One who brings gossip betrays a confidence, but one who is of a trustworthy spirit is one who keeps a secret."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 26:20",
+        "text": "For lack of wood a fire goes out. Without gossip, a quarrel dies down."
+      }
+    ],
+    "topic": "slander_and_gossip"
+  },
+  "stewardship": {
+    "est_tokens": 412,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 16:10-12",
+        "text": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much. If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? If you have not been faithful in that which is another’s, who will give you that which is your own?"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 6:12",
+        "text": "When they were filled, he said to his disciples, “Gather up the broken pieces which are left over, that nothing be lost.”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 25:20-23",
+        "text": "He who received the five talents came and brought another five talents, saying, ‘Lord, you delivered to me five talents. Behold, I have gained another five talents in addition to them.’ “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’ “He also who got the two talents came and said, ‘Lord, you delivered to me two talents. Behold, I have gained another two talents in addition to them.’ “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things. I will set you over many things. Enter into the joy of your lord.’"
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Corinthians 4:2",
+        "text": "Here, moreover, it is required of stewards that they be found faithful."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 4:10",
+        "text": "As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms."
+      },
+      {
+        "kind": "ot",
+        "ref": "Genesis 2:15",
+        "text": "Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 27:23-24",
+        "text": "Know well the state of your flocks, and pay attention to your herds, for riches are not forever, nor does the crown endure to all generations."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 13:11",
+        "text": "Wealth gained dishonestly dwindles away, but he who gathers by hand makes it grow."
+      }
+    ],
+    "topic": "stewardship"
+  },
+  "temptation": {
+    "est_tokens": 580,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 4:1-11",
+        "text": "Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. When he had fasted forty days and forty nights, he was hungry afterward. The tempter came and said to him, “If you are the Son of God, command that these stones become bread.” But he answered, “It is written, ‘Man shall not live by bread alone, but by every word that proceeds out of God’s mouth.’” Then the devil took him into the holy city. He set him on the pinnacle of the temple, and said to him, “If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels concerning you,’ and, ‘On their hands they will bear you up, so that you don’t dash your foot against a stone.’” Jesus said to him, “Again, it is written, ‘You shall not test the Lord, your God.’” Again, the devil took him to an exceedingly high mountain, and showed him all the kingdoms of the world and their glory. He said to him, “I will give you all of these things, if you will fall down and worship me.” Then Jesus said to him, “Get behind me, Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’” Then the devil left him, and behold, angels came and served him."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 26:41",
+        "text": "Watch and pray, that you don’t enter into temptation. The spirit indeed is willing, but the flesh is weak.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Corinthians 10:13",
+        "text": "No temptation has taken you except what is common to man. God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape, that you may be able to endure it."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 1:13-15",
+        "text": "Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one. But each one is tempted when he is drawn away by his own lust and enticed. Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death."
+      },
+      {
+        "kind": "nt",
+        "ref": "Hebrews 4:15",
+        "text": "For we don’t have a high priest who can’t be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 4:7",
+        "text": "Be subject therefore to God. Resist the devil, and he will flee from you."
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 5:8-9",
+        "text": "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour. Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings."
+      }
+    ],
+    "topic": "temptation"
+  },
+  "theft": {
+    "est_tokens": 294,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Mark 10:19",
+        "text": "You know the commandments: ‘Do not murder,’ ‘Do not commit adultery,’ ‘Do not steal,’ ‘Do not give false testimony,’ ‘Do not defraud,’ ‘Honor your father and mother.’”"
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 19:8-10",
+        "text": "Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.” Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham. For the Son of Man came to seek and to save that which was lost.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "Ephesians 4:28",
+        "text": "Let him who stole steal no more; but rather let him labor, producing with his hands something that is good, that he may have something to give to him who has need."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 5:4",
+        "text": "Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out; and the cries of those who reaped have entered into the ears of the Lord of Armies."
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:15",
+        "text": "“You shall not steal."
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 19:11",
+        "text": "“‘You shall not steal. “‘You shall not lie. “‘You shall not deceive one another."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 11:1",
+        "text": "A false balance is an abomination to Yahweh, but accurate weights are his delight."
+      },
+      {
+        "kind": "ot",
+        "ref": "Leviticus 19:13",
+        "text": "“‘You shall not oppress your neighbor, nor rob him. “‘The wages of a hired servant shall not remain with you all night until the morning."
+      }
+    ],
+    "topic": "theft"
+  },
+  "truth_under_pressure": {
+    "est_tokens": 337,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 10:28",
+        "text": "Don’t be afraid of those who kill the body, but are not able to kill the soul. Rather, fear him who is able to destroy both soul and body in Gehenna."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "John 18:37",
+        "text": "Pilate therefore said to him, “Are you a king then?” Jesus answered, “You say that I am a king. For this reason I have been born, and for this reason I have come into the world, that I should testify to the truth. Everyone who is of the truth listens to my voice.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "Acts 4:19-20",
+        "text": "But Peter and John answered them, “Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves, for we can’t help telling the things which we saw and heard.”"
+      },
+      {
+        "kind": "nt",
+        "ref": "1 Peter 3:14",
+        "text": "But even if you should suffer for righteousness’ sake, you are blessed. “Don’t fear what they fear, neither be troubled.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Daniel 3:16-18",
+        "text": "Shadrach, Meshach, and Abednego answered the king, “Nebuchadnezzar, we have no need to answer you in this matter. If it happens, our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king. But if not, let it be known to you, O king, that we will not serve your gods or worship the golden image which you have set up.”"
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 29:25",
+        "text": "The fear of man proves to be a snare, but whoever puts his trust in Yahweh is kept safe."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 56:3-4",
+        "text": "When I am afraid, I will put my trust in you. In God, I praise his word. In God, I put my trust. I will not be afraid. What can flesh do to me?"
+      }
+    ],
+    "topic": "truth_under_pressure"
+  },
+  "violence": {
+    "est_tokens": 412,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 5:21-22",
+        "text": "“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’ But I tell you that everyone who is angry with his brother without a cause will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 26:52",
+        "text": "Then Jesus said to him, “Put your sword back into its place, for all those who take the sword will die by the sword."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 9:54-56",
+        "text": "When his disciples, James and John, saw this, they said, “Lord, do you want us to command fire to come down from the sky and destroy them, just as Elijah did?” But he turned and rebuked them, “You don’t know of what kind of spirit you are. For the Son of Man didn’t come to destroy men’s lives, but to save them.” They went to another village."
+      },
+      {
+        "kind": "nt",
+        "ref": "Romans 12:17-21",
+        "text": "Repay no one evil for evil. Respect what is honorable in the sight of all men. If it is possible, as much as it is up to you, be at peace with all men. Don’t seek revenge yourselves, beloved, but give place to God’s wrath. For it is written, “Vengeance belongs to me; I will repay, says the Lord.” Therefore “If your enemy is hungry, feed him. If he is thirsty, give him a drink; for in doing so, you will heap coals of fire on his head.” Don’t be overcome by evil, but overcome evil with good."
+      },
+      {
+        "kind": "nt",
+        "ref": "James 1:19-20",
+        "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; for the anger of man doesn’t produce the righteousness of God."
+      },
+      {
+        "kind": "ot",
+        "ref": "Exodus 20:13",
+        "text": "“You shall not murder."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 15:1",
+        "text": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+      },
+      {
+        "kind": "ot",
+        "ref": "Psalms 34:14",
+        "text": "Depart from evil, and do good. Seek peace, and pursue it."
+      }
+    ],
+    "topic": "violence"
+  },
+  "work_and_diligence": {
+    "est_tokens": 420,
+    "passages": [
+      {
+        "kind": "jesus_teaching",
+        "ref": "Matthew 24:45-47",
+        "text": "“Who then is the faithful and wise servant, whom his lord has set over his household, to give them their food in due season? Blessed is that servant whom his lord finds doing so when he comes. Most certainly I tell you that he will set him over all that he has."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 16:10",
+        "text": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much."
+      },
+      {
+        "kind": "jesus_teaching",
+        "ref": "Luke 12:42-44",
+        "text": "The Lord said, “Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times? Blessed is that servant whom his lord will find doing so when he comes. Truly I tell you that he will set him over all that he has."
+      },
+      {
+        "kind": "nt",
+        "ref": "Colossians 3:23-24",
+        "text": "And whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the reward of the inheritance; for you serve the Lord Christ."
+      },
+      {
+        "kind": "nt",
+        "ref": "2 Thessalonians 3:10-12",
+        "text": "For even when we were with you, we commanded you this: “If anyone is not willing to work, don’t let him eat.” For we hear of some who walk among you in rebellion, who don’t work at all, but are busybodies. Now those who are that way, we command and exhort in the Lord Jesus Christ, that they work with quietness and eat their own bread."
+      },
+      {
+        "kind": "nt",
+        "ref": "Colossians 3:22",
+        "text": "Servants, obey in all things those who are your masters according to the flesh, not just when they are looking, as men pleasers, but in singleness of heart, fearing God."
+      },
+      {
+        "kind": "ot",
+        "ref": "Proverbs 6:6-8",
+        "text": "Go to the ant, you sluggard. Consider her ways, and be wise; which having no chief, overseer, or ruler, provides her bread in the summer, and gathers her food in the harvest."
+      },
+      {
+        "kind": "ot",
+        "ref": "Ecclesiastes 9:10",
+        "text": "Whatever your hand finds to do, do it with your might; for there is no work, nor plan, nor knowledge, nor wisdom, in Sheol, where you are going."
+      }
+    ],
+    "topic": "work_and_diligence"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "est_tokens": 503,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 10:42-45",
+      "text": "Jesus summoned them and said to them, “You know that they who are recognized as rulers over the nations lord it over them, and their great ones exercise authority over them. But it shall not be so among you, but whoever wants to become great among you shall be your servant. Whoever of you wants to become first among you shall be bondservant of all. For the Son of Man also came not to be served but to serve, and to give his life as a ransom for many.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "John 13:12-17",
+      "text": "So when he had washed their feet, put his outer garment back on, and sat down again, he said to them, “Do you know what I have done to you? You call me, ‘Teacher’ and ‘Lord.’ You say so correctly, for so I am. If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another’s feet. For I have given you an example, that you should also do as I have done to you. Most certainly I tell you, a servant is not greater than his lord, neither is one who is sent greater than he who sent him. If you know these things, blessed are you if you do them."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 22:26-27",
+      "text": "But not so with you. Rather, the one who is greater among you, let him become as the younger, and one who is governing, as one who serves. For who is greater, one who sits at the table, or one who serves? Isn’t it he who sits at the table? But I am among you as one who serves."
+    },
+    {
+      "kind": "nt",
+      "ref": "Galatians 5:13",
+      "text": "For you, brothers, were called for freedom. Only don’t use your freedom as an opportunity for the flesh, but through love be servants to one another."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Peter 4:10",
+      "text": "As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms."
+    },
+    {
+      "kind": "nt",
+      "ref": "Philippians 2:3-4",
+      "text": "doing nothing through rivalry or through conceit, but in humility, each counting others better than himself; each of you not just looking to his own things, but each of you also to the things of others."
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 12:11",
+      "text": "not lagging in diligence, fervent in spirit, serving the Lord,"
+    },
+    {
+      "kind": "nt",
+      "ref": "Hebrews 6:10",
+      "text": "For God is not unrighteous, so as to forget your work and the labor of love which you showed toward his name, in that you served the saints, and still do serve them."
+    }
+  ],
+  "topic": "serving_others"
+}

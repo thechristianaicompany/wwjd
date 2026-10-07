@@ -1,0 +1,46 @@
+{
+  "est_tokens": 360,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 6:9",
+      "text": "Pray like this: “‘Our Father in heaven, may your name be kept holy."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 5:33-37",
+      "text": "“Again you have heard that it was said to the ancient ones, ‘You shall not make false vows, but shall perform to the Lord your vows,’ but I tell you, don’t swear at all: neither by heaven, for it is the throne of God; nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King. Neither shall you swear by your head, for you can’t make one hair white or black. But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 7:21-23",
+      "text": "“Not everyone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven, but he who does the will of my Father who is in heaven. Many will tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’ Then I will tell them, ‘I never knew you. Depart from me, you who work iniquity.’"
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Peter 1:15-16",
+      "text": "but just as he who called you is holy, you yourselves also be holy in all of your behavior, because it is written, “You shall be holy, for I am holy.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 20:7",
+      "text": "“You shall not misuse the name of Yahweh your God, for Yahweh will not hold him guiltless who misuses his name."
+    },
+    {
+      "kind": "ot",
+      "ref": "Leviticus 19:12",
+      "text": "“‘You shall not swear by my name falsely, and profane the name of your God. I am Yahweh."
+    },
+    {
+      "kind": "ot",
+      "ref": "Psalms 99:3",
+      "text": "Let them praise your great and awesome name. He is Holy!"
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 6:13",
+      "text": "You shall fear Yahweh your God; and you shall serve him, and shall swear by his name."
+    }
+  ],
+  "topic": "reverence_for_god"
+}

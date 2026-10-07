@@ -1,0 +1,46 @@
+{
+  "est_tokens": 359,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 5:21-24",
+      "text": "“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’ But I tell you that everyone who is angry with his brother without a cause will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna. “If therefore you are offering your gift at the altar, and there remember that your brother has anything against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 3:5",
+      "text": "When he had looked around at them with anger, being grieved at the hardening of their hearts, he said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored as healthy as the other."
+    },
+    {
+      "kind": "nt",
+      "ref": "Ephesians 4:26-27",
+      "text": "“Be angry, and don’t sin.” Don’t let the sun go down on your wrath, and don’t give place to the devil."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 1:19-20",
+      "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; for the anger of man doesn’t produce the righteousness of God."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 15:1",
+      "text": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 29:11",
+      "text": "A fool vents all of his anger, but a wise man brings himself under control."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 16:32",
+      "text": "One who is slow to anger is better than the mighty; one who rules his spirit, than he who takes a city."
+    },
+    {
+      "kind": "ot",
+      "ref": "Ecclesiastes 7:9",
+      "text": "Don’t be hasty in your spirit to be angry, for anger rests in the bosom of fools."
+    }
+  ],
+  "topic": "anger"
+}

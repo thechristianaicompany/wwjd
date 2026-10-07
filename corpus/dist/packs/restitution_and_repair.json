@@ -1,0 +1,46 @@
+{
+  "est_tokens": 536,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 19:8-10",
+      "text": "Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.” Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham. For the Son of Man came to seek and to save that which was lost.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 5:23-24",
+      "text": "“If therefore you are offering your gift at the altar, and there remember that your brother has anything against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
+    },
+    {
+      "kind": "nt",
+      "ref": "Ephesians 4:28",
+      "text": "Let him who stole steal no more; but rather let him labor, producing with his hands something that is good, that he may have something to give to him who has need."
+    },
+    {
+      "kind": "nt",
+      "ref": "2 Corinthians 7:10-11",
+      "text": "For godly sorrow produces repentance leading to salvation, which brings no regret. But the sorrow of the world produces death. For behold, this same thing, that you were grieved in a godly way, what earnest care it worked in you. Yes, what defense, indignation, fear, longing, zeal, and vindication! In everything you demonstrated yourselves to be pure in the matter."
+    },
+    {
+      "kind": "ot",
+      "ref": "Leviticus 6:4-5",
+      "text": "then it shall be, if he has sinned, and is guilty, he shall restore that which he took by robbery, or the thing which he has gotten by oppression, or the deposit which was committed to him, or the lost thing which he found, or any thing about which he has sworn falsely: he shall restore it in full, and shall add a fifth part more to it. He shall return it to him to whom it belongs in the day of his being found guilty."
+    },
+    {
+      "kind": "ot",
+      "ref": "Numbers 5:6-7",
+      "text": "“Speak to the children of Israel: ‘When a man or woman commits any sin that men commit, so as to trespass against Yahweh, and that soul is guilty, then he shall confess his sin which he has done; and he shall make restitution for his guilt in full, add to it the fifth part of it, and give it to him in respect of whom he has been guilty."
+    },
+    {
+      "kind": "ot",
+      "ref": "Ezekiel 33:15",
+      "text": "if the wicked restore the pledge, give again that which he had taken by robbery, walk in the statutes of life, committing no iniquity, he will surely live. He will not die."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 28:13",
+      "text": "He who conceals his sins doesn’t prosper, but whoever confesses and renounces them finds mercy."
+    }
+  ],
+  "topic": "restitution_and_repair"
+}

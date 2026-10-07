@@ -1,0 +1,46 @@
+{
+  "est_tokens": 407,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 14:28-32",
+      "text": "For which of you, desiring to build a tower, doesn’t first sit down and count the cost, to see if he has enough to complete it? Or perhaps, when he has laid a foundation and isn’t able to finish, everyone who sees begins to mock him, saying, ‘This man began to build and wasn’t able to finish.’ Or what king, as he goes to encounter another king in war, will not sit down first and consider whether he is able with ten thousand to meet him who comes against him with twenty thousand? Or else, while the other is yet a great way off, he sends an envoy and asks for conditions of peace."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 7:7-11",
+      "text": "“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you. For everyone who asks receives. He who seeks finds. To him who knocks it will be opened. Or who is there among you who, if his son asks him for bread, will give him a stone? Or if he asks for a fish, who will give him a serpent? If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!"
+    },
+    {
+      "kind": "nt",
+      "ref": "James 1:5",
+      "text": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 15:22",
+      "text": "Where there is no counsel, plans fail; but in a multitude of counselors they are established."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 18:13",
+      "text": "He who answers before he hears, that is folly and shame to him."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 11:14",
+      "text": "Where there is no wise guidance, the nation falls, but in the multitude of counselors there is victory."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 12:15",
+      "text": "The way of a fool is right in his own eyes, but he who is wise listens to counsel."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 19:20",
+      "text": "Listen to counsel and receive instruction, that you may be wise in your latter end."
+    }
+  ],
+  "topic": "counsel_and_uncertainty"
+}

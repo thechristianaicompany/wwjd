@@ -1,0 +1,46 @@
+{
+  "est_tokens": 412,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 16:10-12",
+      "text": "He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much. If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? If you have not been faithful in that which is another’s, who will give you that which is your own?"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "John 6:12",
+      "text": "When they were filled, he said to his disciples, “Gather up the broken pieces which are left over, that nothing be lost.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 25:20-23",
+      "text": "He who received the five talents came and brought another five talents, saying, ‘Lord, you delivered to me five talents. Behold, I have gained another five talents in addition to them.’ “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’ “He also who got the two talents came and said, ‘Lord, you delivered to me two talents. Behold, I have gained another two talents in addition to them.’ “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things. I will set you over many things. Enter into the joy of your lord.’"
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Corinthians 4:2",
+      "text": "Here, moreover, it is required of stewards that they be found faithful."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Peter 4:10",
+      "text": "As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms."
+    },
+    {
+      "kind": "ot",
+      "ref": "Genesis 2:15",
+      "text": "Yahweh God took the man, and put him into the garden of Eden to cultivate and keep it."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 27:23-24",
+      "text": "Know well the state of your flocks, and pay attention to your herds, for riches are not forever, nor does the crown endure to all generations."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 13:11",
+      "text": "Wealth gained dishonestly dwindles away, but he who gathers by hand makes it grow."
+    }
+  ],
+  "topic": "stewardship"
+}

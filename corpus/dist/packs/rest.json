@@ -1,0 +1,46 @@
+{
+  "est_tokens": 515,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 2:27-28",
+      "text": "He said to them, “The Sabbath was made for man, not man for the Sabbath. Therefore the Son of Man is lord even of the Sabbath.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 12:9-12",
+      "text": "He departed from there and went into their synagogue. And behold, there was a man with a withered hand. They asked him, “Is it lawful to heal on the Sabbath day?” so that they might accuse him. He said to them, “What man is there among you who has one sheep, and if this one falls into a pit on the Sabbath day, won’t he grab on to it and lift it out? Of how much more value then is a man than a sheep! Therefore it is lawful to do good on the Sabbath day.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 6:31",
+      "text": "He said to them, “Come away into a deserted place, and rest awhile.” For there were many coming and going, and they had no leisure so much as to eat."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 11:28-30",
+      "text": "“Come to me, all you who labor and are heavily burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 6:9",
+      "text": "Then Jesus said to them, “I will ask you something: Is it lawful on the Sabbath to do good, or to do harm? To save a life, or to kill?”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 20:8-11",
+      "text": "“Remember the Sabbath day, to keep it holy. You shall labor six days, and do all your work, but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates; for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy."
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 5:14",
+      "text": "but the seventh day is a Sabbath to Yahweh your God, in which you shall not do any work—neither you, nor your son, nor your daughter, nor your male servant, nor your female servant, nor your ox, nor your donkey, nor any of your livestock, nor your stranger who is within your gates; that your male servant and your female servant may rest as well as you."
+    },
+    {
+      "kind": "ot",
+      "ref": "Psalms 4:8",
+      "text": "In peace I will both lay myself down and sleep, for you alone, Yahweh, make me live in safety."
+    }
+  ],
+  "topic": "rest"
+}

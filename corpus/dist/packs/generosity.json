@@ -1,0 +1,46 @@
+{
+  "est_tokens": 567,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 6:1-4",
+      "text": "“Be careful that you don’t do your charitable giving before men, to be seen by them, or else you have no reward from your Father who is in heaven. Therefore, when you do merciful deeds, don’t sound a trumpet before yourself, as the hypocrites do in the synagogues and in the streets, that they may get glory from men. Most certainly I tell you, they have received their reward. But when you do merciful deeds, don’t let your left hand know what your right hand does, so that your merciful deeds may be in secret, then your Father who sees in secret will reward you openly."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 6:38",
+      "text": "“Give, and it will be given to you: good measure, pressed down, shaken together, and running over, will be given to you. For with the same measure you measure it will be measured back to you.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 14:12-14",
+      "text": "He also said to the one who had invited him, “When you make a dinner or a supper, don’t call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, or perhaps they might also return the favor, and pay you back. But when you make a feast, ask the poor, the maimed, the lame, or the blind; and you will be blessed, because they don’t have the resources to repay you. For you will be repaid in the resurrection of the righteous.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "2 Corinthians 9:6-7",
+      "text": "Remember this: he who sows sparingly will also reap sparingly. He who sows bountifully will also reap bountifully. Let each man give according as he has determined in his heart, not grudgingly or under compulsion, for God loves a cheerful giver."
+    },
+    {
+      "kind": "nt",
+      "ref": "Acts 20:35",
+      "text": "In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, ‘It is more blessed to give than to receive.’ ”"
+    },
+    {
+      "kind": "nt",
+      "ref": "1 John 3:17-18",
+      "text": "But whoever has the world’s goods and sees his brother in need, then closes his heart of compassion against him, how does God’s love remain in him? My little children, let’s not love in word only, or with the tongue only, but in deed and truth."
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 15:7-8",
+      "text": "If a poor man, one of your brothers, is with you within any of your gates in your land which Yahweh your God gives you, you shall not harden your heart, nor shut your hand from your poor brother; but you shall surely open your hand to him, and shall surely lend him sufficient for his need, which he lacks."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 19:17",
+      "text": "He who has pity on the poor lends to Yahweh; he will reward him."
+    }
+  ],
+  "topic": "generosity"
+}

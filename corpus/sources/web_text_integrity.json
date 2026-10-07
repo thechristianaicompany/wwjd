@@ -1,0 +1,22 @@
+{
+  "annotations_sha256": "c337d9b97b8cb67729ff28c2afb19cea617045baf5f5c04abe6d5c6c6163c0ac",
+  "catalog_sha256": "e1f830602fdd08556e5503cdf6750b6eec8359b752cf39822816c856fc7b8fae",
+  "edition": "official WEB Classic 2026-09-29",
+  "format": "ezra-web-text-integrity-v1",
+  "mode": "reviewed-corpus",
+  "note_only_refs": [
+    "Acts 15:34",
+    "Acts 24:7",
+    "Acts 8:37",
+    "Luke 17:36",
+    "Romans 16:25"
+  ],
+  "pericopes_sha256": "3667940917a53c65f12c790a182180840fca59e78a91255dc0b581fd4a90baef",
+  "reference_count": 31103,
+  "reference_set_sha256": "dfb74278b819cc41cf5b548fbcaf500b6fd6490db714bb67f4d90186ee2ad81d",
+  "seed_reference_count": 31103,
+  "seed_reference_set_sha256": "dfb74278b819cc41cf5b548fbcaf500b6fd6490db714bb67f4d90186ee2ad81d",
+  "sha256": "d2f6dfef902d61e3dd4fac8b0304b99da270f505d0b01b84940182d95028fc2a",
+  "topics_sha256": "d4df7026c67615dfd1875962f88c5e8527fe3c4ad9f59ce687b3b2a0374f86a9",
+  "upstream_manifest_sha256": "4e7d256551fca7cd5b5f272591296e18df4ba4696c63d6341b6d866c4b002c57"
+}

@@ -1,0 +1,41 @@
+{
+  "est_tokens": 795,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 5:38-48",
+      "text": "“You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’ But I tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also. If anyone sues you to take away your coat, let him have your cloak also. Whoever compels you to go one mile, go with him two. Give to him who asks you, and don’t turn away him who desires to borrow from you. “You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you, that you may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust. For if you love those who love you, what reward do you have? Don’t even the tax collectors do the same? If you only greet your friends, what more do you do than others? Don’t even the tax collectors do the same? Therefore you shall be perfect, just as your Father in heaven is perfect."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 6:27-36",
+      "text": "“But I tell you who hear: love your enemies, do good to those who hate you, bless those who curse you, and pray for those who mistreat you. To him who strikes you on the cheek, offer also the other; and from him who takes away your cloak, don’t withhold your coat also. Give to everyone who asks you, and don’t ask him who takes away your goods to give them back again. “As you would like people to do to you, do exactly so to them. “If you love those who love you, what credit is that to you? For even sinners love those who love them. If you do good to those who do good to you, what credit is that to you? For even sinners do the same. If you lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners, to receive back as much. But love your enemies, and do good, and lend, expecting nothing back; and your reward will be great, and you will be children of the Most High; for he is kind toward the unthankful and evil. “Therefore be merciful, even as your Father is also merciful."
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 12:17-21",
+      "text": "Repay no one evil for evil. Respect what is honorable in the sight of all men. If it is possible, as much as it is up to you, be at peace with all men. Don’t seek revenge yourselves, beloved, but give place to God’s wrath. For it is written, “Vengeance belongs to me; I will repay, says the Lord.” Therefore “If your enemy is hungry, feed him. If he is thirsty, give him a drink; for in doing so, you will heap coals of fire on his head.” Don’t be overcome by evil, but overcome evil with good."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Peter 3:9",
+      "text": "not rendering evil for evil or insult for insult; but instead blessing, knowing that you were called to this, that you may inherit a blessing."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 24:17-18",
+      "text": "Don’t rejoice when your enemy falls. Don’t let your heart be glad when he is overthrown, lest Yahweh see it, and it displease him, and he turn away his wrath from him."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 25:21-22",
+      "text": "If your enemy is hungry, give him food to eat. If he is thirsty, give him water to drink; for you will heap coals of fire on his head, and Yahweh will reward you."
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 23:4",
+      "text": "“If you meet your enemy’s ox or his donkey going astray, you shall surely bring it back to him again."
+    }
+  ],
+  "topic": "enemies_and_retaliation"
+}

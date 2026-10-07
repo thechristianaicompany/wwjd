@@ -1,0 +1,46 @@
+{
+  "est_tokens": 453,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 23:23",
+      "text": "“Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cumin, and have left undone the weightier matters of the law: justice, mercy, and faith. But you ought to have done these, and not to have left the other undone."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 18:1-8",
+      "text": "He also spoke a parable to them that they must always pray and not give up, saying, “There was a judge in a certain city who didn’t fear God and didn’t respect man. A widow was in that city, and she often came to him, saying, ‘Defend me from my adversary!’ He wouldn’t for a while; but afterward he said to himself, ‘Though I neither fear God nor respect man, yet because this widow bothers me, I will defend her, or else she will wear me out by her continual coming.’” The Lord said, “Listen to what the unrighteous judge says. Won’t God avenge his chosen ones who are crying out to him day and night, and yet he exercises patience with them? I tell you that he will avenge them quickly. Nevertheless, when the Son of Man comes, will he find faith on the earth?”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Micah 6:8",
+      "text": "He has shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?"
+    },
+    {
+      "kind": "ot",
+      "ref": "Isaiah 1:17",
+      "text": "Learn to do well. Seek justice. Relieve the oppressed. Defend the fatherless. Plead for the widow.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 31:8-9",
+      "text": "Open your mouth for the mute, in the cause of all who are left desolate. Open your mouth, judge righteously, and serve justice to the poor and needy.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Amos 5:24",
+      "text": "But let justice roll on like rivers, and righteousness like a mighty stream."
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 16:19",
+      "text": "You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous."
+    },
+    {
+      "kind": "ot",
+      "ref": "Psalms 82:3-4",
+      "text": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed. Rescue the weak and needy. Deliver them out of the hand of the wicked.”"
+    }
+  ],
+  "topic": "justice"
+}

@@ -1,0 +1,16 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "allowImportingTsExtensions": true,
+    "types": [
+      "node"
+    ],
+    "noEmit": true,
+    "allowJs": true,
+    "module": "ESNext"
+  },
+  "include": [
+    "src/index.ts",
+    "test/**/*.ts"
+  ]
+}

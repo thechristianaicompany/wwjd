@@ -1,0 +1,16 @@
+{
+  "name": "@wwjd/corpus",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "AGPL-3.0",
+  "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js" } },
+  "files": ["dist", "sources", "curation", "src", "README.md"],
+  "scripts": {
+    "build": "node src/build.mjs",
+    "fixture": "node src/build.mjs --fixture",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": { "@types/node": "22.19.15", "esbuild": "0.25.12", "typescript": "5.9.3", "vitest": "3.2.4" }
+}

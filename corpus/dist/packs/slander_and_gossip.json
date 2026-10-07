@@ -1,0 +1,46 @@
+{
+  "est_tokens": 424,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 12:36-37",
+      "text": "I tell you that every idle word that men speak, they will give account of it in the day of judgment. For by your words you will be justified, and by your words you will be condemned.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 15:18-20",
+      "text": "But the things which proceed out of the mouth come out of the heart, and they defile the man. For out of the heart come evil thoughts, murders, adulteries, sexual sins, thefts, false testimony, and blasphemies. These are the things which defile the man; but to eat with unwashed hands doesn’t defile the man.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "Ephesians 4:29",
+      "text": "Let no corrupt speech proceed out of your mouth, but only what is good for building others up as the need may be, that it may give grace to those who hear."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 3:5-10",
+      "text": "So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest! And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna. For every kind of animal, bird, creeping thing, and sea creature is tamed, and has been tamed by mankind; but nobody can tame the tongue. It is a restless evil, full of deadly poison. With it we bless our God and Father, and with it we curse men who are made in the image of God. Out of the same mouth comes blessing and cursing. My brothers, these things ought not to be so."
+    },
+    {
+      "kind": "ot",
+      "ref": "Leviticus 19:16",
+      "text": "“‘You shall not go around as a slanderer among your people. “‘You shall not endanger the life of your neighbor. I am Yahweh."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 16:28",
+      "text": "A perverse man stirs up strife. A whisperer separates close friends."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 11:13",
+      "text": "One who brings gossip betrays a confidence, but one who is of a trustworthy spirit is one who keeps a secret."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 26:20",
+      "text": "For lack of wood a fire goes out. Without gossip, a quarrel dies down."
+    }
+  ],
+  "topic": "slander_and_gossip"
+}

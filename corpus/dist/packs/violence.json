@@ -1,0 +1,46 @@
+{
+  "est_tokens": 412,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 5:21-22",
+      "text": "“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’ But I tell you that everyone who is angry with his brother without a cause will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 26:52",
+      "text": "Then Jesus said to him, “Put your sword back into its place, for all those who take the sword will die by the sword."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 9:54-56",
+      "text": "When his disciples, James and John, saw this, they said, “Lord, do you want us to command fire to come down from the sky and destroy them, just as Elijah did?” But he turned and rebuked them, “You don’t know of what kind of spirit you are. For the Son of Man didn’t come to destroy men’s lives, but to save them.” They went to another village."
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 12:17-21",
+      "text": "Repay no one evil for evil. Respect what is honorable in the sight of all men. If it is possible, as much as it is up to you, be at peace with all men. Don’t seek revenge yourselves, beloved, but give place to God’s wrath. For it is written, “Vengeance belongs to me; I will repay, says the Lord.” Therefore “If your enemy is hungry, feed him. If he is thirsty, give him a drink; for in doing so, you will heap coals of fire on his head.” Don’t be overcome by evil, but overcome evil with good."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 1:19-20",
+      "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; for the anger of man doesn’t produce the righteousness of God."
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 20:13",
+      "text": "“You shall not murder."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 15:1",
+      "text": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+    },
+    {
+      "kind": "ot",
+      "ref": "Psalms 34:14",
+      "text": "Depart from evil, and do good. Seek peace, and pursue it."
+    }
+  ],
+  "topic": "violence"
+}

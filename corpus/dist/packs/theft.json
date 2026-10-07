@@ -1,0 +1,46 @@
+{
+  "est_tokens": 294,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 10:19",
+      "text": "You know the commandments: ‘Do not murder,’ ‘Do not commit adultery,’ ‘Do not steal,’ ‘Do not give false testimony,’ ‘Do not defraud,’ ‘Honor your father and mother.’”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 19:8-10",
+      "text": "Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.” Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham. For the Son of Man came to seek and to save that which was lost.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "Ephesians 4:28",
+      "text": "Let him who stole steal no more; but rather let him labor, producing with his hands something that is good, that he may have something to give to him who has need."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 5:4",
+      "text": "Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out; and the cries of those who reaped have entered into the ears of the Lord of Armies."
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 20:15",
+      "text": "“You shall not steal."
+    },
+    {
+      "kind": "ot",
+      "ref": "Leviticus 19:11",
+      "text": "“‘You shall not steal. “‘You shall not lie. “‘You shall not deceive one another."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 11:1",
+      "text": "A false balance is an abomination to Yahweh, but accurate weights are his delight."
+    },
+    {
+      "kind": "ot",
+      "ref": "Leviticus 19:13",
+      "text": "“‘You shall not oppress your neighbor, nor rob him. “‘The wages of a hired servant shall not remain with you all night until the morning."
+    }
+  ],
+  "topic": "theft"
+}

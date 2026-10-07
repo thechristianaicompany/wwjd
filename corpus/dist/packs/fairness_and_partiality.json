@@ -1,0 +1,46 @@
+{
+  "est_tokens": 575,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "John 7:24",
+      "text": "Don’t judge according to appearance, but judge righteous judgment.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 14:12-14",
+      "text": "He also said to the one who had invited him, “When you make a dinner or a supper, don’t call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, or perhaps they might also return the favor, and pay you back. But when you make a feast, ask the poor, the maimed, the lame, or the blind; and you will be blessed, because they don’t have the resources to repay you. For you will be repaid in the resurrection of the righteous.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "James 2:1-9",
+      "text": "My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality. For if a man with a gold ring, in fine clothing, comes into your synagogue, and a poor man in filthy clothing also comes in, and you pay special attention to him who wears the fine clothing and say, “Sit here in a good place;” and you tell the poor man, “Stand there,” or “Sit by my footstool” haven’t you shown partiality among yourselves, and become judges with evil thoughts? Listen, my beloved brothers. Didn’t God choose those who are poor in this world to be rich in faith and heirs of the Kingdom which he promised to those who love him? But you have dishonored the poor man. Don’t the rich oppress you and personally drag you before the courts? Don’t they blaspheme the honorable name by which you are called? However, if you fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,” you do well. But if you show partiality, you commit sin, being convicted by the law as transgressors."
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 2:11",
+      "text": "For there is no partiality with God."
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Timothy 5:21",
+      "text": "I command you in the sight of God, and the Lord Jesus Christ, and the chosen angels, that you observe these things without prejudice, doing nothing by partiality."
+    },
+    {
+      "kind": "ot",
+      "ref": "Leviticus 19:15",
+      "text": "“‘You shall do no injustice in judgment. You shall not be partial to the poor, nor show favoritism to the great; but you shall judge your neighbor in righteousness."
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 16:19",
+      "text": "You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous."
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 1:17",
+      "text": "You shall not show partiality in judgment; you shall hear the small and the great alike. You shall not be afraid of the face of man, for the judgment is God’s. The case that is too hard for you, you shall bring to me, and I will hear it.”"
+    }
+  ],
+  "topic": "fairness_and_partiality"
+}

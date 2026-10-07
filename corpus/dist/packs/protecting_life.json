@@ -1,0 +1,46 @@
+{
+  "est_tokens": 417,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 3:4",
+      "text": "He said to them, “Is it lawful on the Sabbath day to do good or to do harm? To save a life or to kill?” But they were silent."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 10:33-37",
+      "text": "But a certain Samaritan, as he traveled, came where he was. When he saw him, he was moved with compassion, came to him, and bound up his wounds, pouring on oil and wine. He set him on his own animal, brought him to an inn, and took care of him. On the next day, when he departed, he took out two denarii, gave them to the host, and said to him, ‘Take care of him. Whatever you spend beyond that, I will repay you when I return.’ Now which of these three do you think seemed to be a neighbor to him who fell among the robbers?” He said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "James 2:15-16",
+      "text": "And if a brother or sister is naked and in lack of daily food, and one of you tells them, “Go in peace. Be warmed and filled;” yet you didn’t give them the things the body needs, what good is it?"
+    },
+    {
+      "kind": "ot",
+      "ref": "Exodus 20:13",
+      "text": "“You shall not murder."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 24:11-12",
+      "text": "Rescue those who are being led away to death! Indeed, hold back those who are staggering to the slaughter! If you say, “Behold, we didn’t know this,” doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it? Shall he not give to every man according to his work?"
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 22:8",
+      "text": "When you build a new house, then you shall make a railing around your roof, so that you don’t bring blood on your house if anyone falls from there."
+    },
+    {
+      "kind": "ot",
+      "ref": "Psalms 82:3-4",
+      "text": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed. Rescue the weak and needy. Deliver them out of the hand of the wicked.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Isaiah 1:17",
+      "text": "Learn to do well. Seek justice. Relieve the oppressed. Defend the fatherless. Plead for the widow.”"
+    }
+  ],
+  "topic": "protecting_life"
+}

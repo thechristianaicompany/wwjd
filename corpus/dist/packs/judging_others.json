@@ -1,0 +1,46 @@
+{
+  "est_tokens": 627,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 7:1-5",
+      "text": "“Don’t judge, so that you won’t be judged. For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you. Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye? Or how will you tell your brother, ‘Let me remove the speck from your eye,’ and behold, the beam is in your own eye? You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "John 7:24",
+      "text": "Don’t judge according to appearance, but judge righteous judgment.”"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Luke 18:9-14",
+      "text": "He also spoke this parable to certain people who were convinced of their own righteousness, and who despised all others: “Two men went up into the temple to pray; one was a Pharisee, and the other was a tax collector. The Pharisee stood and prayed by himself like this: ‘God, I thank you that I am not like the rest of men: extortionists, unrighteous, adulterers, or even like this tax collector. I fast twice a week. I give tithes of all that I get.’ But the tax collector, standing far away, wouldn’t even lift up his eyes to heaven, but beat his chest, saying, ‘God, be merciful to me, a sinner!’ I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but he who humbles himself will be exalted.”"
+    },
+    {
+      "kind": "nt",
+      "ref": "James 4:11-12",
+      "text": "Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge. Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?"
+    },
+    {
+      "kind": "nt",
+      "ref": "1 Corinthians 4:5",
+      "text": "Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness and reveal the counsels of the hearts. Then each man will get his praise from God."
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 14:10-13",
+      "text": "But you, why do you judge your brother? Or you again, why do you despise your brother? For we will all stand before the judgment seat of Christ. For it is written, “‘As I live,’ says the Lord, ‘to me every knee will bow. Every tongue will confess to God.’” So then each one of us will give account of himself to God. Therefore let’s not judge one another any more, but judge this rather, that no man put a stumbling block in his brother’s way, or an occasion for falling."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 2:13",
+      "text": "For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 18:13",
+      "text": "He who answers before he hears, that is folly and shame to him."
+    }
+  ],
+  "topic": "judging_others"
+}

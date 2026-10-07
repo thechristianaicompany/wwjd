@@ -1,0 +1,44 @@
+{
+  "build_version": 1,
+  "corpus_version": "c2-mini",
+  "counts": {
+    "commandments": 10,
+    "source_pericopes": 709,
+    "source_topics": 386,
+    "source_verses": 31103,
+    "teachings": 8,
+    "topics": 6,
+    "verses": 320
+  },
+  "output_hashes": {
+    "catalog.html": "65e08ae5a67b6d6e0dce908d02a60a2b936f748ab93dbf759f628cd72d9e1f6a",
+    "chapters.json": "1801f211bf907e4b0800c252aa482736ba1834c678f249299521cc0b89fe1b74",
+    "directives.json": "d70c779fb7c4adca1837bbe72d5d450cdf6f7b26f750437548571afde0d52c24",
+    "packs.json": "9cb23c25a2d25af0c52a82e94ac1569ac211c78084b2c0608bb5cdb16ade8e46",
+    "packs/honesty.json": "0663f5a7b2f097dd3ad54d39af6a169f7a93145f3d3c19fa12fbc623b9829395",
+    "packs/love_of_neighbor.json": "977baee0bb27f5540aa8bbb8a1d7a7fc9581efcf8697757902bf3585deb83605",
+    "packs/permission_and_authority.json": "719cac106bfab39b08d055f4f676af7bcb185a858f4a9b8289bbf0b0515a8f9c",
+    "packs/protecting_life.json": "a1a5bdc4d1db92da18fe9864ed58d6a2678e5bf3a2f1c3606f2531c6e95e60e9",
+    "packs/stewardship.json": "99a5376b301741567df4ce0de1cb5dabbe86f04d24f68ce93d6d43750bef36f1",
+    "packs/theft.json": "bd17080c8a55893572b59d046ade25d7d39fcba67ee7d02eb3ca7573b3463d3c",
+    "taxonomy.json": "19d3ad27c4b94bfc69dbc97d187161892dcacd0091c89abbb3cf08874daf4334",
+    "teachings.json": "8003342bc434ca36bc3129cc43ea480689d603e6f2b01e78540fa764a00069d0",
+    "teachings_text.json": "77c2946a8183a6d737de61d0d03ba258b0dea238df31c726279d2d94fa18cd78",
+    "web.json": "cd2998a123351652235f4b6fb5896b9105db287afa7a3cb499ea78e57b2995a3"
+  },
+  "referenced_only": true,
+  "source_hashes": {
+    "bible_pericopes.json": "3667940917a53c65f12c790a182180840fca59e78a91255dc0b581fd4a90baef",
+    "bible_topics.json": "d4df7026c67615dfd1875962f88c5e8527fe3c4ad9f59ce687b3b2a0374f86a9",
+    "web_text.json": "d2f6dfef902d61e3dd4fac8b0304b99da270f505d0b01b84940182d95028fc2a",
+    "web_text_integrity.json": "5a1485ca8afd34a958f51ecca2bb3a977684de9f9d24573253f494a26b6e3701"
+  },
+  "topic_est_tokens": {
+    "honesty": 273,
+    "love_of_neighbor": 486,
+    "permission_and_authority": 592,
+    "protecting_life": 417,
+    "stewardship": 412,
+    "theft": 294
+  }
+}

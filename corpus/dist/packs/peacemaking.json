@@ -1,0 +1,46 @@
+{
+  "est_tokens": 339,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 5:9",
+      "text": "Blessed are the peacemakers, for they shall be called children of God."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 5:23-24",
+      "text": "“If therefore you are offering your gift at the altar, and there remember that your brother has anything against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 18:15-17",
+      "text": "“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector."
+    },
+    {
+      "kind": "nt",
+      "ref": "Romans 12:18",
+      "text": "If it is possible, as much as it is up to you, be at peace with all men."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 3:17-18",
+      "text": "But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy. Now the fruit of righteousness is sown in peace by those who make peace."
+    },
+    {
+      "kind": "nt",
+      "ref": "Ephesians 4:2-3",
+      "text": "with all lowliness and humility, with patience, bearing with one another in love, being eager to keep the unity of the Spirit in the bond of peace."
+    },
+    {
+      "kind": "nt",
+      "ref": "Hebrews 12:14",
+      "text": "Follow after peace with all men, and the sanctification without which no man will see the Lord,"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 15:1",
+      "text": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+    }
+  ],
+  "topic": "peacemaking"
+}

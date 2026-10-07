@@ -1,0 +1,46 @@
+{
+  "est_tokens": 484,
+  "passages": [
+    {
+      "kind": "jesus_teaching",
+      "ref": "Matthew 25:35-40",
+      "text": "for I was hungry and you gave me food to eat. I was thirsty and you gave me drink. I was a stranger and you took me in. I was naked and you clothed me. I was sick and you visited me. I was in prison and you came to me.’ “Then the righteous will answer him, saying, ‘Lord, when did we see you hungry and feed you, or thirsty and give you a drink? When did we see you as a stranger and take you in, or naked and clothe you? When did we see you sick or in prison and come to you?’ “The King will answer them, ‘Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me.’"
+    },
+    {
+      "kind": "jesus_teaching",
+      "ref": "Mark 10:13-16",
+      "text": "They were bringing to him little children, that he should touch them, but the disciples rebuked those who were bringing them. But when Jesus saw it, he was moved with indignation and said to them, “Allow the little children to come to me! Don’t forbid them, for God’s Kingdom belongs to such as these. Most certainly I tell you, whoever will not receive God’s Kingdom like a little child, he will in no way enter into it.” He took them in his arms and blessed them, laying his hands on them."
+    },
+    {
+      "kind": "nt",
+      "ref": "James 1:27",
+      "text": "Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world."
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 31:8-9",
+      "text": "Open your mouth for the mute, in the cause of all who are left desolate. Open your mouth, judge righteously, and serve justice to the poor and needy.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Deuteronomy 10:18-19",
+      "text": "He executes justice for the fatherless and widow and loves the foreigner in giving him food and clothing. Therefore love the foreigner, for you were foreigners in the land of Egypt."
+    },
+    {
+      "kind": "ot",
+      "ref": "Psalms 82:3-4",
+      "text": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed. Rescue the weak and needy. Deliver them out of the hand of the wicked.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Isaiah 1:17",
+      "text": "Learn to do well. Seek justice. Relieve the oppressed. Defend the fatherless. Plead for the widow.”"
+    },
+    {
+      "kind": "ot",
+      "ref": "Proverbs 19:17",
+      "text": "He who has pity on the poor lends to Yahweh; he will reward him."
+    }
+  ],
+  "topic": "care_for_vulnerable"
+}

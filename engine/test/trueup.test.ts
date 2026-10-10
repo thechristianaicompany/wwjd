@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import fixture from './fixtures/smoke.json' with { type: 'json' };
-import { createReplayClient, decide, ENGINE_VERSION, estimateTokens } from '../src/index.ts';
+import { createReplayClient, decide, ENGINE_VERSION, estimateTokens, PROMPT_SETS } from '../src/index.ts';
 import type { ReplayEntry } from '../src/replay.ts';
 import type { DecideInput, DecisionsClient } from '../src/types.ts';
 
@@ -24,7 +24,8 @@ function contextInput(tokens: number, action = 'Review the supplied text.'): Dec
 
 describe('Stage B caller-token true-up', () => {
   it.each(fixture.cases)('removes engine overhead from recorded c2 usage: $id', async (entry) => {
-    const { trace } = await decide(entry.input, { decisionsClient: createReplayClient(entry.recordings as ReplayEntry[]) });
+    // These usage figures were recorded under p1, so the overhead estimate must use the same prompt set.
+    const { trace } = await decide(entry.input, { decisionsClient: createReplayClient(entry.recordings as ReplayEntry[]), promptSet: PROMPT_SETS.p1 });
     const callerTokens = trace.stage_b.usage.input_tokens - trace.stage_b.est_non_caller_tokens;
     const callerEstimate = estimateTokens(entry.input.action);
     expect(Math.abs(callerTokens - callerEstimate)).toBeLessThanOrEqual(1_000);

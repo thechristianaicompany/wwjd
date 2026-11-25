@@ -57,28 +57,67 @@ export async function solvePow(challenge, difficulty) {
   }
 }
 
-// Bounded prefix patterns plus one character pass: no nested or unbounded backtracking.
+// Known credential prefixes. Every quantifier is bounded, so no pattern can backtrack quadratically.
+const SECRET_PREFIXES = [
+  [/-----BEGIN [A-Z0-9 ]{0,40}PRIVATE KEY-----/, 'a private key block'],
+  [/\bsk-[A-Za-z0-9_-]{16}/, 'an API key'],
+  [/\b[sr]k_(?:live|test)_[A-Za-z0-9]{16}/, 'a Stripe key'],
+  [/\bwhsec_[A-Za-z0-9]{16}/, 'a webhook signing secret'],
+  [/\b(?:gh[opsur]_[A-Za-z0-9]{20}|github_pat_[A-Za-z0-9_]{20})/, 'a GitHub token'],
+  [/\bglpat-[A-Za-z0-9_-]{20}/, 'a GitLab token'],
+  [/\bhf_[A-Za-z0-9]{30}/, 'a Hugging Face token'],
+  [/\bxox[abposr]-[A-Za-z0-9-]{10}/, 'a Slack token'],
+  [/\bAIza[A-Za-z0-9_-]{35}/, 'a Google API key'],
+  [/\b(?:AKIA|ASIA)[A-Z0-9]{16}/, 'an AWS access key'],
+  [/\bwwjd_[A-Za-z0-9]{20}/, 'a WWJD key'],
+  [/\bBearer\s{1,3}[A-Za-z0-9._~+/=-]{20}/i, 'a bearer token'],
+  // A secret-named setting assigned a literal value: API_KEY=..., "password": "...", client_secret: ...
+  [/(?:secret|token|passw(?:or)?d|pwd|api[_-]?key|access[_-]?key|private[_-]?key)(?:[_-]?(?:key|token|secret|access[_-]?key))?["']?\s{0,3}[:=]\s{0,3}["']?[A-Za-z0-9+/=_.~-]{12}/i, 'a credential assignment'],
+];
+const HEX_DIGEST_LABEL = /sha-?(?:256|512)[:=\s-]$/i;
+
+// Prefix patterns plus one linear character pass. Commit IDs and file paths are ordinary action text:
+// a 40-character hex word (a git commit ID), a labelled sha256/sha512 digest, and long paths or
+// identifiers made of words pass. Hex words of 41+ characters, random-looking tokens of 32+ characters
+// (upper, lower and digits interleaved) and encoded blobs of 200+ characters are refused.
 export function secretShape(text) {
-  if (/-----BEGIN [A-Z0-9 ]{0,40}PRIVATE KEY-----/.test(text)) return 'a private key block';
-  if (/\bsk-[A-Za-z0-9_-]{16}/.test(text)) return 'an API key';
-  if (/\bghp_[A-Za-z0-9]{20}/.test(text)) return 'a GitHub token';
-  if (/\bAKIA[A-Z0-9]{16}/.test(text)) return 'an AWS access key';
-  if (/\bwwjd_[A-Za-z0-9]{20}/.test(text)) return 'a WWJD key';
-  let length = 0, hex = true;
-  const suspicious = () => length >= 40 && hex ? 'a long hexadecimal token'
-    : length >= 64 ? 'a long base64-shaped token' : null;
+  for (const [pattern, label] of SECRET_PREFIXES) if (pattern.test(text)) return label;
+  let run = 0, upper = false, lower = false, digits = false, switches = 0, previous = 0;
+  let word = 0, wordStart = 0, hex = true;
+  const endWord = () => {
+    if (!hex || word < 40) return null;
+    if (word === 40) return null;
+    if (word === 64 || word === 128) {
+      const before = text.slice(Math.max(0, wordStart - 8), wordStart);
+      if (HEX_DIGEST_LABEL.test(before)) return null;
+    }
+    return 'a long hexadecimal token';
+  };
+  const endRun = () => run >= 200 ? 'a long encoded blob'
+    : run >= 32 && upper && lower && digits && switches * 6 >= run ? 'a long random-looking token' : null;
   for (let i = 0; i <= text.length; i++) {
     const c = text.charCodeAt(i);
-    const alpha = c >= 65 && c <= 90 || c >= 97 && c <= 122;
-    const digit = c >= 48 && c <= 57;
+    const isUpper = c >= 65 && c <= 90, isLower = c >= 97 && c <= 122, isDigit = c >= 48 && c <= 57;
+    const alnum = isUpper || isLower || isDigit;
     const symbol = c === 43 || c === 47 || c === 61 || c === 95 || c === 45;
-    if (alpha || digit || symbol) {
-      length++;
-      hex &&= digit || c >= 65 && c <= 70 || c >= 97 && c <= 102;
+    if (alnum) {
+      if (word === 0) { wordStart = i; hex = true; }
+      word++;
+      hex &&= isDigit || c >= 65 && c <= 70 || c >= 97 && c <= 102;
+      const kind = isDigit ? 1 : 2;
+      if (previous && previous !== kind) switches++;
+      previous = kind;
+      upper ||= isUpper; lower ||= isLower; digits ||= isDigit;
     } else {
-      const found = suspicious();
+      const found = word ? endWord() : null;
       if (found) return found;
-      length = 0; hex = true;
+      word = 0; previous = 0;
+    }
+    if (alnum || symbol) run++;
+    else {
+      const found = endRun();
+      if (found) return found;
+      run = 0; upper = lower = digits = false; switches = 0;
     }
   }
   return null;
